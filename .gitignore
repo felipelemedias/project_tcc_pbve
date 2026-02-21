@@ -1,0 +1,16 @@
+venv/
+env/
+.env
+
+*.xlsx
+*.csv
+data/processed/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode/
+
+Thumbs.db
+desktop.ini
