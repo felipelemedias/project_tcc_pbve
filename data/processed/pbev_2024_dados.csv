@@ -1,0 +1,1183 @@
+﻿Categoria,Marca,Modelo,Versão,Motor,Tipo de Propulsão (Combustão / Híbrido / Plug-in / Elétrico),Transmissão e Velocidades (Manual=M / Automática=A / Dupla Embreagem=DCT / Automatizada=MTA / Contínua=CVT),Ar Condicionado (S=Sim / N=Não),Direção Assistida (H=Hidráulica / M=Mecânica / E=Elétrica / E-H=Eletro-hidráulica),Combustível (E=Elétrico / G=Gasolina / F=Flex / D=Diesel),Emissões Poluentes - NMOG+NOx (mg/km),Emissões Poluentes - CO (mg/km),Emissões Poluentes - CHO Aldeídos (mg/km),Emissões Poluentes - Redução Relativa ao Limite (A=≥40% abaixo PROCONVE L7 / B=<40%),Emissões GEE - CO2 Fóssil Etanol (g/km),Emissões GEE - CO2 Fóssil Gasolina ou Diesel (g/km),Emissões GEE - CO2e Fóssil VEHP Plug-in (g/km),Consumo Etanol - Cidade (km/l),Consumo Etanol - Estrada (km/l),Consumo Gasolina ou Diesel - Cidade (km/l),Consumo Gasolina ou Diesel - Estrada (km/l),Consumo Elétrico - Cidade (km/le),Consumo Elétrico - Estrada (km/le),Consumo Energético (MJ/km),Autonomia Modo Elétrico (km),Classificação PBE - Relativa na Categoria (A=Mais Eficiente / B / C / D / E=Menos Eficiente),Classificação PBE - Absoluta Geral (A=Mais Eficiente / B / C / D / E=Menos Eficiente),Selo CONPET de Eficiência Energética (SIM / NÃO),Transmissão - Tipo,Transmissão - Nº Velocidades,Combustível - Descrição,Consumo Gasolina ou Diesel - Combinado (km/l),Consumo Etanol - Combinado (km/l),Consumo Elétrico - Combinado (km/le),Faixa CO2 Gasolina/Diesel (g/km),Zero Emissão (Elétrico Puro),Eletrificado (Elétrico/Híbrido/Plug-in)
+Comercial,BYD,ET3,---,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.7,26.3,0.71,170.0,A,A,NÃO,,,Elétrico,,,28.72,0-50,True,True
+Comercial,CHEV,ONIX,10MT LOG (MY25),1.0 - 12 V,Combustão,M-6,S,E,F,43.0,338.0,4.0,B,0.0,90.0,,9.3,11.4,13.3,16.5,,,1.46,,A,B,SIM,M,6.0,Flex,14.74,10.24,,51-100,False,False
+Comercial,CHEV,ONIX,10MT LOG (MY25.5),1.0 - 12 V,Combustão,M-6,S,E,F,34.0,137.0,3.0,B,0.0,87.0,,9.6,11.9,13.8,16.9,,,1.41,,A,B,SIM,M,6.0,Flex,15.2,10.64,,51-100,False,False
+Comercial,CITROEN,E-JUMPY,CARGO,Elétrico,Elétrico,A-1,S,E-H,E,,,,A,,0.0,,,,,,34.4,24.6,0.7,289.0,A,A,NÃO,A,1.0,Elétrico,,,29.99,0-50,True,True
+Comercial,CITROEN,JUMPER,CARGOL2,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,CITROEN,JUMPER,CARGOL2 (MY25),2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,CITROEN,JUMPER,CARGOPK,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,CITROEN,JUMPER,CARGOPK (MY25),2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,CITROEN,JUMPER,FURG PK,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,CITROEN,JUMPER,FURG PK (MY25),2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,CITROEN,JUMPER,MB16,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,CITROEN,JUMPER,MB16,2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,CITROEN,JUMPER,MB17,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,CITROEN,JUMPER,MB17,2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,CITROEN,JUMPER,MB19,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,CITROEN,JUMPER,MB19,2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,CITROEN,JUMPER,MB20,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,CITROEN,JUMPER,VITRE,2.2 T,Combustão,M-6,S,H,D,16.0,18.0,,A,,201.0,,,,10.0,9.8,,,2.71,,B,E,NÃO,M,6.0,Diesel,9.91,,,201-250,False,False
+Comercial,CITROEN,JUMPER,VITRE (MY25),2.2 T,Combustão,M-6,S,H,D,30.0,33.0,,A,,194.0,,,,10.3,10.3,,,2.61,,B,D,NÃO,M,6.0,Diesel,10.3,,,151-200,False,False
+Comercial,CITROEN,JUMPY,CARGO,1.5 T,Combustão,M-6,S,E,D,48.0,52.0,,A,,165.0,,,,11.9,11.9,,,2.24,,A,D,NÃO,M,6.0,Diesel,11.9,,,151-200,False,False
+Comercial,CITROEN,JUMPY,CARGO (MY24),1.5 T,Combustão,M-6,S,E-H,D,24.0,35.0,,A,,161.0,,,,12.4,11.9,,,2.17,,A,D,NÃO,M,6.0,Diesel,12.18,,,151-200,False,False
+Comercial,CITROEN,JUMPY,VITRE,1.5 T,Combustão,M-6,S,E,D,48.0,52.0,,A,,165.0,,,,11.9,11.9,,,2.24,,A,D,NÃO,M,6.0,Diesel,11.9,,,151-200,False,False
+Comercial,FIAT,DUCATO,CARGO,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,FIAT,DUCATO,CARGO11.5M,2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,FIAT,DUCATO,MAXICARGO,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,FIAT,DUCATO,MB COMF-19,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,FIAT,DUCATO,MB COMF-19 (MY25),2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,FIAT,DUCATO,MB EXEC-17,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,FIAT,DUCATO,MB EXEC-17 (MY25),2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,FIAT,DUCATO,MB LUXO 16 (MY25),2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,FIAT,DUCATO,MULTI 13M,2.2 T,Combustão,M-6,S,H,D,16.0,18.0,,A,,201.0,,,,10.0,9.8,,,2.71,,B,E,NÃO,M,6.0,Diesel,9.91,,,201-250,False,False
+Comercial,FIAT,DUCATO,MULTI 13M,2.2 T,Combustão,M-6,S,H,D,30.0,33.0,,A,,194.0,,,,10.3,10.3,,,2.61,,B,D,NÃO,M,6.0,Diesel,10.3,,,151-200,False,False
+Comercial,FIAT,DUCATO,MXCARGO13M,2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,FIAT,E-SCUDO,CARGO,Elétrico,Elétrico,A-1,S,E-H,E,,,,A,,,,,,,,34.4,24.6,0.7,289.0,A,A,NÃO,A,1.0,Elétrico,,,29.99,,True,True
+Comercial,FIAT,FIORINO,ENDURANCE,1.4-8V,Combustão,M-5,S,H,F,46.0,240.0,2.0,B,0.0,110.0,,8.1,8.4,11.7,12.4,,,1.81,,A,C,NÃO,M,5.0,Flex,12.02,8.24,,101-150,False,False
+Comercial,FIAT,FIORINO,ENDURANCE (MY25),1.4-8V,Combustão,M-5,S,H,F,36.0,333.0,2.0,B,0.0,115.0,,7.7,8.6,11.1,12.3,,,1.87,,A,C,NÃO,M,5.0,Flex,11.64,8.1,,101-150,False,False
+Comercial,FIAT,SCUDO,CARGO TD,1.5-16V T,Combustão,M-6,S,E-H,D,24.0,35.0,,A,,161.0,,,,12.4,11.9,,,2.17,,A,D,NÃO,M,6.0,Diesel,12.18,,,151-200,False,False
+Comercial,FIAT,SCUDO,CARGO TD (MY 24),1.5 T,Combustão,M-6,S,E,D,48.0,52.0,,A,,165.0,,,,11.9,11.9,,,2.24,,A,D,NÃO,M,6.0,Diesel,11.9,,,151-200,False,False
+Comercial,FIAT,SCUDO,MULTI TD,1.5-16V T,Combustão,M-6,S,E-H,D,24.0,35.0,,A,,161.0,,,,12.4,11.9,,,2.17,,A,D,NÃO,M,6.0,Diesel,12.18,,,151-200,False,False
+Comercial,FIAT,SCUDO,MULTI TD (MY 24),1.5 T,Combustão,M-6,S,E,D,48.0,52.0,,A,,165.0,,,,11.9,11.9,,,2.24,,A,D,NÃO,M,6.0,Diesel,11.9,,,151-200,False,False
+Comercial,FORD,E-Transit,C35 EBAB,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,22.5,16.9,1.04,193.0,A,B,NÃO,A,1.0,Elétrico,,,19.98,0-50,True,True
+Comercial,FORD,E-Transit,C35 LBAB,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,22.5,16.9,1.04,193.0,A,B,NÃO,A,1.0,Elétrico,,,19.98,0-50,True,True
+Comercial,FORD,E-Transit,F35 EAAB,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,22.5,16.9,1.04,193.0,A,B,NÃO,A,1.0,Elétrico,,,19.98,0-50,True,True
+Comercial,FORD,E-Transit,F35 LAAB,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,22.5,16.9,1.04,193.0,A,B,NÃO,A,1.0,Elétrico,,,19.98,0-50,True,True
+Comercial,FORD,E-Transit,F35 LMAB,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,22.5,16.9,1.04,193.0,A,B,NÃO,A,1.0,Elétrico,,,19.98,0-50,True,True
+Comercial,FORD,E-Transit,F35 MAAB,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,22.5,16.9,1.04,193.0,A,B,NÃO,A,1.0,Elétrico,,,19.98,0-50,True,True
+Comercial,FORD,E-Transit,F35 MMAB,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,22.5,16.9,1.04,193.0,A,B,NÃO,A,1.0,Elétrico,,,19.98,0-50,True,True
+Comercial,FORD,Transit,350 F,2.0 - 16V,Combustão,M-6,S,E,D,85.0,92.0,,A,,205.0,,,,10.0,9.2,,,2.79,,B,E,NÃO,M,6.0,Diesel,9.64,,,201-250,False,False
+Comercial,FORD,Transit,350 FL,2.0 - 16V,Combustão,M-6,S,E,D,85.0,92.0,,A,,205.0,,,,10.0,9.2,,,2.79,,B,E,NÃO,M,6.0,Diesel,9.64,,,201-250,False,False
+Comercial,HYUNDAI,HR,HDB 4WD,"2,5 T 16V",Combustão,M-6,S,H,D,38.0,35.0,,A,,111.0,,,,10.2,8.9,,,2.8,,B,E,NÃO,M,6.0,Diesel,9.62,,,101-150,False,False
+Comercial,JAC,EJV5.5,CARGO,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,38.0,27.4,0.63,260.0,A,A,NÃO,A,1.0,Elétrico,,,33.23,,True,True
+Comercial,KIA,BONGO K2500 4X4,HD 4WD,2.5 - 16V,Combustão,M-6,S,H,D,32.0,19.0,,A,,235.0,,,,8.8,8.4,,,3.14,,D,E,NÃO,M,6.0,Diesel,8.62,,,201-250,False,False
+Comercial,KIA,BONGO K2500 4X4 SC,HD SC 4WD,2.5 - 16V,Combustão,M-6,S,H,D,42.0,25.0,,A,,226.0,,,,9.2,8.6,,,3.02,,C,E,NÃO,M,6.0,Diesel,8.93,,,201-250,False,False
+Comercial,Mercedes-Benz,315CDI STREET,Chassi,2.0-16V,Combustão,M-6,S,H,D,19.0,107.0,6.0,A,,183.0,,,,10.3,11.8,,,2.45,,A,D,NÃO,M,6.0,Diesel,10.98,,,151-200,False,False
+Comercial,Mercedes-Benz,315CDI STREET,Furgão,2.0-16V,Combustão,M-6,S,H,D,19.0,107.0,6.0,A,,183.0,,,,10.3,11.8,,,2.45,,A,D,NÃO,M,6.0,Diesel,10.98,,,151-200,False,False
+Comercial,Mercedes-Benz,320 ESPRINTER,C,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,21.1,16.3,1.09,294.0,A,B,NÃO,A,1.0,Elétrico,,,18.94,,True,True
+Comercial,Mercedes-Benz,320 ESPRINTER,F,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,21.1,16.3,1.09,294.0,A,B,NÃO,A,1.0,Elétrico,,,18.94,,True,True
+Comercial,NISSAN,Townstar,EV,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,,,,,,,37.5,30.3,0.6,210.0,A,A,NÃO,A,,Elétrico,,,34.26,,True,True
+Comercial,PEUGEOT,BOXER,16L LUXO,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,16L LUXO (MY25),2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,CARGO L2,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,PEUGEOT,BOXER,CARGO L2 (MY25),2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,CARGO PK,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,PEUGEOT,BOXER,CARGO PK (MY25),2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,FURGAOPK,2.2 T,Combustão,M-6,S,H,D,12.0,20.0,,A,,200.0,,,,10.0,9.9,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,PEUGEOT,BOXER,FURGAOPK (MY25),2.2 T,Combustão,M-6,S,H,D,35.0,40.0,,A,,201.0,,,,10.0,9.7,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.86,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,MB CFT19,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,MB CFT19 (MY25),2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,MB CFT20,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,MB EXE17,2.2 T,Combustão,M-6,S,H,D,25.0,143.0,,A,,212.0,,,,9.5,9.3,,,2.86,,C,E,NÃO,M,6.0,Diesel,9.41,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,MB EXE17 (MY25),2.2 T,Combustão,M-6,S,H,D,41.0,50.0,,A,,217.0,,,,9.3,9.1,,,2.93,,C,E,NÃO,M,6.0,Diesel,9.21,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,VIDRADA,2.2 T,Combustão,M-6,S,H,D,16.0,18.0,,A,,201.0,,,,10.0,9.8,,,2.71,,B,E,NÃO,M,6.0,Diesel,9.91,,,201-250,False,False
+Comercial,PEUGEOT,BOXER,VIDRADA (MY 25),2.2 T,Combustão,M-6,S,H,D,30.0,33.0,,A,,194.0,,,,10.3,10.3,,,2.61,,B,D,NÃO,M,6.0,Diesel,10.3,,,151-200,False,False
+Comercial,PEUGEOT,E-EXPERT,CARGO,Elétrico,Elétrico,A-1,S,E-H,E,,,,A,,,,,,,,34.4,24.6,0.7,289.0,A,A,NÃO,A,1.0,Elétrico,,,29.99,,True,True
+Comercial,PEUGEOT,EXPERT,CARGO,1.5 T,Combustão,M-6,S,E,D,48.0,52.0,,A,,165.0,,,,11.9,11.9,,,2.24,,A,D,NÃO,M,6.0,Diesel,11.9,,,151-200,False,False
+Comercial,PEUGEOT,EXPERT,CARGO (MY24),1.5 T,Combustão,M-6,S,E-H,D,24.0,35.0,,A,,161.0,,,,12.4,11.9,,,2.17,,A,D,NÃO,M,6.0,Diesel,12.18,,,151-200,False,False
+Comercial,PEUGEOT,EXPERT,VITRE,1.5 T,Combustão,M-6,S,E,D,48.0,52.0,,A,,165.0,,,,11.9,11.9,,,2.24,,A,D,NÃO,M,6.0,Diesel,11.9,,,151-200,False,False
+Comercial,PEUGEOT,PARTNER RAPID,BUSIPK,1.4-8V,Combustão,M-5,S,H,F,46.0,240.0,2.0,B,0.0,110.0,,8.1,8.4,11.7,12.4,,,1.81,,A,C,NÃO,M,5.0,Flex,12.02,8.24,,101-150,False,False
+Comercial,PEUGEOT,PARTNER RAPID,BUSIPK (MY25),1.4-8V,Combustão,M-5,S,H,F,36.0,333.0,2.0,B,0.0,115.0,,7.7,8.6,11.1,12.3,,,1.87,,A,C,NÃO,M,5.0,Flex,11.64,8.1,,101-150,False,False
+Comercial,Renault,E-KWID,CARGO,Elétrico,Elétrico,A,S,E,E,,,,A,,0.0,,,,,,52.7,39.6,0.44,185.0,A,A,NÃO,A,,Elétrico,,,46.81,0-50,True,True
+Comercial,Renault,Kangoo,ETECHL2,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,37.5,30.3,0.6,210.0,A,A,NÃO,A,,Elétrico,,,34.26,,True,True
+Comercial,Renault,Kangoo,EX PRO,1.6 16V,Combustão,M-5,S,E-H,F,30.0,457.0,2.0,B,0.0,117.0,,7.5,8.0,11.3,11.8,,,1.92,,A,C,NÃO,M,5.0,Flex,11.53,7.72,,101-150,False,False
+Comercial,Renault,Master Bus,Minibus,2.3-16V,Combustão,M-6,S,E -H,D,106.0,25.0,,A,,214.0,,,,9.5,9.1,,,2.89,,C,E,NÃO,M,6.0,Diesel,9.32,,,201-250,False,False
+Comercial,Renault,Master Chassis Cabine,Chassis Cabine,2.3-16V,Combustão,M-6,S,E -H,D,107.0,26.0,,A,,202.0,,,,10.3,9.3,,,2.72,,B,E,NÃO,M,6.0,Diesel,9.85,,,201-250,False,False
+Comercial,Renault,Master Furgão,Furgão,2.3-16V,Combustão,M-6,S,E -H,D,109.0,32.0,,A,,200.0,,,,10.1,9.8,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Comercial,Renault,Master PRO Furgão,Furgão Pró Tolé L1H1/L2H2/L3H2/Vitré,2.3-16V,Combustão,M-6,S,E -H,D,96.0,29.0,,A,,200.0,,,,10.1,9.8,,,2.7,,B,E,NÃO,M,6.0,Diesel,9.96,,,151-200,False,False
+Compacto,FIAT,ARGO,1.0,1.0-6V,Combustão,M-5,S,E,F,47.0,363.0,2.0,B,0.0,95.0,,9.4,10.2,13.3,14.7,,,1.53,,A,C,NÃO,M,5.0,Flex,13.93,9.76,,51-100,False,False
+Compacto,FIAT,ARGO,DRIVE 1.0,1.0-6V,Combustão,M-5,S,E,F,47.0,363.0,2.0,B,0.0,95.0,,9.4,10.2,13.3,14.7,,,1.53,,A,C,NÃO,M,5.0,Flex,13.93,9.76,,51-100,False,False
+Compacto,FIAT,ARGO,DRIVE 1.0 / 1.0,1.0-6V,Combustão,M-5,S,E,F,34.0,376.0,2.0,B,0.0,92.0,,9.4,10.6,13.6,15.1,,,1.5,,A,B,SIM,M,5.0,Flex,14.28,9.94,,51-100,False,False
+Compacto,FIAT,ARGO,DRIVE 1.3 AT,1.3-8V,Combustão,CVT-7,S,E,F,41.0,312.0,3.0,B,0.0,100.0,,9.1,10.1,12.6,13.9,,,1.6,,B,C,NÃO,CVT,7.0,Flex,13.18,9.55,,51-100,False,False
+Compacto,FIAT,ARGO,DRIVE 1.3 AT (MY 25),1.3-8V,Combustão,CVT-7,S,E,F,32.0,287.0,2.0,B,0.0,99.0,,8.8,10.4,12.6,14.4,,,1.59,,B,C,NÃO,CVT,7.0,Flex,13.41,9.52,,51-100,False,False
+Compacto,Hyundai,HB20,Comfort,1.0-12V,Combustão,M-5,S,E,F,25.0,266.0,2.0,A,0.0,94.0,,9.6,10.4,13.5,14.6,,,1.51,,A,B,SIM,M,5.0,Flex,14.0,9.96,,51-100,False,False
+Compacto,Hyundai,HB20,Comfort,1.0-12V T,Combustão,M-6,S,E,F,26.0,137.0,2.0,A,0.0,95.0,,9.4,10.6,13.4,14.5,,,1.52,,A,B,SIM,M,6.0,Flex,13.9,9.94,,51-100,False,False
+Compacto,Hyundai,HB20,Comfort,1.0-12V T,Combustão,A-6,S,E,F,29.0,138.0,3.0,A,0.0,105.0,,8.3,9.9,11.8,14.0,,,1.69,,C,C,NÃO,A,6.0,Flex,12.79,9.02,,101-150,False,False
+Compacto,Hyundai,HB20,Comfort (25MY),1.0-12V T,Combustão,A-6,S,E,F,27.0,117.0,3.0,A,0.0,100.0,,8.5,10.4,12.3,14.8,,,1.61,,B,C,NÃO,A,6.0,Flex,13.42,9.36,,51-100,False,False
+Compacto,Hyundai,HB20,Comfort (25MY),1.0-12V,Combustão,M-5,S,E,F,19.0,128.0,1.0,A,0.0,93.0,,10.0,10.4,13.6,14.8,,,1.49,,A,B,SIM,M,5.0,Flex,14.14,10.18,,51-100,False,False
+Compacto,Hyundai,HB20,Comfort (25MY),1.0-12V T,Combustão,A-6,S,E,F,33.0,101.0,3.0,A,0.0,96.0,,9.1,10.5,13.1,14.8,,,1.54,,B,C,NÃO,A,6.0,Flex,13.86,9.73,,51-100,False,False
+Compacto,Hyundai,HB20,Comfort / Platinum Safety (25MY),1.0-12V T,Combustão,A-6,S,E,F,33.0,101.0,3.0,A,0.0,96.0,,9.1,10.5,13.1,14.8,,,1.54,,B,C,NÃO,A,6.0,Flex,13.86,9.73,,51-100,False,False
+Compacto,Hyundai,HB20,Limited,1.0-12V,Combustão,M-5,S,E,F,25.0,266.0,2.0,A,0.0,94.0,,9.6,10.4,13.5,14.6,,,1.51,,A,B,SIM,M,5.0,Flex,14.0,9.96,,51-100,False,False
+Compacto,Hyundai,HB20,Limited (25MY),1.0-12V,Combustão,M-5,S,E,F,19.0,128.0,1.0,A,0.0,93.0,,10.0,10.4,13.6,14.8,,,1.49,,A,B,SIM,M,5.0,Flex,14.14,10.18,,51-100,False,False
+Compacto,Hyundai,HB20,Platinum,1.0-12V,Combustão,M-5,S,E,F,25.0,266.0,2.0,A,0.0,94.0,,9.6,10.4,13.5,14.6,,,1.51,,A,B,SIM,M,5.0,Flex,14.0,9.96,,51-100,False,False
+Compacto,Hyundai,HB20,Platinum,1.0-12V T,Combustão,A-6,S,E,F,29.0,138.0,3.0,A,0.0,105.0,,8.3,9.9,11.8,14.0,,,1.69,,C,C,NÃO,A,6.0,Flex,12.79,9.02,,101-150,False,False
+Compacto,Hyundai,HB20,Platinum Plus,1.0-12V T,Combustão,A-6,S,E,F,35.0,107.0,3.0,A,0.0,100.0,,9.0,10.2,12.6,14.1,,,1.59,,B,C,NÃO,A,6.0,Flex,13.28,9.54,,51-100,False,False
+Compacto,Hyundai,HB20,Platinum Safety,1.0-12V T,Combustão,A-6,S,E,F,29.0,138.0,3.0,A,0.0,105.0,,8.3,9.9,11.8,14.0,,,1.69,,C,C,NÃO,A,6.0,Flex,12.79,9.02,,101-150,False,False
+Compacto,Hyundai,HB20,Platinum Safety,1.0-12V T,Combustão,A-6,S,E,F,35.0,107.0,3.0,A,0.0,100.0,,9.0,10.2,12.6,14.1,,,1.59,,B,C,NÃO,A,6.0,Flex,13.28,9.54,,51-100,False,False
+Compacto,Hyundai,HB20,Platinum Smart Sense,1.0-12V T,Combustão,A-6,S,E,F,29.0,138.0,3.0,A,0.0,105.0,,8.3,9.9,11.8,14.0,,,1.69,,C,C,NÃO,A,6.0,Flex,12.79,9.02,,101-150,False,False
+Compacto,Hyundai,HB20,Sense,1.0-12V,Combustão,M-5,S,E,F,25.0,266.0,2.0,A,0.0,94.0,,9.6,10.4,13.5,14.6,,,1.51,,A,B,SIM,M,5.0,Flex,14.0,9.96,,51-100,False,False
+Compacto,Hyundai,HB20,Sense,1.0-12V T,Combustão,A-6,S,E,F,29.0,138.0,3.0,A,0.0,105.0,,8.3,9.9,11.8,14.0,,,1.69,,C,C,NÃO,A,6.0,Flex,12.79,9.02,,101-150,False,False
+Compacto,Hyundai,HB20,Sense (25MY),1.0-12V,Combustão,M-5,S,E,F,19.0,128.0,1.0,A,0.0,93.0,,10.0,10.4,13.6,14.8,,,1.49,,A,B,SIM,M,5.0,Flex,14.14,10.18,,51-100,False,False
+Compacto,MINI,Cooper,E,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,48.1,38.5,0.47,246.0,A,A,NÃO,A,,Elétrico,,,43.78,0-50,True,True
+Compacto,MINI,Cooper,S 3P,2.0 - 16V,Combustão,DCT-7,S,E,G,9.0,65.0,0.0,A,,119.0,,,,10.2,13.0,,,1.93,,E,C,NÃO,DCT,7.0,Gasolina,11.46,,,101-150,False,False
+Compacto,MINI,Cooper,S 3P EXCLUSIVE,2.0 - 16V,Combustão,DCT-7,S,E,G,10.0,156.0,0.0,A,,107.0,,,,11.5,14.0,,,1.74,,D,C,NÃO,DCT,7.0,Gasolina,12.62,,,101-150,False,False
+Compacto,MINI,Cooper,S 3P SPORT,2.0 - 16V,Combustão,DCT-7,S,E,G,10.0,156.0,0.0,A,,107.0,,,,11.5,14.0,,,1.74,,D,C,NÃO,DCT,7.0,Gasolina,12.62,,,101-150,False,False
+Compacto,MINI,Cooper,S 3P TOP,2.0 - 16V,Combustão,DCT-7,S,E,G,10.0,156.0,0.0,A,,107.0,,,,11.5,14.0,,,1.74,,D,C,NÃO,DCT,7.0,Gasolina,12.62,,,101-150,False,False
+Compacto,MINI,Cooper,S 5P,2.0 - 16V,Combustão,DCT-7,S,E,G,5.0,101.0,1.0,A,,118.0,,,,10.3,13.2,,,1.91,,E,C,NÃO,DCT,7.0,Gasolina,11.6,,,101-150,False,False
+Compacto,MINI,Cooper,S Electric,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,,,,,,,38.5,31.8,0.58,161.0,A,A,NÃO,A,,Elétrico,,,35.48,,True,True
+Compacto,MINI,Cooper,SE,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,45.2,37.3,0.49,303.0,A,A,NÃO,A,,Elétrico,,,41.64,0-50,True,True
+Compacto,MINI,JCW,3P,2.0 - 16V,Combustão,DCT-7,S,E,G,5.0,84.0,0.0,A,,112.0,,,,10.8,13.9,,,1.81,,D,C,NÃO,DCT,7.0,Gasolina,12.2,,,101-150,False,False
+Compacto,MINI,JCW,Hatch 3P,2.0 - 16V,Combustão,A-8,S,E,G,4.0,76.0,1.0,A,,123.0,,,,9.9,12.8,,,1.99,,E,C,NÃO,A,8.0,Gasolina,11.21,,,101-150,False,False
+Compacto,NETA,AYA,COMFORT 4S,ELÉTRICO,Elétrico,A,S,E,E,,,,A,,,,,,,,52.9,42.7,0.43,263.0,A,A,NÃO,A,,Elétrico,,,48.31,,True,True
+Compacto,NETA,AYA,LUXURY 4S,ELÉTRICO,Elétrico,A,S,E,E,,,,A,,,,,,,,52.9,42.7,0.43,263.0,A,A,NÃO,A,,Elétrico,,,48.31,,True,True
+Compacto,PEUGEOT,208,ALLUR T200,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,284.0,5.0,B,0.0,100.0,,8.8,10.0,12.5,14.1,,,1.61,,B,C,NÃO,CVT,7.0,Flex,13.22,9.34,,51-100,False,False
+Compacto,PEUGEOT,208,GRIFF T200,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,284.0,5.0,B,0.0,100.0,,8.8,10.0,12.5,14.1,,,1.61,,B,C,NÃO,CVT,7.0,Flex,13.22,9.34,,51-100,False,False
+Compacto,PEUGEOT,208,LIKE MT,1.0-6V,Combustão,M-5,S,E,F,29.0,300.0,1.0,B,0.0,92.0,,9.6,11.1,13.3,15.8,,,1.47,,A,B,SIM,M,5.0,Flex,14.42,10.28,,51-100,False,False
+Compacto,PEUGEOT,208,ROADTRIP A,1.6-16V,Combustão,A-6,S,E,F,36.0,570.0,3.0,B,0.0,112.0,,7.7,9.1,11.1,12.9,,,1.82,,E,C,NÃO,A,6.0,Flex,11.91,8.33,,101-150,False,False
+Compacto,PEUGEOT,208,STYLE MT,1.0-6V,Combustão,M-5,S,E,F,29.0,300.0,1.0,B,0.0,92.0,,9.6,11.1,13.3,15.8,,,1.47,,A,B,SIM,M,5.0,Flex,14.42,10.28,,51-100,False,False
+Compacto,PEUGEOT,208,STYLE T200,1.0-12V T,Combustão,CVT-7,S,E,F,59.0,300.0,3.0,B,0.0,104.0,,8.3,9.8,12.0,13.6,,,1.69,,C,C,NÃO,CVT,7.0,Flex,12.72,8.98,,101-150,False,False
+Compacto,PEUGEOT,E-208,GT,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,,,,,,,37.8,30.8,0.59,220.0,A,A,NÃO,A,1.0,Elétrico,,,34.65,,True,True
+Compacto,Renault,Sandero,SEDITION,1.0-12V,Combustão,M-5,S,E-H,F,57.0,133.0,3.0,B,0.0,93.0,,10.0,10.2,13.9,14.7,,,1.48,,A,B,SIM,M,5.0,Flex,14.26,10.09,,51-100,False,False
+Compacto,Renault,Sandero,SEDTION BS,1.0-12V,Combustão,M-5,S,E-H,F,57.0,133.0,3.0,B,0.0,93.0,,10.0,10.2,13.9,14.7,,,1.48,,A,B,SIM,M,5.0,Flex,14.26,10.09,,51-100,False,False
+Compacto,Renault,Sandero,SZE10MT,1.0-12V,Combustão,M-5,S,E-H,F,24.0,127.0,2.0,A,0.0,99.0,,9.3,9.3,13.0,13.7,,,1.6,,B,C,NÃO,M,5.0,Flex,13.32,9.3,,51-100,False,False
+Esportivo,BMW,M2,Coupe,3.0 - 24V,Combustão,A-8,S,E,G,14.0,77.0,1.0,A,,168.0,,,,7.5,9.2,,,2.72,,E,E,NÃO,A,8.0,Gasolina,8.26,,,151-200,False,False
+Esportivo,BMW,M2,Coupe / Coupe Track (MY25),3.0 - 24V,Combustão,A-8,S,E,G,21.0,209.0,1.0,A,,172.0,0.0,,,7.2,9.3,,,2.79,,E,E,NÃO,A,8.0,Gasolina,8.15,,,151-200,False,False
+Esportivo,BMW,M2,Coupe Track,3.0 - 24V,Combustão,A-8,S,E,G,14.0,77.0,1.0,A,,168.0,,,,7.5,9.2,,,2.72,,E,E,NÃO,A,8.0,Gasolina,8.26,,,151-200,False,False
+Esportivo,BMW,M3,COMP TRACK (MY25),3.0 - 24V,Combustão,A-8,S,E,G,24.0,298.0,1.0,B,,175.0,0.0,,,7.0,9.3,,,2.84,,E,E,NÃO,A,8.0,Gasolina,8.04,,,151-200,False,False
+Esportivo,BMW,M3,CS,3.0 - 24V,Combustão,A-8,S,E,G,19.0,233.0,1.0,A,,181.0,,,,7.0,8.5,,,2.93,,E,E,NÃO,A,8.0,Gasolina,7.68,,,151-200,False,False
+Esportivo,BMW,M3,Competition,3.0 - 24V,Combustão,A-8,S,E,G,16.0,73.0,0.0,A,,170.0,,,,7.3,9.4,,,2.76,,E,E,NÃO,A,8.0,Gasolina,8.25,,,151-200,False,False
+Esportivo,BMW,M3,Competition (MY25),3.0 - 24V,Combustão,A-8,S,E,G,24.0,298.0,1.0,B,,175.0,0.0,,,7.0,9.3,,,2.84,,E,E,NÃO,A,8.0,Gasolina,8.04,,,151-200,False,False
+Esportivo,BMW,M4,CS,3.0 - 24V,Combustão,A-8,S,E,G,17.0,192.0,1.0,A,,170.0,,,,7.2,9.5,,,2.77,,E,E,NÃO,A,8.0,Gasolina,8.24,,,151-200,False,False
+Esportivo,CHEVROLET,CAMARO,2SS,6.2L - 16V,Combustão,A-10,S,E,G,43.0,424.0,1.0,B,,191.0,,,,6.2,9.4,,,3.09,,E,E,NÃO,A,10.0,Gasolina,7.64,,,151-200,False,False
+Esportivo,CHEVROLET,CAMARO,2SS CONV,6.2L - 16V,Combustão,A-10,S,E,G,44.0,562.0,1.0,B,,195.0,,,,6.1,9.0,,,3.15,,E,E,NÃO,A,10.0,Gasolina,7.4,,,151-200,False,False
+Esportivo,FERRARI,296,GTB,3.0-24V,Plug-in,DCT-8,S,E,G,18.0,444.0,1.0,A,,149.0,0.0,,,6.3,8.4,8.9,11.9,2.02,10.0,D,C,NÃO,DCT,8.0,Gasolina,7.25,,10.25,101-150,False,True
+Esportivo,FERRARI,296,GTS,3.0-24V,Plug-in,DCT-8,S,E,G,31.0,332.0,1.0,B,,153.0,0.0,,,6.0,8.0,8.8,13.1,1.97,11.0,D,C,NÃO,DCT,8.0,Gasolina,6.9,,10.74,151-200,False,True
+Esportivo,FERRARI,PUROSANGUE,,6.5-48V,Combustão,DCT-8,S,E,G,21.0,222.0,3.0,A,,302.0,,,,4.1,5.6,,,4.88,,E,E,NÃO,DCT,8.0,Gasolina,4.78,,,250+,False,False
+Esportivo,FERRARI,ROMA,,3.9-32V,Combustão,DCT-8,S,E,G,19.0,93.0,2.0,A,,186.0,,,,6.9,8.3,,,3.0,,E,E,NÃO,DCT,8.0,Gasolina,7.53,,,151-200,False,False
+Esportivo,FORD,Mustang,Mach 1,5.0 - 32V,Combustão,A-10,S,E,G,34.0,745.0,1.0,B,,197.0,,,,6.1,8.8,,,3.19,,E,E,NÃO,A,10.0,Gasolina,7.32,,,151-200,False,False
+Esportivo,FORD,Novo Mustang,NEW GT V8,5.0 V8 - 32V,Combustão,A-10,S,E,G,60.0,937.0,1.0,C,,197.0,,,,6.2,8.3,,,3.2,,E,E,NÃO,A,10.0,Gasolina,7.15,,,151-200,False,False
+Esportivo,HONDA,CIVIC,TYPE-R,2.0T - 16V,Combustão,M-6,S,E,G,10.0,232.0,1.0,A,,140.0,,,,8.8,11.1,,,2.27,,D,D,NÃO,M,6.0,Gasolina,9.84,,,101-150,False,False
+Esportivo,JAGUAR,F-TYPE,300CB 75,2.0-16V,Combustão,A-8,S,E,G,11.0,96.0,3.0,B,,148.0,,,,8.8,11.0,,,2.28,,E,D,NÃO,A,8.0,Gasolina,9.79,,,101-150,False,False
+Esportivo,JAGUAR,F-TYPE,300CP 75,2.0-16V,Combustão,A-8,S,E,G,11.0,96.0,3.0,B,,148.0,,,,8.8,11.0,,,2.28,,E,D,NÃO,A,8.0,Gasolina,9.79,,,101-150,False,False
+Esportivo,JAGUAR,F-TYPE,300RD CB,2.0-16V,Combustão,A-8,S,E,G,11.0,96.0,3.0,B,,148.0,,,,8.8,11.0,,,2.28,,E,D,NÃO,A,8.0,Gasolina,9.79,,,101-150,False,False
+Esportivo,JAGUAR,F-TYPE,300RD CP,2.0-16V,Combustão,A-8,S,E,G,11.0,96.0,3.0,B,,148.0,,,,8.8,11.0,,,2.28,,E,D,NÃO,A,8.0,Gasolina,9.79,,,101-150,False,False
+Esportivo,LAMBORGHINI,HURACAN,TECNICA,5.2 - 40V,Combustão,DCT-7,S,E,G,27.0,344.0,2.0,B,,235.0,,,,5.3,6.9,,,3.82,,E,E,NÃO,DCT,7.0,Gasolina,6.02,,,201-250,False,False
+Esportivo,MCLAREN,ARTURA,----,3.0-24V,Plug-in,DCT-8,S,E,G,14.0,292.0,1.0,A,,109.0,0.0,,,6.6,8.3,11.3,15.4,1.58,20.0,D,C,NÃO,DCT,8.0,Gasolina,7.36,,13.15,101-150,False,True
+Esportivo,Mercedes-Benz,AMG SL63S EP,,4.0-32V,Plug-in,A-9,S,E,G,9.0,344.0,3.0,A,,164.0,164.0,,,6.2,7.5,8.7,10.6,2.15,9.0,D,D,NÃO,A,9.0,Gasolina,6.78,,9.56,151-200,False,True
+Esportivo,PORSCHE,911,CARRERA,3.0-24V,Combustão,DCT-8,S,E,G,26.0,96.0,3.0,A,,171.0,,,,7.0,9.9,,,2.77,,E,E,NÃO,DCT,8.0,Gasolina,8.3,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA 4 GTS,3.0-24V,Combustão,DCT-8,S,E,G,3.0,61.0,1.0,A,,184.0,,,,6.8,8.6,,,2.98,,E,E,NÃO,DCT,8.0,Gasolina,7.61,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA 4GTS CA,3.0-24V,Combustão,DCT-8,S,E,G,3.0,71.0,1.0,A,,181.0,,,,6.9,8.7,,,2.94,,E,E,NÃO,DCT,8.0,Gasolina,7.71,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA C,3.0-24V,Combustão,DCT-8,S,E,G,26.0,96.0,3.0,A,,171.0,,,,7.0,9.9,,,2.77,,E,E,NÃO,DCT,8.0,Gasolina,8.3,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA GTS,3.0-24V,Combustão,DCT-8,S,E,G,3.0,61.0,1.0,A,,184.0,,,,6.8,8.6,,,2.98,,E,E,NÃO,DCT,8.0,Gasolina,7.61,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA GTS CA,3.0-24V,Combustão,DCT-8,S,E,G,3.0,71.0,1.0,A,,181.0,,,,6.9,8.7,,,2.94,,E,E,NÃO,DCT,8.0,Gasolina,7.71,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA S,3.0-24V,Combustão,DCT-8,S,E,G,3.0,89.0,1.0,A,,173.0,,,,7.3,8.9,,,2.81,,E,E,NÃO,DCT,8.0,Gasolina,8.02,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA SC,3.0-24V,Combustão,DCT-8,S,E,G,3.0,89.0,1.0,A,,173.0,,,,7.3,8.9,,,2.81,,E,E,NÃO,DCT,8.0,Gasolina,8.02,,,151-200,False,False
+Esportivo,PORSCHE,911,CARRERA T,3.0-24V,Combustão,DCT-8,S,E,G,26.0,96.0,3.0,A,,171.0,,,,7.0,9.9,,,2.77,,E,E,NÃO,DCT,8.0,Gasolina,8.3,,,151-200,False,False
+Esportivo,PORSCHE,911,GT3 RS,4.0-24V,Combustão,DCT-7,S,E,G,43.0,74.0,3.0,B,,231.0,,,,5.4,6.9,,,3.76,,E,E,NÃO,DCT,7.0,Gasolina,6.08,,,201-250,False,False
+Esportivo,PORSCHE,911,TARGA 4GTS,3.0-24V,Combustão,DCT-8,S,E,G,3.0,71.0,1.0,A,,181.0,,,,6.9,8.7,,,2.94,,E,E,NÃO,DCT,8.0,Gasolina,7.71,,,151-200,False,False
+Esportivo,PORSCHE,911,TARGA 50Y,3.0-24V,Combustão,DCT-8,S,E,G,3.0,71.0,1.0,A,,181.0,,,,6.9,8.7,,,2.94,,E,E,NÃO,DCT,8.0,Gasolina,7.71,,,151-200,False,False
+Esportivo,PORSCHE,911,TURBO,3.7-24V,Combustão,DCT-8,S,E,G,15.0,144.0,2.0,A,,220.0,,,,5.5,7.8,,,3.57,,E,E,NÃO,DCT,8.0,Gasolina,6.54,,,201-250,False,False
+Esportivo,PORSCHE,911,TURBO CAB,3.7-24V,Combustão,DCT-8,S,E,G,15.0,144.0,2.0,A,,220.0,,,,5.5,7.8,,,3.57,,E,E,NÃO,DCT,8.0,Gasolina,6.54,,,201-250,False,False
+Esportivo,PORSCHE,911,TURBO S,3.7-24V,Combustão,DCT-8,S,E,G,17.0,125.0,2.0,A,,225.0,,,,5.4,7.6,,,3.65,,E,E,NÃO,DCT,8.0,Gasolina,6.39,,,201-250,False,False
+Esportivo,PORSCHE,911,TURBO S CA,3.7-24V,Combustão,DCT-8,S,E,G,17.0,125.0,2.0,A,,225.0,,,,5.4,7.6,,,3.65,,E,E,NÃO,DCT,8.0,Gasolina,6.39,,,201-250,False,False
+Esportivo,PORSCHE,BOXSTER,25 ANOS,4.0-24V,Combustão,DCT-7,S,E,G,18.0,67.0,1.0,A,,175.0,,,,7.1,8.9,,,2.84,,E,E,NÃO,DCT,7.0,Gasolina,7.91,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER,GTS4.0,4.0-24V,Combustão,DCT-7,S,E,G,18.0,67.0,1.0,A,,175.0,,,,7.1,8.9,,,2.84,,E,E,NÃO,DCT,7.0,Gasolina,7.91,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER,SPYDER,4.0-24V,Combustão,DCT-7,S,E,G,27.0,35.0,1.0,A,,186.0,,,,6.8,8.4,,,3.01,,E,E,NÃO,DCT,7.0,Gasolina,7.52,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER,STYLE,2.0-16V,Combustão,DCT-7,S,E,G,5.0,167.0,2.0,A,,157.0,,,,7.9,10.0,,,2.55,,E,D,NÃO,DCT,7.0,Gasolina,8.85,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER,T,2.0-16V,Combustão,DCT-7,S,E,G,5.0,167.0,2.0,A,,157.0,,,,7.9,10.0,,,2.55,,E,D,NÃO,DCT,7.0,Gasolina,8.85,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER,,2.0-16V,Combustão,DCT-7,S,E,G,5.0,167.0,2.0,A,,157.0,,,,7.9,10.0,,,2.55,,E,D,NÃO,DCT,7.0,Gasolina,8.85,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER ( Produção Semana 12+/24 ),STYLE,2.0-16V,Combustão,DCT-7,S,E,G,40.0,103.0,2.0,B,,154.0,,,,8.2,10.0,,,2.48,,E,D,NÃO,DCT,7.0,Gasolina,9.01,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER ( Produção Semana 12+/24 ),T,2.0-16V,Combustão,DCT-7,S,E,G,40.0,103.0,2.0,B,,154.0,,,,8.2,10.0,,,2.48,,E,D,NÃO,DCT,7.0,Gasolina,9.01,,,151-200,False,False
+Esportivo,PORSCHE,BOXSTER ( Produção Semana 12+/24 ),,2.0-16V,Combustão,DCT-7,S,E,G,40.0,103.0,2.0,B,,154.0,,,,8.2,10.0,,,2.48,,E,D,NÃO,DCT,7.0,Gasolina,9.01,,,151-200,False,False
+Esportivo,PORSCHE,CAYMAN,GT4 RS,4.0-24V,Combustão,DCT-7,S,E,G,26.0,108.0,1.0,A,,224.0,,,,5.6,7.1,,,3.62,,E,E,NÃO,DCT,7.0,Gasolina,6.28,,,201-250,False,False
+Esportivo,PORSCHE,CAYMAN,GTS 4.0,4.0-24V,Combustão,DCT-7,S,E,G,18.0,67.0,1.0,A,,175.0,,,,7.1,8.9,,,2.84,,E,E,NÃO,DCT,7.0,Gasolina,7.91,,,151-200,False,False
+Esportivo,PORSCHE,CAYMAN,STYLE,2.0-16V,Combustão,DCT-7,S,E,G,5.0,167.0,2.0,A,,157.0,,,,7.9,10.0,,,2.55,,E,D,NÃO,DCT,7.0,Gasolina,8.85,,,151-200,False,False
+Esportivo,PORSCHE,CAYMAN,T,2.0-16V,Combustão,DCT-7,S,E,G,5.0,167.0,2.0,A,,157.0,,,,7.9,10.0,,,2.55,,E,D,NÃO,DCT,7.0,Gasolina,8.85,,,151-200,False,False
+Esportivo,PORSCHE,CAYMAN,,2.0-16V,Combustão,DCT-7,S,E,G,5.0,167.0,2.0,A,,157.0,,,,7.9,10.0,,,2.55,,E,D,NÃO,DCT,7.0,Gasolina,8.85,,,151-200,False,False
+Esportivo,PORSCHE,CAYMAN ( Produção Semana 12+/24 ),STYLE,2.0-16V,Combustão,DCT-7,S,E,G,40.0,103.0,2.0,B,,154.0,,,,8.2,10.0,,,2.48,,E,D,NÃO,DCT,7.0,Gasolina,9.01,,,151-200,False,False
+Esportivo,PORSCHE,CAYMAN ( Produção Semana 12+/24 ),T,2.0-16V,Combustão,DCT-7,S,E,G,40.0,103.0,2.0,B,,154.0,,,,8.2,10.0,,,2.48,,E,D,NÃO,DCT,7.0,Gasolina,9.01,,,151-200,False,False
+Esportivo,PORSCHE,CAYMAN ( Produção Semana 12+/24 ),,2.0-16V,Combustão,DCT-7,S,E,G,40.0,103.0,2.0,B,,154.0,,,,8.2,10.0,,,2.48,,E,D,NÃO,DCT,7.0,Gasolina,9.01,,,151-200,False,False
+Esportivo,PORSCHE,PANAMERA,4EHST,2.9-24V,Plug-in,DCT-8,S,E,G,5.0,74.0,1.0,A,,63.0,0.0,,,7.3,7.9,17.2,18.5,1.14,35.0,C,B,NÃO,DCT,8.0,Gasolina,7.57,,17.79,51-100,False,True
+Esportivo,PORSCHE,PANAMERA,4EHYB,2.9-24V,Plug-in,DCT-8,S,E,G,5.0,74.0,1.0,A,,63.0,0.0,,,7.3,7.9,17.2,18.5,1.14,35.0,C,B,NÃO,DCT,8.0,Gasolina,7.57,,17.79,51-100,False,True
+Esportivo,PORSCHE,PANAMERA,4EHYB (MY25),2.9-24V,Plug-in,DCT-8,S,E,G,3.0,20.0,1.0,A,,25.0,5.0,,,8.0,9.2,22.0,23.3,0.9,63.0,C,A,NÃO,DCT,8.0,Gasolina,8.54,,22.58,0-50,False,True
+Esportivo,PORSCHE,PANAMERA,4SEHS,2.9-24V,Plug-in,DCT-8,S,E,G,4.0,66.0,1.0,A,,61.0,0.0,,,7.5,8.1,17.6,18.8,1.12,35.0,C,B,NÃO,DCT,8.0,Gasolina,7.77,,18.14,51-100,False,True
+Esportivo,PORSCHE,PANAMERA,4SEHY,2.9-24V,Plug-in,DCT-8,S,E,G,4.0,66.0,1.0,A,,61.0,0.0,,,7.5,8.1,17.6,18.8,1.12,35.0,C,B,NÃO,DCT,8.0,Gasolina,7.77,,18.14,51-100,False,True
+Esportivo,PORSCHE,PANAMERA,4SEHY (MY25),2.9-24V,Plug-in,DCT-8,S,E,G,4.0,24.0,1.0,A,,25.0,0.0,,,8.1,9.4,21.0,23.1,0.93,63.0,C,A,NÃO,DCT,8.0,Gasolina,8.68,,21.94,0-50,False,True
+Esportivo,PORSCHE,PANAMERA,TSEHY,4.0-32V,Plug-in,DCT-8,S,E,G,3.0,80.0,1.0,A,,81.0,0.0,,,6.6,7.2,14.8,16.6,1.3,30.0,C,B,NÃO,DCT,8.0,Gasolina,6.87,,15.61,51-100,False,True
+Esportivo,PORSCHE,TAYCAN,4CT,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,23.0,22.1,0.9,273.0,C,A,NÃO,,,Elétrico,,,22.6,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,4CT (MY25),Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.0,28.5,0.69,415.0,A,A,NÃO,,,Elétrico,,,29.33,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,4GTS,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,26.4,24.9,0.79,318.0,A,A,NÃO,,,Elétrico,,,25.72,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,4S,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,23.0,22.7,0.89,241.0,C,A,NÃO,,,Elétrico,,,22.86,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,4S (MY25),Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.0,28.5,0.69,415.0,A,A,NÃO,,,Elétrico,,,29.33,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,4S CT,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,24.9,23.7,0.83,300.0,B,A,NÃO,,,Elétrico,,,24.36,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,4S CT (MY25),Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.0,28.5,0.69,415.0,A,A,NÃO,,,Elétrico,,,29.33,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,TURBO,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,24.6,23.8,0.84,281.0,B,A,NÃO,,,Elétrico,,,24.24,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,TURBO S,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,23.5,22.9,0.87,278.0,C,A,NÃO,,,Elétrico,,,23.23,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,TURBO S (MY25),Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.7,30.2,0.67,425.0,A,A,NÃO,,,Elétrico,,,30.48,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,TURBOCT (MY25),Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.0,29.0,0.69,415.0,A,A,NÃO,,,Elétrico,,,29.55,0-50,True,True
+Esportivo,PORSCHE,TAYCAN,,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,22.4,23.5,0.89,286.0,C,A,NÃO,,,Elétrico,,,22.9,0-50,True,True
+Esportivo,PORSCHE,TAYCAN (MY25),_,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,33.7,32.0,0.62,393.0,A,A,NÃO,,,Elétrico,,,32.94,0-50,True,True
+Extra Grande,AUDI,A4 Sedan,Prestige,2.0 - 16V,Combustão,DCT-7,S,E,G,20.0,86.0,1.0,A,,119.0,,,,10.5,12.5,,,1.93,,B,C,NÃO,DCT,7.0,Gasolina,11.4,,,101-150,False,False
+Extra Grande,AUDI,A4 Sedan,S line,2.0 - 16V,Combustão,DCT-7,S,E,G,20.0,86.0,1.0,A,,119.0,,,,10.5,12.5,,,1.93,,B,C,NÃO,DCT,7.0,Gasolina,11.4,,,101-150,False,False
+Extra Grande,AUDI,A4 Sedan Quattro,Prestige,2.0 - 16V,Combustão,DCT-7,S,E,G,17.0,102.0,0.0,A,,126.0,,,,9.7,12.2,,,2.05,,C,C,NÃO,DCT,7.0,Gasolina,10.82,,,101-150,False,False
+Extra Grande,AUDI,A4 Sedan Quattro,S line,2.0 - 16V,Combustão,DCT-7,S,E,G,17.0,102.0,0.0,A,,126.0,,,,9.7,12.2,,,2.05,,C,C,NÃO,DCT,7.0,Gasolina,10.82,,,101-150,False,False
+Extra Grande,AUDI,A5 Sportback,S line,2.0 - 16V,Combustão,DCT-7,S,E,G,22.0,95.0,1.0,A,,121.0,,,,10.3,12.4,,,1.96,,B,C,NÃO,DCT,7.0,Gasolina,11.24,,,101-150,False,False
+Extra Grande,AUDI,A5 Sportback Quattro,Advanced,2.0 - 16V,Combustão,DCT-7,S,E,G,22.0,127.0,1.0,A,,124.0,,,,9.9,12.4,,,2.01,,C,C,NÃO,DCT,7.0,Gasolina,11.02,,,101-150,False,False
+Extra Grande,AUDI,A5 Sportback Quattro,S line,2.0 - 16V,Combustão,DCT-7,S,E,G,22.0,127.0,1.0,A,,124.0,,,,9.9,12.4,,,2.01,,C,C,NÃO,DCT,7.0,Gasolina,11.02,,,101-150,False,False
+Extra Grande,AUDI,Q5,PS line (ed. 0),2.0 - 16V,Combustão,DCT-7,S,E,G,21.0,102.0,3.0,A,,165.0,,,,7.6,9.2,,,2.69,,E,E,NÃO,DCT,7.0,Gasolina,8.32,,,151-200,False,False
+Extra Grande,AUDI,Q5,Prestige,2.0 - 16V,Combustão,DCT-7,S,E,G,16.0,113.0,0.0,A,,163.0,,,,7.8,9.3,,,2.65,,E,E,NÃO,DCT,7.0,Gasolina,8.48,,,151-200,False,False
+Extra Grande,AUDI,Q5,Prestige (ed. 0),2.0 - 16V,Combustão,DCT-7,S,E,G,21.0,102.0,3.0,A,,165.0,,,,7.6,9.2,,,2.69,,E,E,NÃO,DCT,7.0,Gasolina,8.32,,,151-200,False,False
+Extra Grande,AUDI,Q5,S line,2.0 - 16V,Combustão,DCT-7,S,E,G,16.0,113.0,0.0,A,,163.0,,,,7.8,9.3,,,2.65,,E,E,NÃO,DCT,7.0,Gasolina,8.48,,,151-200,False,False
+Extra Grande,AUDI,Q5,S line Black,2.0 - 16V,Combustão,DCT-7,S,E,G,16.0,113.0,0.0,A,,163.0,,,,7.8,9.3,,,2.65,,E,E,NÃO,DCT,7.0,Gasolina,8.48,,,151-200,False,False
+Extra Grande,AUDI,Q5,S line Black (ed.0),2.0 - 16V,Combustão,DCT-7,S,E,G,21.0,102.0,3.0,A,,165.0,,,,7.6,9.2,,,2.69,,E,E,NÃO,DCT,7.0,Gasolina,8.32,,,151-200,False,False
+Extra Grande,AUDI,Q5 Sportback TFSIe,Performance,2.0 - 16V,Plug-in,A-7,S,E,G,6.0,100.0,0.0,A,,142.0,43.0,,,9.3,9.9,21.4,21.8,0.94,38.0,A,A,SIM,A,7.0,Gasolina,9.57,,21.58,101-150,False,True
+Extra Grande,AUDI,Q5 Sportback TFSIe,Performance Black,2.0 - 16V,Plug-in,A-7,S,E,G,6.0,100.0,0.0,A,,142.0,43.0,,,9.3,9.9,21.4,21.8,0.94,38.0,A,A,SIM,A,7.0,Gasolina,9.57,,21.58,101-150,False,True
+Extra Grande,AUDI,Q5 TFSIe,Performance,2.0 - 16V,Plug-in,A-7,S,E,G,5.0,59.0,0.0,A,,140.0,43.0,,,9.4,9.9,21.3,21.8,0.94,38.0,A,A,SIM,A,7.0,Gasolina,9.62,,21.52,101-150,False,True
+Extra Grande,AUDI,Q5 TFSIe,Performance Black,2.0 - 16V,Plug-in,A-7,S,E,G,5.0,59.0,0.0,A,,140.0,43.0,,,9.4,9.9,21.3,21.8,0.94,38.0,A,A,SIM,A,7.0,Gasolina,9.62,,21.52,101-150,False,True
+Extra Grande,AUDI,Q6 e-tron Quattro,Performance/ Performance black,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,34.0,29.6,0.64,411.0,A,A,NÃO,A,1.0,Elétrico,,,32.02,0-50,True,True
+Extra Grande,AUDI,Q6 e-tron RWD,Performance,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,33.8,29.3,0.64,411.0,A,A,NÃO,A,1.0,Elétrico,,,31.78,0-50,True,True
+Extra Grande,AUDI,Q7,Performance,3.0 - 24V,Híbrido,A-8,S,E,G,20.0,221.0,1.0,A,,183.0,,,,7.1,8.1,,,2.96,,E,E,NÃO,A,8.0,Gasolina,7.55,,,151-200,False,True
+Extra Grande,AUDI,Q7,Performance Black,3.0 - 24V,Híbrido,A-8,S,E,G,20.0,221.0,1.0,A,,183.0,,,,7.1,8.1,,,2.96,,E,E,NÃO,A,8.0,Gasolina,7.55,,,151-200,False,True
+Extra Grande,AUDI,Q7,S Line (MY25 ed.0),3.0 - 24V,Híbrido,A-8,S,E,G,23.0,286.0,1.0,A,,190.0,,,,6.6,8.1,,,3.09,,E,E,NÃO,A,8.0,Gasolina,7.28,,,151-200,False,True
+Extra Grande,AUDI,Q7,S Line (MY25),3.0 - 24V,Híbrido,A-8,S,E,G,23.0,233.0,0.0,A,,180.0,,,,7.0,8.6,,,2.92,,E,E,NÃO,A,8.0,Gasolina,7.72,,,151-200,False,True
+Extra Grande,AUDI,Q8 Sportback,Performance,3.0 - 24V,Híbrido,A-8,S,E,G,23.0,127.0,1.0,A,,189.0,,,,7.0,7.6,,,3.06,,E,E,NÃO,A,8.0,Gasolina,7.27,,,151-200,False,True
+Extra Grande,AUDI,Q8 Sportback,Performance Black,3.0 - 24V,Híbrido,A-8,S,E,G,23.0,127.0,1.0,A,,189.0,,,,7.0,7.6,,,3.06,,E,E,NÃO,A,8.0,Gasolina,7.27,,,151-200,False,True
+Extra Grande,AUDI,Q8 Sportback,Performance Black (MY25 ed.0),3.0 - 24V,Híbrido,A-8,S,E,G,21.0,182.0,1.0,A,,199.0,,,,6.4,7.8,,,3.23,,E,E,NÃO,A,8.0,Gasolina,7.03,,,151-200,False,True
+Extra Grande,AUDI,Q8 Sportback,Performance Black (MY25),3.0 - 24V,Híbrido,A-8,S,E,G,21.0,205.0,0.0,A,,192.0,,,,6.8,7.7,,,3.11,,E,E,NÃO,A,8.0,Gasolina,7.2,,,151-200,False,True
+Extra Grande,AUDI,Q8 e-tron 55,Launch Edition,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,24.5,24.7,0.82,357.0,A,A,NÃO,,,Elétrico,,,24.59,0-50,True,True
+Extra Grande,AUDI,Q8 e-tron 55,Performance Black,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,24.5,24.7,0.82,357.0,A,A,NÃO,,,Elétrico,,,24.59,0-50,True,True
+Extra Grande,AUDI,Q8 e-tron Sportback 55,Launch Edition,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,24.7,25.5,0.81,362.0,A,A,NÃO,,,Elétrico,,,25.06,0-50,True,True
+Extra Grande,AUDI,Q8 e-tron Sportback 55,Performance Black,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,24.7,25.5,0.81,362.0,A,A,NÃO,,,Elétrico,,,25.06,0-50,True,True
+Extra Grande,AUDI,RS 5 Sportback,Competition Plus,2.9 - 24 V,Combustão,A-8,S,E,G,25.0,121.0,2.0,A,,164.0,,,,7.3,10.2,,,2.66,,E,E,NÃO,A,8.0,Gasolina,8.6,,,151-200,False,False
+Extra Grande,AUDI,RS 5 Sportback,,2.9 - 24 V,Combustão,A-8,S,E,G,26.0,150.0,2.0,A,,170.0,,,,7.1,9.9,,,2.76,,E,E,NÃO,A,8.0,Gasolina,8.36,,,151-200,False,False
+Extra Grande,AUDI,RS 6 Avant,Legacy 30 Years,4.0 - 32V,Híbrido,A-8,S,E,G,49.0,116.0,2.0,B,,209.0,,,,5.9,7.8,,,3.39,,E,E,NÃO,A,8.0,Gasolina,6.76,,,201-250,False,True
+Extra Grande,AUDI,RS 6 Avant,Performance,4.0 - 32V,Híbrido,A-8,S,E,G,49.0,116.0,2.0,B,,209.0,,,,5.9,7.8,,,3.39,,E,E,NÃO,A,8.0,Gasolina,6.76,,,201-250,False,True
+Extra Grande,AUDI,RS Q8,,4.0 - 32V,Híbrido,A-8,S,E,G,46.0,223.0,2.0,B,,227.0,,,,5.5,7.1,,,3.68,,E,E,NÃO,A,8.0,Gasolina,6.22,,,201-250,False,True
+Extra Grande,AUDI,RS e-tron GT,,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,25.7,25.5,0.79,313.0,A,A,NÃO,,,Elétrico,,,25.61,0-50,True,True
+Extra Grande,AUDI,SQ8 e-tron Sportback,,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,21.0,21.3,0.96,307.0,A,A,NÃO,A,,Elétrico,,,21.14,0-50,True,True
+Extra Grande,AUDI,e-tron GT,,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,26.0,25.0,0.79,308.0,A,A,NÃO,,,Elétrico,,,25.55,0-50,True,True
+Extra Grande,BMW,320i,Active Flex,2.0 - 16V,Combustão,A-8,S,E,F,27.0,137.0,1.0,A,0.0,117.0,,7.2,9.0,10.4,13.1,,,1.9,,B,C,NÃO,A,8.0,Flex,11.62,8.01,,101-150,False,False
+Extra Grande,BMW,320i,Active Flex (MY25),2.0 - 16V,Combustão,A-8,S,E,F,27.0,162.0,2.0,A,0.0,123.0,,7.1,8.6,10.0,12.3,,,1.98,,B,C,NÃO,A,8.0,Flex,11.04,7.78,,101-150,False,False
+Extra Grande,BMW,320i,GP Flex,2.0 - 16V,Combustão,A-8,S,E,F,24.0,148.0,1.0,A,0.0,115.0,,7.5,9.2,10.7,13.2,,,1.86,,B,C,NÃO,A,8.0,Flex,11.82,8.26,,101-150,False,False
+Extra Grande,BMW,320i,GP Flex (MY25),2.0 - 16V,Combustão,A-8,S,E,F,26.0,141.0,2.0,A,0.0,113.0,,7.6,9.2,10.9,13.3,,,1.83,,B,C,NÃO,A,8.0,Flex,11.98,8.32,,101-150,False,False
+Extra Grande,BMW,320i,M Sport Flex,2.0 - 16V,Combustão,A-8,S,E,F,23.0,173.0,1.0,B,0.0,115.0,,7.5,9.1,10.6,13.2,,,1.86,,B,C,NÃO,A,8.0,Flex,11.77,8.22,,101-150,False,False
+Extra Grande,BMW,320i,M Sport Flex (MY25),2.0 - 16V,Combustão,A-8,S,E,F,37.0,137.0,3.0,B,0.0,117.0,,7.4,9.0,10.5,13.1,,,1.88,,B,C,NÃO,A,8.0,Flex,11.67,8.12,,101-150,False,False
+Extra Grande,BMW,320i,Sport GP Flex,2.0 - 16V,Combustão,A-8,S,E,F,24.0,148.0,1.0,A,0.0,115.0,,7.5,9.2,10.7,13.2,,,1.86,,B,C,NÃO,A,8.0,Flex,11.82,8.26,,101-150,False,False
+Extra Grande,BMW,320i,Sport GP Flex (MY25),2.0 - 16V,Combustão,A-8,S,E,F,26.0,141.0,2.0,A,0.0,113.0,,7.6,9.2,10.9,13.3,,,1.83,,B,C,NÃO,A,8.0,Flex,11.98,8.32,,101-150,False,False
+Extra Grande,BMW,330e,(MY25),2.0 - 16V,Plug-in,A-8,S,E,G,4.0,30.0,1.0,A,,138.0,21.0,,,9.2,10.8,20.6,24.0,0.92,61.0,A,A,SIM,A,8.0,Gasolina,9.92,,22.13,101-150,False,True
+Extra Grande,BMW,330e,,2.0 - 16V,Plug-in,A-8,S,E,G,5.0,57.0,0.0,A,,133.0,42.0,,,9.5,11.2,22.4,25.9,0.85,37.0,A,A,SIM,A,8.0,Gasolina,10.26,,23.98,101-150,False,True
+Extra Grande,BMW,420i,Cabrio,2.0 - 16V,Combustão,A-8,S,E,G,11.0,54.0,0.0,A,,121.0,,,,9.9,13.3,,,1.96,,B,C,NÃO,A,8.0,Gasolina,11.43,,,101-150,False,False
+Extra Grande,BMW,420i,Cabrio,2.0 - 16V,Combustão,A-8,S,E,G,9.0,148.0,1.0,A,,125.0,125.0,,,9.8,12.5,,,2.02,,C,C,NÃO,A,8.0,Gasolina,11.02,,,101-150,False,False
+Extra Grande,BMW,530e,M SPORT,2.0 - 16V,Plug-in,A-8,S,E,G,11.0,27.0,0.0,A,,116.0,15.0,,,11.1,12.2,26.9,28.6,0.73,61.0,A,A,SIM,A,8.0,Gasolina,11.6,,27.66,101-150,False,True
+Extra Grande,BMW,530e,M SPORT (MY25),2.0 - 16V,Plug-in,A-8,S,E,G,5.0,47.0,0.0,A,,117.0,16.0,,,10.9,12.3,26.2,26.9,0.76,70.0,A,A,SIM,A,8.0,Gasolina,11.53,,26.52,101-150,False,True
+Extra Grande,BMW,530e,,2.0 - 16V,Plug-in,A-8,S,E,G,7.0,58.0,1.0,A,,126.0,40.0,,,10.1,11.4,24.3,26.5,0.8,37.0,A,A,SIM,A,8.0,Gasolina,10.68,,25.29,101-150,False,True
+Extra Grande,BMW,IX xDrive 40,,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,35.2,29.9,0.62,327.0,A,A,NÃO,A,,Elétrico,,,32.82,0-50,True,True
+Extra Grande,BMW,IX xDrive 50,,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,36.4,30.2,0.61,528.0,A,A,NÃO,A,,Elétrico,,,33.61,0-50,True,True
+Extra Grande,BMW,i4,40,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,35.9,34.5,0.57,422.0,A,A,NÃO,A,,Elétrico,,,35.27,0-50,True,True
+Extra Grande,BMW,i4,40 (MY25),Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,34.2,32.3,0.61,399.0,A,A,NÃO,A,,Elétrico,,,33.34,0-50,True,True
+Extra Grande,BMW,i4,M50,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,28.1,27.3,0.73,335.0,A,A,NÃO,A,,Elétrico,,,27.74,0-50,True,True
+Extra Grande,BMW,i4,M50 (MY25),Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,35.6,32.1,0.6,405.0,A,A,NÃO,A,,Elétrico,,,34.03,0-50,True,True
+Extra Grande,BMW,i4,eDrive35,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,36.0,33.5,0.58,339.0,A,A,NÃO,A,,Elétrico,,,34.88,0-50,True,True
+Extra Grande,BMW,i4,eDrive35 (MY25),Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,34.0,32.0,0.61,322.0,A,A,NÃO,A,,Elétrico,,,33.1,0-50,True,True
+Extra Grande,BMW,i5,M60 xDrive,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,33.4,31.3,0.63,392.0,A,A,NÃO,A,,Elétrico,,,32.46,0-50,True,True
+Extra Grande,BMW,i7,xDrive60,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,32.9,31.0,0.63,479.0,A,A,NÃO,A,,Elétrico,,,32.04,0-50,True,True
+Extra Grande,BMW,iX,M60,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,27.2,27.9,0.74,431.0,A,A,NÃO,A,,Elétrico,,,27.52,0-50,True,True
+Extra Grande,BMW,iX3,,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,37.9,32.7,0.57,381.0,A,A,NÃO,A,,Elétrico,,,35.56,0-50,True,True
+Extra Grande,BYD,HAN,AWD GS 680EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.8,28.1,0.69,349.0,A,A,NÃO,,,Elétrico,,,29.58,0-50,True,True
+Extra Grande,BYD,KING,GL DM,1.5-16V,Plug-in,CVT,S,E,G,11.0,61.0,1.0,A,,30.0,0.0,,,16.3,14.3,43.3,32.7,0.54,32.0,A,A,SIM,CVT,,Gasolina,15.4,,38.53,0-50,False,True
+Extra Grande,BYD,KING,GS DM,1.5-16V,Plug-in,CVT,S,E,G,5.0,15.0,0.0,A,,9.0,0.0,,,16.8,14.7,44.2,36.7,0.5,80.0,A,A,SIM,CVT,,Gasolina,15.86,,40.83,0-50,False,True
+Extra Grande,BYD,SEAL,AWD GS 590EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,34.9,30.5,0.62,372.0,A,A,NÃO,,,Elétrico,,,32.92,0-50,True,True
+Extra Grande,BYD,SONG PRO,GL DM,1.5-16V,Plug-in,CVT,S,E,G,6.0,25.0,0.0,A,,22.0,0.0,,,14.8,12.6,40.0,29.6,0.59,49.0,A,A,SIM,CVT,,Gasolina,13.81,,35.32,0-50,False,True
+Extra Grande,BYD,SONG PRO,GS DM,1.5-16V,Plug-in,CVT,S,E,G,4.0,13.0,1.0,A,,14.0,0.0,,,15.2,12.2,40.6,32.0,0.56,68.0,A,A,SIM,CVT,,Gasolina,13.85,,36.73,0-50,False,True
+Extra Grande,BYD,TAN,AWD GS 700EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,30.2,25.3,0.73,430.0,A,A,NÃO,,,Elétrico,,,27.99,0-50,True,True
+Extra Grande,CHEVROLET,EQUINOX,15T ACTIV,1.5T -16V,Combustão,A-8,S,E,G,21.0,140.0,1.0,A,,140.0,,,,9.0,10.7,,,2.28,,D,D,NÃO,A,8.0,Gasolina,9.76,,,101-150,False,False
+Extra Grande,CHEVROLET,EQUINOX,15T LT,1.5T -16V,Combustão,A-6,S,E,G,16.0,169.0,1.0,A,,133.0,,,,9.3,11.5,,,2.16,,C,D,NÃO,A,6.0,Gasolina,10.29,,,101-150,False,False
+Extra Grande,CHEVROLET,EQUINOX,15T PRE,1.5T -16V,Combustão,A-6,S,E,G,17.0,141.0,2.0,A,,140.0,,,,9.0,10.8,,,2.26,,D,D,NÃO,A,6.0,Gasolina,9.81,,,101-150,False,False
+Extra Grande,CHEVROLET,EQUINOX,15T RS,1.5T -16V,Combustão,A-6,S,E,G,16.0,169.0,1.0,A,,133.0,,,,9.3,11.5,,,2.16,,C,D,NÃO,A,6.0,Gasolina,10.29,,,101-150,False,False
+Extra Grande,FORD,Mustang Mach-E,GT,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,31.1,27.5,0.69,379.0,A,A,NÃO,A,1.0,Elétrico,,,29.48,0-50,True,True
+Extra Grande,FORD,Novo Territory,Titanium,1.5 - 16V,Combustão,A-7,S,E,G,28.0,532.0,0.0,B,,129.0,,,,9.5,11.8,,,2.1,,C,D,NÃO,A,7.0,Gasolina,10.54,,,101-150,False,False
+Extra Grande,GWM,HAVAL H6,GT,1.5-16V,Plug-in,DHT - 2,S,E,G,43.0,21.0,5.0,B,,122.0,7.0,,,11.4,10.4,27.4,25.2,0.77,116.0,A,A,SIM,DHT,2.0,Gasolina,10.95,,26.41,101-150,False,True
+Extra Grande,HONDA,ACCORD HYBRID,TOURING,2.0 - 16V,Híbrido,CVT,S,E,G,12.0,63.0,1.0,A,,76.0,,,,17.8,16.1,,,1.23,,A,B,SIM,CVT,,Gasolina,17.04,,,51-100,False,True
+Extra Grande,JAC,e-J7,e-J7,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,44.0,37.1,0.5,263.0,A,A,NÃO,A,1.0,Elétrico,,,40.9,,True,True
+Extra Grande,JAGUAR,I-PACE,E400 FIRSTED,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,28.2,26.2,0.74,298.0,A,A,NÃO,A,1.0,Elétrico,,,27.3,0-50,True,True
+Extra Grande,JAGUAR,I-PACE,E400 HSE,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,28.2,26.2,0.74,298.0,A,A,NÃO,A,1.0,Elétrico,,,27.3,0-50,True,True
+Extra Grande,JAGUAR,I-PACE,E400 S,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,28.2,26.2,0.74,298.0,A,A,NÃO,A,1.0,Elétrico,,,27.3,0-50,True,True
+Extra Grande,JAGUAR,I-PACE,E400 SE,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,28.2,26.2,0.74,298.0,A,A,NÃO,A,1.0,Elétrico,,,27.3,0-50,True,True
+Extra Grande,KIA,EV5 2WD,AIR 2WD,ELÉTRICO,Elétrico,A-1,S,E,E,,,,A,,,,,,,,37.6,30.5,0.6,402.0,A,A,NÃO,A,1.0,Elétrico,,,34.4,,True,True
+Extra Grande,KIA,EV5 2WD,LAND 2WD,ELÉTRICO,Elétrico,A-1,S,E,E,,,,A,,,,,,,,37.6,30.5,0.6,402.0,A,A,NÃO,A,1.0,Elétrico,,,34.4,,True,True
+Extra Grande,LAMBORGHINI,URUS,PERFORMANTE,4.0-32V,Combustão,DCT-8,S,E,G,39.0,150.0,1.0,A,,233.0,,,,5.4,6.9,,,3.77,,E,E,NÃO,DCT,8.0,Gasolina,6.08,,,201-250,False,False
+Extra Grande,LAMBORGHINI,URUS,S,4.0-32V,Combustão,DCT-8,S,E,G,39.0,150.0,1.0,A,,233.0,,,,5.4,6.9,,,3.77,,E,E,NÃO,DCT,8.0,Gasolina,6.08,,,201-250,False,False
+Extra Grande,LEXUS,ES300H,,2.5-16V,Híbrido,CVT,S,E,G,18.0,58.0,1.0,A,,84.0,,,,15.8,15.2,,,1.36,,A,B,SIM,CVT,,Gasolina,15.53,,,51-100,False,True
+Extra Grande,LEXUS,RX 450H PLUG-IN,RX450H PLUG-IN,2.5 - 16V,Plug-in,CVT,S,E,G,11.0,40.0,1.0,A,,100.0,18.0,,,13.9,12.4,36.1,30.2,0.61,56.0,A,A,SIM,CVT,,Gasolina,13.23,,33.45,51-100,False,True
+Extra Grande,LEXUS,RX500H (MY24),F-SPORT,2.4 - 16V,Híbrido,A-6,S,E,G,22.0,138.0,0.0,A,,125.0,,,,10.6,10.8,,,2.03,,C,C,NÃO,A,6.0,Gasolina,10.69,,,101-150,False,True
+Extra Grande,Mercedes-Benz,AMG C63S EP,F1,2.0-16V,Plug-in,A-9,S,E,G,15.0,329.0,1.0,A,,142.0,143.0,,,7.0,8.2,10.0,12.7,1.84,9.0,B,C,NÃO,A,9.0,Gasolina,7.54,,11.22,101-150,False,True
+Extra Grande,Mercedes-Benz,AMG C63S EP,,2.0-16V,Plug-in,A-9,S,E,G,15.0,329.0,1.0,A,,142.0,143.0,,,7.0,8.2,10.0,12.7,1.84,9.0,B,C,NÃO,A,9.0,Gasolina,7.54,,11.22,101-150,False,True
+Extra Grande,Mercedes-Benz,AMG CLA35 4M,,2.0-16V,Híbrido,A-8,S,E,G,21.0,159.0,1.0,A,,141.0,,,,8.5,11.7,,,2.28,,D,D,NÃO,A,8.0,Gasolina,9.94,,,101-150,False,True
+Extra Grande,Mercedes-Benz,AMG CLA35 4MATIC,,2.0-16V,Combustão,DCT-7,S,E,G,16.0,114.0,2.0,A,,138.0,,,,9.1,11.1,,,2.23,,D,D,NÃO,DCT,7.0,Gasolina,10.0,,,101-150,False,False
+Extra Grande,Mercedes-Benz,AMG CLA45S 4M,,2.0-16V,Combustão,DCT-8,S,E,G,33.0,55.0,3.0,A,,154.0,,,,7.8,10.8,,,2.49,,D,D,NÃO,DCT,8.0,Gasolina,9.15,,,151-200,False,False
+Extra Grande,Mercedes-Benz,AMG EQE53,SUV,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,27.0,23.9,0.8,338.0,A,A,NÃO,A,1.0,Elétrico,,,25.6,0-50,True,True
+Extra Grande,Mercedes-Benz,AMG EQS 53 4M,2025,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,28.5,29.4,0.7,472.0,A,A,NÃO,A,1.0,Elétrico,,,28.9,,True,True
+Extra Grande,Mercedes-Benz,AMG EQS 53 4M,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,24.4,24.6,0.83,373.0,A,A,NÃO,A,1.0,Elétrico,,,24.49,,True,True
+Extra Grande,Mercedes-Benz,AMG GLB35 4M,2025,2.0-16V,Híbrido,DCT-8,S,E,G,9.0,142.0,0.0,A,,151.0,,,,8.4,9.8,,,2.46,,D,D,NÃO,DCT,8.0,Gasolina,9.03,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLB35 4M,,2.0-16V,Combustão,DCT-8,S,E,G,16.0,129.0,1.0,A,,152.0,,,,8.4,10.0,,,2.45,,D,D,NÃO,DCT,8.0,Gasolina,9.12,,,151-200,False,False
+Extra Grande,Mercedes-Benz,AMG GLB35 4M,,2.0-16V,Híbrido,DCT-8,S,E,G,11.0,121.0,0.0,A,,153.0,,,,8.3,9.7,,,2.49,,D,D,NÃO,DCT,8.0,Gasolina,8.93,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLC43,(L8),2.0-16V,Híbrido,A-9,S,E,G,16.0,49.0,1.0,A,,172.0,,,,7.2,9.2,,,2.79,,E,E,NÃO,A,9.0,Gasolina,8.1,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLC43,2025,2.0-16V,Híbrido,A-9,S,E,G,18.0,123.0,1.0,A,,186.0,,,,6.8,8.4,,,3.01,,E,E,NÃO,A,9.0,Gasolina,7.52,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLC43,Coupé,3.0-24V,Combustão,A-9,S,E,G,14.0,176.0,2.0,A,,184.0,,,,6.8,8.7,,,2.98,,E,E,NÃO,A,9.0,Gasolina,7.65,,,151-200,False,False
+Extra Grande,Mercedes-Benz,AMG GLC43,Coupé (2025),2.0-16V,Híbrido,A-9,S,E,G,18.0,123.0,1.0,A,,186.0,,,,6.8,8.4,,,3.01,,E,E,NÃO,A,9.0,Gasolina,7.52,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLC43,Coupé (L8),2.0-16V,Híbrido,A-9,S,E,G,16.0,49.0,1.0,A,,172.0,,,,7.2,9.2,,,2.79,,E,E,NÃO,A,9.0,Gasolina,8.1,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLC43,,3.0-24V,Combustão,A-9,S,E,G,14.0,176.0,2.0,A,,184.0,,,,6.8,8.7,,,2.98,,E,E,NÃO,A,9.0,Gasolina,7.65,,,151-200,False,False
+Extra Grande,Mercedes-Benz,AMG GLC63S EP,,2.0-16V,Plug-in,A-9,S,E,G,12.0,417.0,1.0,A,,184.0,,,,7.2,7.8,6.3,7.6,2.98,,E,E,NÃO,A,9.0,Gasolina,7.47,,6.88,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLE53 4M,(L8),3.0-24V,Híbrido,A-9,S,E,G,14.0,114.0,1.0,A,,175.0,,,,7.2,8.9,,,2.84,,E,E,NÃO,A,9.0,Gasolina,7.96,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLE53 4M,,3.0-24V,Híbrido,A-9,S,E,G,14.0,391.0,2.0,A,,179.0,,,,7.0,8.6,,,2.92,,E,E,NÃO,A,9.0,Gasolina,7.72,,,151-200,False,True
+Extra Grande,Mercedes-Benz,AMG GLE63 S CO,Coupé,4.0-32V,Híbrido,A-9,S,E,G,24.0,188.0,15.0,B,,212.0,,,,5.9,7.4,,,3.45,,E,E,NÃO,A,9.0,Gasolina,6.58,,,201-250,False,True
+Extra Grande,Mercedes-Benz,AMG GLE63 S CO,Coupé 2025,4.0-32V,Híbrido,A-9,S,E,G,19.0,177.0,1.0,A,,215.0,,,,5.9,7.3,,,3.48,,E,E,NÃO,A,9.0,Gasolina,6.53,,,201-250,False,True
+Extra Grande,Mercedes-Benz,AMG GT63S EP,,4.0-32V,Plug-in,A-9,S,E,G,11.0,380.0,1.0,A,,203.0,,,,6.3,7.1,5.5,6.8,3.37,,E,E,NÃO,A,9.0,Gasolina,6.66,,6.09,201-250,False,True
+Extra Grande,Mercedes-Benz,AMG S63 EP,,4.0-32V,Plug-in,A-9,S,E,G,11.0,318.0,2.0,A,,194.0,,,,6.5,7.9,5.7,7.7,3.14,,E,E,NÃO,A,9.0,Gasolina,7.13,,6.6,151-200,False,True
+Extra Grande,Mercedes-Benz,C200,AMG LINE,1.5-16V,Híbrido,A-9,S,E,G,19.0,65.0,0.0,A,,110.0,,,,11.1,13.9,,,1.78,,B,C,NÃO,A,9.0,Gasolina,12.36,,,101-150,False,True
+Extra Grande,Mercedes-Benz,C300,AMG LINE,2.0-16V,Híbrido,A-9,S,E,G,15.0,91.0,0.0,A,,118.0,,,,10.4,12.9,,,1.92,,B,C,NÃO,A,9.0,Gasolina,11.53,,,101-150,False,True
+Extra Grande,Mercedes-Benz,CLA200,AMG LINE,1.3-16V,Híbrido,A-7,S,E,G,33.0,125.0,3.0,B,,104.0,,,,12.0,14.0,,,1.68,,A,C,NÃO,A,7.0,Gasolina,12.9,,,101-150,False,True
+Extra Grande,Mercedes-Benz,CLA200,PROGRESSIVE,1.3-16V,Híbrido,A-7,S,E,G,33.0,125.0,3.0,B,,104.0,,,,12.0,14.0,,,1.68,,A,C,NÃO,A,7.0,Gasolina,12.9,,,101-150,False,True
+Extra Grande,Mercedes-Benz,CLA250,,2.0-16V,Combustão,DCT-7,S,E,G,17.0,166.0,1.0,A,,124.0,,,,9.5,13.3,,,2.01,,C,C,NÃO,DCT,7.0,Gasolina,11.21,,,101-150,False,False
+Extra Grande,Mercedes-Benz,E300,EXCLUSIVE,2.0-16V,Combustão,A-9,S,E,G,12.0,262.0,1.0,A,,136.0,,,,8.9,12.0,,,2.19,,C,D,NÃO,A,9.0,Gasolina,10.3,,,101-150,False,False
+Extra Grande,Mercedes-Benz,E300,EXCLUSIVE,2.0-16V,Híbrido,A-9,S,E,G,22.0,111.0,6.0,B,,128.0,,,,9.5,12.3,,,2.08,,C,D,NÃO,A,9.0,Gasolina,10.76,,,101-150,False,True
+Extra Grande,Mercedes-Benz,E300,EXCLUSIVE (L8),2.0-16V,Híbrido,A-9,S,E,G,22.0,79.0,2.0,A,,122.0,,,,9.9,12.8,,,1.98,,B,C,NÃO,A,9.0,Gasolina,11.21,,,101-150,False,True
+Extra Grande,Mercedes-Benz,EQA 250,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,34.6,31.2,0.62,304.0,A,A,NÃO,A,1.0,Elétrico,,,33.07,,True,True
+Extra Grande,Mercedes-Benz,EQB 250,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,33.1,30.0,0.64,291.0,A,A,NÃO,A,1.0,Elétrico,,,31.7,,True,True
+Extra Grande,Mercedes-Benz,EQB 350 4M,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,30.0,29.2,0.69,272.0,A,A,NÃO,A,1.0,Elétrico,,,29.64,,True,True
+Extra Grande,Mercedes-Benz,EQB250+,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,40.3,36.6,0.53,376.0,A,A,NÃO,A,1.0,Elétrico,,,38.64,,True,True
+Extra Grande,Mercedes-Benz,EQC400 4M,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,24.2,23.7,0.85,271.0,A,A,NÃO,A,1.0,Elétrico,,,23.98,,True,True
+Extra Grande,Mercedes-Benz,EQE 300,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,29.4,28.3,0.7,369.0,A,A,NÃO,A,1.0,Elétrico,,,28.9,,True,True
+Extra Grande,Mercedes-Benz,EQE300,SUV,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,,,,,,,29.9,27.9,0.7,367.0,A,A,NÃO,A,1.0,Elétrico,,,29.0,,True,True
+Extra Grande,Mercedes-Benz,EQE350,SUV,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,30.7,28.1,0.69,406.0,A,A,NÃO,A,1.0,Elétrico,,,29.53,,True,True
+Extra Grande,Mercedes-Benz,EQE350,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,31.4,31.0,0.65,421.0,A,A,NÃO,A,1.0,Elétrico,,,31.22,,True,True
+Extra Grande,Mercedes-Benz,EQS450,,Elétrico,Elétrico,A-1,S,E,E,0.0,0.0,0.0,A,,,,,,,,27.5,25.9,0.76,411.0,A,A,NÃO,A,1.0,Elétrico,,,26.78,,True,True
+Extra Grande,Mercedes-Benz,EQS450 4M,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,29.3,27.3,0.72,470.0,A,A,NÃO,A,1.0,Elétrico,,,28.4,,True,True
+Extra Grande,Mercedes-Benz,GLB200,PROGRESSIVE,1.3-16V,Híbrido,A-7,S,E,G,36.0,220.0,2.0,B,,124.0,,,,10.1,12.0,,,2.01,,C,C,NÃO,A,7.0,Gasolina,10.96,,,101-150,False,True
+Extra Grande,Mercedes-Benz,GLB200,PROGRESSIVE(L7),1.3-16V,Combustão,DCT-7,S,E,G,35.0,113.0,2.0,A,,123.0,,,,10.0,12.4,,,1.99,,C,C,NÃO,DCT,7.0,Gasolina,11.08,,,101-150,False,False
+Extra Grande,Mercedes-Benz,GLB220 4M,AMG LINE,2.0-16V,Híbrido,A-8,S,E,G,15.0,90.0,1.0,A,,130.0,,,,9.5,12.0,,,2.1,,C,D,NÃO,A,8.0,Gasolina,10.62,,,101-150,False,True
+Extra Grande,Mercedes-Benz,GLS 450 4M,,3.0-24V,Híbrido,A-9,S,E,G,10.0,280.0,2.0,A,,178.0,,,,7.1,8.8,,,2.87,,E,E,NÃO,A,9.0,Gasolina,7.86,,,151-200,False,True
+Extra Grande,Mercedes-Benz,GLS 450 4M,,3.0-24V,Híbrido,A-9,S,E,G,13.0,83.0,1.0,A,,161.0,,,,7.8,9.7,,,2.6,,E,D,NÃO,A,9.0,Gasolina,8.66,,,151-200,False,True
+Extra Grande,PORSCHE,MACAN,-- / T,2.0-16V,Combustão,DCT-7,S,E,G,32.0,253.0,0.0,B,,176.0,,,,7.4,8.3,,,2.85,,E,E,NÃO,DCT,7.0,Gasolina,7.81,,,151-200,False,False
+Extra Grande,PORSCHE,MACAN,E2,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,36.5,31.0,0.6,443.0,A,A,NÃO,,,Elétrico,,,34.03,0-50,True,True
+Extra Grande,PORSCHE,MACAN,E4,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,36.5,31.0,0.6,443.0,A,A,NÃO,,,Elétrico,,,34.03,0-50,True,True
+Extra Grande,PORSCHE,MACAN,E4S,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,36.2,30.4,0.61,438.0,A,A,NÃO,,,Elétrico,,,33.59,0-50,True,True
+Extra Grande,PORSCHE,MACAN,ETURBO,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,36.1,30.3,0.61,435.0,A,A,NÃO,,,Elétrico,,,33.49,0-50,True,True
+Extra Grande,PORSCHE,MACAN,GTS,2.9-24V,Combustão,DCT-7,S,E,G,3.0,73.0,1.0,A,,184.0,,,,6.8,8.4,,,3.0,,E,E,NÃO,DCT,7.0,Gasolina,7.52,,,151-200,False,False
+Extra Grande,PORSCHE,MACAN,S,2.9-24V,Combustão,DCT-7,S,E,G,4.0,85.0,2.0,A,,182.0,,,,7.0,8.4,,,2.96,,E,E,NÃO,DCT,7.0,Gasolina,7.63,,,151-200,False,False
+Extra Grande,PORSCHE,MACAN (MY25),-- / T,2.0-16V,Combustão,DCT-7,S,E,G,22.0,290.0,0.0,A,,175.0,,,,7.3,8.5,,,2.84,,E,E,NÃO,DCT,7.0,Gasolina,7.84,,,151-200,False,False
+Extra Grande,TOYOTA,CAMRY,HV,2.5-16V,Híbrido,CVT,S,E,G,13.0,74.0,0.0,A,,78.0,,,,17.4,15.3,,,1.27,,A,B,SIM,CVT,,Gasolina,16.46,,,51-100,False,True
+Extra Grande,TOYOTA,RAV4,XSE PHEV,2.5 - 16V,Plug-in,CVT,S,E,G,15.0,16.0,0.0,A,,97.0,20.0,,,14.0,12.9,35.0,30.0,0.62,55.0,A,A,SIM,CVT,,Gasolina,13.51,,32.75,51-100,False,True
+Extra Grande,TOYOTA,RAV4H,S AWD CNT,2.5 - 16V,Híbrido,CVT,S,E,G,13.0,65.0,1.0,C,,82.0,,,,17.1,14.5,,,1.32,,A,B,SIM,CVT,,Gasolina,15.93,,,51-100,False,True
+Extra Grande,TOYOTA,RAV4H,SXAWD CNT,2.5 - 16V,Híbrido,CVT,S,E,G,13.0,65.0,1.0,C,,82.0,,,,17.1,14.5,,,1.32,,A,B,SIM,CVT,,Gasolina,15.93,,,51-100,False,True
+Extra Grande,VW,ID.BUZZ,PRO,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,32.0,25.7,0.7,337.0,A,A,NÃO,A,,Elétrico,,,29.16,0-50,True,True
+Extra Grande,VW,JETTA,GLI,2.0-16V,Combustão,DCT - 7,S,E,G,13.0,112.0,1.0,A,,125.0,,,,9.9,12.2,,,2.03,,C,C,NÃO,DCT,7.0,Gasolina,10.94,,,101-150,False,False
+Extra Grande,VW,TIGUAN,ALLSPACE RL,2.0-16V,Combustão,A - 8,S,E,G,8.0,96.0,0.0,A,,135.0,,,,9.2,11.3,,,2.2,,C,D,NÃO,A,8.0,Gasolina,10.14,,,101-150,False,False
+Extra Grande,ZEEKR,001,Flagship,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,34.1,30.1,0.63,426.0,A,A,NÃO,A,,Elétrico,,,32.3,,True,True
+Extra Grande,ZEEKR,001,Premium,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,34.1,30.1,0.63,426.0,A,A,NÃO,A,,Elétrico,,,32.3,,True,True
+Fora de Estrada Compacto,JEEP,RENEGADE,S T2704X4,1.3-16V T,Combustão,A-9,S,E,F,47.0,337.0,6.0,B,0.0,139.0,,6.4,7.6,9.0,10.8,,,2.24,,D,D,NÃO,A,9.0,Flex,9.81,6.94,,101-150,False,False
+Fora de Estrada Compacto,JEEP,RENEGADE,S T2704X4T,1.3-16V T,Combustão,A-9,S,E,F,47.0,337.0,6.0,B,0.0,139.0,,6.4,7.6,9.0,10.8,,,2.24,,D,D,NÃO,A,9.0,Flex,9.81,6.94,,101-150,False,False
+Fora de Estrada Compacto,JEEP,RENEGADE,TH T2704X4,1.3-16V T,Combustão,A-9,S,E,F,47.0,337.0,6.0,B,0.0,139.0,,6.4,7.6,9.0,10.8,,,2.24,,D,D,NÃO,A,9.0,Flex,9.81,6.94,,101-150,False,False
+Fora de Estrada Compacto,JEEP,RENEGADE,TRAIL 4x4,1.3-16V T,Combustão,A-9,S,E,F,47.0,337.0,6.0,B,0.0,139.0,,6.4,7.6,9.0,10.8,,,2.24,,D,D,NÃO,A,9.0,Flex,9.81,6.94,,101-150,False,False
+Fora de Estrada Compacto,JEEP,RENEGADE,WILLYS 4x4,1.3-16V T,Combustão,A-9,S,E,F,49.0,404.0,6.0,B,0.0,145.0,,6.2,7.2,8.9,10.0,,,2.32,,D,D,NÃO,A,9.0,Flex,9.4,6.65,,101-150,False,False
+Fora de Estrada Compacto,SUZUKI,JIMNY SIERRA,4 EXPEDITION ALLGRIP,1.5-16V,Combustão,A - 4,S,E,G,28.0,209.0,1.0,A,,145.0,,,,9.5,9.1,,,2.35,,E,D,NÃO,A,4.0,Gasolina,9.32,,,101-150,False,False
+Fora de Estrada Compacto,SUZUKI,JIMNY SIERRA,4 SPORT ALLGRIP,1.5-16V,Combustão,A - 4,S,E,G,25.0,170.0,1.0,A,,125.0,,,,10.6,10.8,,,2.04,,B,C,NÃO,A,4.0,Gasolina,10.69,,,101-150,False,False
+Fora de Estrada Compacto,SUZUKI,JIMNY SIERRA,4 STYLE ALLGRIP,1.5-16V,Combustão,A - 4,S,E,G,30.0,168.0,0.0,A,,134.0,,,,10.1,9.7,,,2.19,,C,D,NÃO,A,4.0,Gasolina,9.92,,,101-150,False,False
+Fora de Estrada Compacto,SUZUKI,JIMNY SIERRA,4YOU ALLGRIP,1.5-16V,Combustão,A - 4,S,E,G,25.0,170.0,1.0,A,,125.0,,,,10.6,10.8,,,2.04,,B,C,NÃO,A,4.0,Gasolina,10.69,,,101-150,False,False
+Fora de Estrada Compacto,SUZUKI,JIMNY SIERRA,4YOU ALLGRIP,1.5-16V,Combustão,M - 5,S,E,G,29.0,179.0,2.0,A,,118.0,,,,10.9,11.9,,,1.92,,A,C,NÃO,M,5.0,Gasolina,11.35,,,101-150,False,False
+Fora de Estrada Compacto,SUZUKI,JIMNY SIERRA,4YOU PLUS ALLGRIP,1.5-16V,Combustão,A - 4,S,E,G,25.0,170.0,1.0,A,,125.0,,,,10.6,10.8,,,2.04,,B,C,NÃO,A,4.0,Gasolina,10.69,,,101-150,False,False
+Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,HC D4A (MY25),2.8 - 16V,Combustão,A-8,S,E,D,202.0,26.0,,B,,199.0,,,,9.2,11.2,,,2.7,,C,E,NÃO,A,8.0,Diesel,10.1,,,151-200,False,False
+Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,HC D4A (MY25.5),2.8 - 16V,Combustão,A-8,S,E,D,230.0,24.0,,B,,192.0,,,,9.5,11.6,,,2.6,,C,D,NÃO,A,8.0,Diesel,10.44,,,151-200,False,False
+Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,LT D4A,2.8 - 16V,Combustão,A-6,S,E,D,252.0,41.0,0.0,B,,224.0,,,,8.2,10.3,,,3.03,,D,E,NÃO,A,6.0,Diesel,9.14,,,201-250,False,False
+Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,LT D4A (MY25),2.8 - 16V,Combustão,A-8,S,E,D,202.0,26.0,,B,,199.0,,,,9.2,11.2,,,2.7,,C,E,NÃO,A,8.0,Diesel,10.1,,,151-200,False,False
+Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,LT D4A (MY25.5),2.8 - 16V,Combustão,A-8,S,E,D,230.0,24.0,,B,,192.0,,,,9.5,11.6,,,2.6,,C,D,NÃO,A,8.0,Diesel,10.44,,,151-200,False,False
+Fora de Estrada Grande,CHEVROLET,TRAILBLAZER,PRE D4A,2.8 - 16V,Combustão,A-6,S,E,D,252.0,41.0,0.0,B,,224.0,,,,8.2,10.3,,,3.03,,D,E,NÃO,A,6.0,Diesel,9.14,,,201-250,False,False
+Fora de Estrada Grande,FORD,Bronco Sport,Wildtrak,2.0 - 16V,Combustão,A-8,S,E,G,29.0,407.0,1.0,B,,145.0,,,,8.6,10.5,,,2.36,,B,D,NÃO,A,8.0,Gasolina,9.46,,,101-150,False,False
+Fora de Estrada Grande,JEEP,COMMANDER,BLACKHAWK,2.0-16V T,Combustão,A-9,S,E,G,12.0,122.0,1.0,A,,155.0,,,,8.0,10.2,,,2.51,,B,D,NÃO,A,9.0,Gasolina,8.99,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMMANDER,LIMITED TD380,2.0 T,Combustão,A-9,S,E,D,60.0,18.0,,A,,175.0,,,,10.2,13.2,,,2.37,,B,D,NÃO,A,9.0,Diesel,11.55,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMMANDER,OVERLAND TD380,2.0 T,Combustão,A-9,S,E,D,60.0,18.0,,A,,175.0,,,,10.2,13.2,,,2.37,,B,D,NÃO,A,9.0,Diesel,11.55,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMMANDER,OVR T 2.0,2.0-16V T,Combustão,A-9,S,E,G,12.0,122.0,1.0,A,,155.0,,,,8.0,10.2,,,2.51,,B,D,NÃO,A,9.0,Gasolina,8.99,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMPASS,BLACKHAWK 2.0T,2.0-16V T,Combustão,A-9,S,E,G,19.0,118.0,2.0,A,,146.0,,,,8.3,11.0,,,2.36,,B,D,NÃO,A,9.0,Gasolina,9.52,,,101-150,False,False
+Fora de Estrada Grande,JEEP,COMPASS,LIMIT D 4X4,2.0-16V T,Combustão,A-9,S,E,D,66.0,20.0,,A,,168.0,,,,10.6,13.6,,,2.27,,A,D,NÃO,A,9.0,Diesel,11.95,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMPASS,LIMITED TD,2.0 T,Combustão,A-9,S,E,D,66.0,20.0,,A,,168.0,,,,10.6,13.6,,,2.27,,A,D,NÃO,A,9.0,Diesel,11.95,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMPASS,LONGIT 2.0T,2.0-16V T,Combustão,A-9,S,E,G,19.0,118.0,2.0,A,,146.0,,,,8.3,11.0,,,2.36,,B,D,NÃO,A,9.0,Gasolina,9.52,,,101-150,False,False
+Fora de Estrada Grande,JEEP,COMPASS,LONGITUDE TD,2.0 T,Combustão,A-9,S,E,D,66.0,20.0,,A,,168.0,,,,10.6,13.6,,,2.27,,A,D,NÃO,A,9.0,Diesel,11.95,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMPASS,OVERLA 2.0T,2.0-16V T,Combustão,A-9,S,E,G,19.0,118.0,2.0,A,,146.0,,,,8.3,11.0,,,2.36,,B,D,NÃO,A,9.0,Gasolina,9.52,,,101-150,False,False
+Fora de Estrada Grande,JEEP,COMPASS,SPORT TD,2.0 T,Combustão,A-9,S,E,D,66.0,20.0,,A,,168.0,,,,10.6,13.6,,,2.27,,A,D,NÃO,A,9.0,Diesel,11.95,,,151-200,False,False
+Fora de Estrada Grande,JEEP,COMPASS,TRAILHAWK TD,2.0 T,Combustão,A-9,S,E,D,46.0,24.0,,A,,171.0,,,,10.5,13.3,,,2.31,,B,D,NÃO,A,9.0,Diesel,11.76,,,151-200,False,False
+Fora de Estrada Grande,JEEP,G CHEROKEE,4XE,2.0-16V T,Plug-in,A-8,S,E,G,9.0,209.0,0.0,A,,158.0,57.0,,,8.3,9.1,18.7,19.4,1.07,29.0,A,B,SIM,A,8.0,Gasolina,8.66,,19.02,151-200,False,True
+Fora de Estrada Grande,JEEP,WRANGLER,UNL RUBI (CY 24),2.0-16V T,Combustão,A-8,S,E-H,G,52.0,449.0,1.0,B,,190.0,,,,7.1,7.3,,,3.09,,E,E,NÃO,A,8.0,Gasolina,7.19,,,151-200,False,False
+Fora de Estrada Grande,JEEP,WRANGLER,UNL SAHA (CY 24),2.0-16V T,Combustão,A-8,S,E-H,G,34.0,308.0,1.0,A,,168.0,,,,7.8,8.6,,,2.73,,C,E,NÃO,A,8.0,Gasolina,8.16,,,151-200,False,False
+Fora de Estrada Grande,JEEP,WRANGLER,UNLIMITED RUBICON,2.0-16V T,Combustão,A-8,S,E-H,G,24.0,205.0,1.0,A,,176.0,,,,7.5,8.2,,,2.86,,D,E,NÃO,A,8.0,Gasolina,7.82,,,151-200,False,False
+Fora de Estrada Grande,JEEP,WRANGLER,UNLIMITED SAHARA,2.0-16V T,Combustão,A-8,S,E-H,G,27.0,151.0,1.0,A,,165.0,,,,7.9,8.8,,,2.67,,C,E,NÃO,A,8.0,Gasolina,8.31,,,151-200,False,False
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,7L,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE 7L,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE XD,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,HSE XD 7L,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,LE75TH,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,PHEV HSE XD,2.0-16V,Plug-in,A-8,S,E,G,14.0,42.0,0.0,A,,175.0,62.0,,,7.7,7.9,16.9,27.5,0.99,33.0,A,B,SIM,A,8.0,Gasolina,7.79,,21.67,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,PHEV X,2.0-16V,Plug-in,A-8,S,E,G,14.0,42.0,0.0,,,175.0,62.0,,,7.7,7.9,16.9,27.5,0.99,33.0,,,NÃO,A,8.0,Gasolina,7.79,,21.67,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,S XD,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,S XD 7L,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE 7L,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE XD,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,SE XD 7L,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,X,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,X 7L,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110,,3.0-24V,Híbrido,A-8,S,E,D,29.0,78.0,,A,,189.0,,,,9.9,11.4,,,2.56,,B,D,NÃO,A,8.0,Diesel,10.58,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110 D350,HSE XD,3.0-24V,Híbrido,A-8,S,E,D,36.0,54.0,,A,,205.0,,,,9.1,10.6,,,2.78,,C,E,NÃO,A,8.0,Diesel,9.77,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110 D350,HSEXD 7L,3.0-24V,Híbrido,A-8,S,E,D,36.0,54.0,,A,,205.0,,,,9.1,10.6,,,2.78,,C,E,NÃO,A,8.0,Diesel,9.77,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110 D350,X,3.0-24V,Híbrido,A-8,S,E,D,36.0,54.0,,A,,205.0,,,,9.1,10.6,,,2.78,,C,E,NÃO,A,8.0,Diesel,9.77,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 110 D350,X 7L,3.0-24V,Híbrido,A-8,S,E,D,36.0,54.0,,A,,205.0,,,,9.1,10.6,,,2.78,,C,E,NÃO,A,8.0,Diesel,9.77,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,HSE,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,HSE XD,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,LE,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,OB,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,S,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,S XD,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,SE,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,SE XD,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130,X,3.0-24V,Híbrido,A-8,S,E,D,46.0,67.0,,A,,201.0,,,,9.5,10.3,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.86,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130 D350,X,3.0-24V,Híbrido,A-8,S,E,D,35.0,71.0,,A,,201.0,,,,9.2,10.9,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.96,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 130 D350,X7L,3.0-24V,Híbrido,A-8,S,E,D,35.0,71.0,,A,,201.0,,,,9.2,10.9,,,2.73,,C,E,NÃO,A,8.0,Diesel,9.96,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90,HSE,3.0-24V,Híbrido,A-8,S,E,D,23.0,52.0,,A,,203.0,,,,9.2,10.8,,,2.75,,C,E,NÃO,A,8.0,Diesel,9.92,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90,HSE XD,3.0-24V,Híbrido,A-8,S,E,D,23.0,52.0,,A,,203.0,,,,9.2,10.8,,,2.75,,C,E,NÃO,A,8.0,Diesel,9.92,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90,S,3.0-24V,Híbrido,A-8,S,E,D,23.0,52.0,,A,,203.0,,,,9.2,10.8,,,2.75,,C,E,NÃO,A,8.0,Diesel,9.92,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90,SE,3.0-24V,Híbrido,A-8,S,E,D,23.0,52.0,,A,,203.0,,,,9.2,10.8,,,2.75,,C,E,NÃO,A,8.0,Diesel,9.92,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90,SE XD,3.0-24V,Híbrido,A-8,S,E,D,23.0,52.0,,A,,203.0,,,,9.2,10.8,,,2.75,,C,E,NÃO,A,8.0,Diesel,9.92,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90,,3.0-24V,Híbrido,A-8,S,E,D,23.0,52.0,,A,,203.0,,,,9.2,10.8,,,2.75,,C,E,NÃO,A,8.0,Diesel,9.92,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90 D350,HSE,3.0-24V,Híbrido,A-8,S,E,D,36.0,54.0,,A,,205.0,,,,9.1,10.6,,,2.78,,C,E,NÃO,A,8.0,Diesel,9.77,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DEFENDER 90 D350,HSE XD,3.0-24V,Híbrido,A-8,S,E,D,36.0,54.0,,A,,205.0,,,,9.1,10.6,,,2.78,,C,E,NÃO,A,8.0,Diesel,9.77,,,201-250,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY,D300 HSED,3.0-24V,Híbrido,A-8,S,E,D,25.0,43.0,,A,,193.0,,,,9.5,11.4,,,2.62,,C,D,NÃO,A,8.0,Diesel,10.36,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY,D300 LE,3.0-24V,Híbrido,A-8,S,E,D,25.0,43.0,,A,,193.0,,,,9.5,11.4,,,2.62,,C,D,NÃO,A,8.0,Diesel,10.36,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY,D350 HSED,3.0-24V,Híbrido,A-8,S,E,D,32.0,124.0,,A,,191.0,,,,9.5,11.8,,,2.59,,C,D,NÃO,A,8.0,Diesel,10.54,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY,D350 LE,3.0-24V,Híbrido,A-8,S,E,D,32.0,124.0,,A,,191.0,,,,9.5,11.8,,,2.59,,C,D,NÃO,A,8.0,Diesel,10.54,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S,2.0-16V,Híbrido,A-9,S,E,D,25.0,32.0,,A,,170.0,,,,10.7,12.9,,,2.3,,B,D,NÃO,A,9.0,Diesel,11.69,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 S 7L,2.0-16V,Híbrido,A-9,S,E,D,25.0,32.0,,A,,170.0,,,,10.7,12.9,,,2.3,,B,D,NÃO,A,9.0,Diesel,11.69,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE D,2.0-16V,Híbrido,A-9,S,E,D,25.0,32.0,,A,,170.0,,,,10.7,12.9,,,2.3,,B,D,NÃO,A,9.0,Diesel,11.69,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,D200 SE D 7L,2.0-16V,Híbrido,A-9,S,E,D,25.0,32.0,,A,,170.0,,,,10.7,12.9,,,2.3,,B,D,NÃO,A,9.0,Diesel,11.69,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF S,2.0-16V,Combustão,A-9,S,E,F,13.0,338.0,4.0,A,0.0,181.0,,4.9,6.2,7.0,8.6,,,2.9,,D,E,NÃO,A,9.0,Flex,7.72,5.48,,151-200,False,False
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF S 7L,2.0-16V,Combustão,A-9,S,E,F,13.0,338.0,4.0,A,0.0,181.0,,4.9,6.2,7.0,8.6,,,2.9,,D,E,NÃO,A,9.0,Flex,7.72,5.48,,151-200,False,False
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF SE D,2.0-16V,Combustão,A-9,S,E,F,13.0,338.0,4.0,A,0.0,181.0,,4.9,6.2,7.0,8.6,,,2.9,,D,E,NÃO,A,9.0,Flex,7.72,5.48,,151-200,False,False
+Fora de Estrada Grande,LAND ROVER,DISCOVERY SPORT,P250FF SED7L,2.0-16V,Combustão,A-9,S,E,F,13.0,338.0,4.0,A,0.0,181.0,,4.9,6.2,7.0,8.6,,,2.9,,D,E,NÃO,A,9.0,Flex,7.72,5.48,,151-200,False,False
+Fora de Estrada Grande,LAND ROVER,EVOQUE,P250FF HSE D,2.0-16V,Combustão,A-9,S,E,F,12.0,361.0,3.0,A,0.0,151.0,,5.4,7.1,8.2,10.4,,,2.49,,B,D,NÃO,A,9.0,Flex,9.19,6.17,,151-200,False,False
+Fora de Estrada Grande,LAND ROVER,EVOQUE,P250FF S,2.0-16V,Combustão,A-9,S,E,F,12.0,361.0,3.0,A,0.0,151.0,,5.4,7.1,8.2,10.4,,,2.49,,B,D,NÃO,A,9.0,Flex,9.19,6.17,,151-200,False,False
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350,3.0-24V,Híbrido,A-8,S,E,D,33.0,58.0,,A,,194.0,,,,9.5,11.3,,,2.63,,C,D,NÃO,A,8.0,Diesel,10.31,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 AB,3.0-24V,Híbrido,A-8,S,E,D,33.0,58.0,,A,,194.0,,,,9.5,11.3,,,2.63,,C,D,NÃO,A,8.0,Diesel,10.31,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 HSE,3.0-24V,Híbrido,A-8,S,E,D,33.0,58.0,,A,,194.0,,,,9.5,11.3,,,2.63,,C,D,NÃO,A,8.0,Diesel,10.31,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 LE,3.0-24V,Híbrido,A-8,S,E,D,33.0,58.0,,A,,194.0,,,,9.5,11.3,,,2.63,,C,D,NÃO,A,8.0,Diesel,10.31,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 SE,3.0-24V,Híbrido,A-8,S,E,D,33.0,58.0,,A,,194.0,,,,9.5,11.3,,,2.63,,C,D,NÃO,A,8.0,Diesel,10.31,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,D350 SV,3.0-24V,Híbrido,A-8,S,E,D,33.0,58.0,,A,,194.0,,,,9.5,11.3,,,2.63,,C,D,NÃO,A,8.0,Diesel,10.31,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV AB,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV AB,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV HSE,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV HSE,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV LE,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV SE,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV SE,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV STD,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV SV,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER,PHEV SV,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,D350 AB,3.0-24V,Híbrido,A-8,S,E,D,82.0,22.0,,A,,199.0,,,,9.1,11.6,,,2.69,,C,E,NÃO,A,8.0,Diesel,10.22,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,D350 HSED,3.0-24V,Híbrido,A-8,S,E,D,82.0,22.0,,A,,199.0,,,,9.1,11.6,,,2.69,,C,E,NÃO,A,8.0,Diesel,10.22,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,D350 LE,3.0-24V,Híbrido,A-8,S,E,D,82.0,22.0,,A,,199.0,,,,9.1,11.6,,,2.69,,C,E,NÃO,A,8.0,Diesel,10.22,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,D350 S,3.0-24V,Híbrido,A-8,S,E,D,82.0,22.0,,A,,199.0,,,,9.1,11.6,,,2.69,,C,E,NÃO,A,8.0,Diesel,10.22,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,D350 SD,3.0-24V,Híbrido,A-8,S,E,D,82.0,22.0,,A,,199.0,,,,9.1,11.6,,,2.69,,C,E,NÃO,A,8.0,Diesel,10.22,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,D350 SE,3.0-24V,Híbrido,A-8,S,E,D,82.0,22.0,,A,,199.0,,,,9.1,11.6,,,2.69,,C,E,NÃO,A,8.0,Diesel,10.22,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,D350 SED,3.0-24V,Híbrido,A-8,S,E,D,82.0,22.0,,A,,199.0,,,,9.1,11.6,,,2.69,,C,E,NÃO,A,8.0,Diesel,10.22,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV AB,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV AB,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV HSED,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV HSED,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV LE,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV S,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV S,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV SD,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV SE,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV SE,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV SED,3.0-24V,Plug-in,A-8,S,E,G,1.0,42.0,0.0,A,,173.0,23.0,,,7.5,8.4,17.5,19.0,1.12,71.0,A,B,SIM,A,8.0,Gasolina,7.9,,18.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,RANGE ROVER SPORT,PHEV SED,3.0-24V,Plug-in,A-8,S,E,G,11.0,29.0,1.0,A,,186.0,23.0,,,6.8,8.3,17.7,18.2,1.13,69.0,A,B,SIM,A,8.0,Gasolina,7.48,,17.92,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,P340,3.0-24V,Híbrido,A-8,S,E,G,13.0,375.0,0.0,A,,159.0,,,,7.8,9.9,,,2.59,,C,D,NÃO,A,8.0,Gasolina,8.75,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,P340 HSE RDYN,3.0-24V,Híbrido,A-8,S,E,G,13.0,375.0,0.0,A,,159.0,,,,7.8,9.9,,,2.59,,C,D,NÃO,A,8.0,Gasolina,8.75,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,P340 SE,3.0-24V,Híbrido,A-8,S,E,G,13.0,375.0,0.0,A,,159.0,,,,7.8,9.9,,,2.59,,C,D,NÃO,A,8.0,Gasolina,8.75,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,P340 SE RDYN,3.0-24V,Híbrido,A-8,S,E,G,13.0,375.0,0.0,A,,159.0,,,,7.8,9.9,,,2.59,,C,D,NÃO,A,8.0,Gasolina,8.75,,,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEV HSE DYN,2.0-16V,Plug-in,A-8,S,E,G,13.0,66.0,0.0,A,,164.0,51.0,,,7.9,9.0,19.7,21.2,1.0,38.0,A,B,SIM,A,8.0,Gasolina,8.4,,20.38,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEV HSE DYN,2.0-16V,Plug-in,A-8,S,E,G,10.0,69.0,1.0,A,,164.0,47.0,,,7.8,9.0,20.3,23.3,0.94,39.0,A,A,SIM,A,8.0,Gasolina,8.34,,21.65,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEV HSE RDYN,2.0-16V,Plug-in,A-8,S,E,G,13.0,66.0,0.0,A,,164.0,51.0,,,7.9,9.0,19.7,21.2,1.0,38.0,A,B,SIM,A,8.0,Gasolina,8.4,,20.38,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEV HSED,2.0-16V,Plug-in,A-8,S,E,G,24.0,241.0,1.0,A,,156.0,44.0,,,8.3,9.3,20.6,24.1,0.92,40.0,A,A,SIM,A,8.0,Gasolina,8.75,,22.18,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEV SE DYN,2.0-16V,Plug-in,A-8,S,E,G,13.0,66.0,0.0,A,,164.0,51.0,,,7.9,9.0,19.7,21.2,1.0,38.0,A,B,SIM,A,8.0,Gasolina,8.4,,20.38,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEV SE DYN,2.0-16V,Plug-in,A-8,S,E,G,10.0,69.0,1.0,A,,164.0,47.0,,,7.8,9.0,20.3,23.3,0.94,39.0,A,A,SIM,A,8.0,Gasolina,8.34,,21.65,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEV SE RDYN,2.0-16V,Plug-in,A-8,S,E,G,13.0,66.0,0.0,A,,164.0,51.0,,,7.9,9.0,19.7,21.2,1.0,38.0,A,B,SIM,A,8.0,Gasolina,8.4,,20.38,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEVS,2.0-16V,Plug-in,A-8,S,E,G,13.0,66.0,0.0,A,,164.0,51.0,,,7.9,9.0,19.7,21.2,1.0,38.0,A,B,SIM,A,8.0,Gasolina,8.4,,20.38,151-200,False,True
+Fora de Estrada Grande,LAND ROVER,VELAR,PHEVS,2.0-16V,Plug-in,A-8,S,E,G,10.0,69.0,1.0,A,,164.0,47.0,,,7.8,9.0,20.3,23.3,0.94,39.0,A,A,SIM,A,8.0,Gasolina,8.34,,21.65,151-200,False,True
+Fora de Estrada Grande,Mercedes-Benz,AMG G63 4M,GRD,4.0-32V,Combustão,A-9,S,E,G,12.0,243.0,2.0,A,,246.0,,,,5.2,6.2,,,4.02,,E,E,NÃO,A,9.0,Gasolina,5.65,,,201-250,False,False
+Fora de Estrada Grande,Mercedes-Benz,AMG G63 4M,,4.0-32V,Combustão,A-9,S,E,G,12.0,243.0,2.0,A,,246.0,,,,5.2,6.2,,,4.02,,E,E,NÃO,A,9.0,Gasolina,5.65,,,201-250,False,False
+Fora de Estrada Grande,Mercedes-Benz,G580 EQ,,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,25.8,20.6,0.88,369.0,A,A,NÃO,A,1.0,Elétrico,,,23.46,,True,True
+Fora de Estrada Grande,Mitsubishi,Pajero Sport,HPE,2.4-16V,Combustão,A-8,S,H,D,264.0,19.0,,B,,205.0,,,,8.9,11.4,,,2.75,,C,E,NÃO,A,8.0,Diesel,10.02,,,201-250,False,False
+Fora de Estrada Grande,Mitsubishi,Pajero Sport,HPE-S,2.4-16V,Combustão,A-8,S,H,D,264.0,19.0,,B,,205.0,,,,8.9,11.4,,,2.75,,C,E,NÃO,A,8.0,Diesel,10.02,,,201-250,False,False
+Fora de Estrada Grande,Mitsubishi,Pajero Sport,LEGEND,2.4-16V,Combustão,A-8,S,H,D,264.0,19.0,,B,,205.0,,,,8.9,11.4,,,2.75,,C,E,NÃO,A,8.0,Diesel,10.02,,,201-250,False,False
+Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,DIAMOND,2.8-16V,Combustão,A-6,S,H,D,189.0,16.0,,B,,191.0,,,,9.8,11.2,,,2.59,,C,D,NÃO,A,6.0,Diesel,10.43,,,151-200,False,False
+Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,DIAMOND AT,2.8-16V,Combustão,A-6,S,H,D,81.0,29.0,,A,,204.0,,,,9.3,10.5,,,2.74,,C,E,NÃO,A,6.0,Diesel,9.84,,,201-250,False,False
+Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,GRS,2.8-16V,Combustão,A-6,S,H,D,189.0,16.0,,B,,191.0,,,,9.8,11.2,,,2.59,,C,D,NÃO,A,6.0,Diesel,10.43,,,151-200,False,False
+Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,GRS Power Up,2.8-16V,Combustão,A-6,S,H,D,173.0,17.0,,A,,194.0,,,,9.7,11.0,,,2.63,,C,D,NÃO,A,6.0,Diesel,10.28,,,151-200,False,False
+Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,SRX,2.8-16V,Combustão,A-6,S,H,D,189.0,16.0,,B,,191.0,,,,9.8,11.2,,,2.59,,C,D,NÃO,A,6.0,Diesel,10.43,,,151-200,False,False
+Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,SRX PLATINUM AT,2.8-16V,Combustão,A-6,S,H,D,81.0,29.0,,A,,204.0,,,,9.3,10.5,,,2.74,,C,E,NÃO,A,6.0,Diesel,9.84,,,201-250,False,False
+Fora de Estrada Grande,TOYOTA,SW4 DIESEL 4X4,SRX Platinum,2.8-16V,Combustão,A-6,S,H,D,166.0,16.0,,A,,191.0,,,,9.8,11.2,,,2.59,,C,D,NÃO,A,6.0,Diesel,10.43,,,151-200,False,False
+Grande,AUDI,A3 Sedan,Advanced (MY25 ed.0),2.0 - 16V,Combustão,DCT-7,S,E,G,11.0,134.0,0.0,A,,124.0,,,,9.7,13.0,,,2.0,,D,C,NÃO,DCT,7.0,Gasolina,11.18,,,101-150,False,False
+Grande,AUDI,A3 Sedan,Advanced (MY25),2.0 - 16V,Combustão,DCT-7,S,E,G,11.0,134.0,0.0,A,,124.0,,,,9.7,13.0,,,2.0,,D,C,NÃO,DCT,7.0,Gasolina,11.18,,,101-150,False,False
+Grande,AUDI,A3 Sedan,Performance (MY25 ed.0),2.0 - 16V,Combustão,DCT-7,S,E,G,11.0,134.0,0.0,A,,124.0,,,,9.7,13.0,,,2.0,,D,C,NÃO,DCT,7.0,Gasolina,11.18,,,101-150,False,False
+Grande,AUDI,A3 Sedan,Performance (MY25),2.0 - 16V,Combustão,DCT-7,S,E,G,11.0,154.0,0.0,A,,121.0,,,,10.1,12.9,,,1.95,,C,C,NÃO,DCT,7.0,Gasolina,11.36,,,101-150,False,False
+Grande,AUDI,A3 Sedan,Performance Black,2.0 - 16V,Híbrido,DCT-7,S,E,G,12.0,88.0,1.0,A,,116.0,,,,10.8,12.9,,,1.87,,C,C,NÃO,DCT,7.0,Gasolina,11.74,,,101-150,False,True
+Grande,AUDI,A3 Sedan,Performance Black (ed. 0),2.0 - 16V,Híbrido,DCT-7,S,E,G,13.0,93.0,1.0,A,,116.0,,,,10.6,13.1,,,1.88,,C,C,NÃO,DCT,7.0,Gasolina,11.72,,,101-150,False,True
+Grande,AUDI,A3 Sedan,S line,2.0 - 16V,Híbrido,DCT-7,S,E,G,12.0,88.0,1.0,A,,116.0,,,,10.8,12.9,,,1.87,,C,C,NÃO,DCT,7.0,Gasolina,11.74,,,101-150,False,True
+Grande,AUDI,A3 Sedan,S line (ed. 0),2.0 - 16V,Híbrido,DCT-7,S,E,G,13.0,93.0,1.0,A,,116.0,,,,10.6,13.1,,,1.88,,C,C,NÃO,DCT,7.0,Gasolina,11.72,,,101-150,False,True
+Grande,BMW,218i,,1.5 - 12V,Combustão,DCT-7,S,E,G,18.0,122.0,1.0,A,,110.0,,,,11.2,13.6,,,1.78,,B,C,NÃO,DCT,7.0,Gasolina,12.28,,,101-150,False,False
+Grande,BMW,X2,M35i,2.0 - 16V,Combustão,A-7,S,E,G,10.0,335.0,0.0,A,,134.0,,,,9.1,11.8,,,2.17,,E,D,NÃO,A,7.0,Gasolina,10.32,,,101-150,False,False
+Grande,BMW,iX1,eDrive20,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,37.4,34.3,0.56,,A,A,NÃO,A,,Elétrico,,,36.0,0-50,True,True
+Grande,BMW,iX1,xDrive30,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,35.3,29.0,0.63,303.0,A,A,NÃO,A,,Elétrico,,,32.47,0-50,True,True
+Grande,BMW,iX2,xDrive30,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,38.5,33.0,0.57,337.0,A,A,NÃO,A,,Elétrico,,,36.02,0-50,True,True
+Grande,BYD,D1,GL 180EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,39.2,34.2,0.55,258.0,A,A,NÃO,,,Elétrico,,,36.95,0-50,True,True
+Grande,BYD,D1,GS 180EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,39.2,34.2,0.55,258.0,A,A,NÃO,,,Elétrico,,,36.95,0-50,True,True
+Grande,CAOA CHERY,ARRIZO 6,PRO,1.5T -16V,Combustão,CVT,S,E,F,52.0,179.0,2.0,B,0.0,115.0,,7.4,9.2,10.6,13.4,,,1.86,,C,C,NÃO,CVT,,Flex,11.86,8.21,,101-150,False,False
+Grande,CAOA CHERY,ARRIZO 6,PRO H,1.5T -16V,Híbrido,CVT,S,E,F,43.0,166.0,1.0,B,0.0,103.0,,8.9,9.9,12.5,13.5,,,1.63,,B,C,NÃO,CVT,,Flex,12.95,9.35,,101-150,False,True
+Grande,CHEVROLET,CRUZE,LT HB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,337.0,2.0,B,0.0,120.0,,6.8,9.2,10.1,13.1,,,1.96,,C,C,NÃO,A,6.0,Flex,11.45,7.88,,101-150,False,False
+Grande,CHEVROLET,CRUZE,LT NB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,275.0,2.0,B,0.0,114.0,,7.1,9.7,10.5,13.9,,,1.86,,C,C,NÃO,A,6.0,Flex,12.03,8.27,,101-150,False,False
+Grande,CHEVROLET,CRUZE,LTZ HB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,337.0,2.0,B,0.0,120.0,,6.8,9.2,10.1,13.1,,,1.96,,C,C,NÃO,A,6.0,Flex,11.45,7.88,,101-150,False,False
+Grande,CHEVROLET,CRUZE,LTZ NB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,275.0,2.0,B,0.0,114.0,,7.1,9.7,10.5,13.9,,,1.86,,C,C,NÃO,A,6.0,Flex,12.03,8.27,,101-150,False,False
+Grande,CHEVROLET,CRUZE,MID NB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,275.0,2.0,B,0.0,114.0,,7.1,9.7,10.5,13.9,,,1.86,,C,C,NÃO,A,6.0,Flex,12.03,8.27,,101-150,False,False
+Grande,CHEVROLET,CRUZE,PRE HB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,337.0,2.0,B,0.0,120.0,,6.8,9.2,10.1,13.1,,,1.96,,C,C,NÃO,A,6.0,Flex,11.45,7.88,,101-150,False,False
+Grande,CHEVROLET,CRUZE,PRE NB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,275.0,2.0,B,0.0,114.0,,7.1,9.7,10.5,13.9,,,1.86,,C,C,NÃO,A,6.0,Flex,12.03,8.27,,101-150,False,False
+Grande,CHEVROLET,CRUZE,PRE2 HB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,337.0,2.0,B,0.0,120.0,,6.8,9.2,10.1,13.1,,,1.96,,C,C,NÃO,A,6.0,Flex,11.45,7.88,,101-150,False,False
+Grande,CHEVROLET,CRUZE,PRE2 NB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,275.0,2.0,B,0.0,114.0,,7.1,9.7,10.5,13.9,,,1.86,,C,C,NÃO,A,6.0,Flex,12.03,8.27,,101-150,False,False
+Grande,CHEVROLET,CRUZE,RS HB AT,1.4T-16V,Combustão,A-6,S,E,F,17.0,337.0,2.0,B,0.0,120.0,,6.8,9.2,10.1,13.1,,,1.96,,C,C,NÃO,A,6.0,Flex,11.45,7.88,,101-150,False,False
+Grande,HONDA,CIVIC HYBRID,TOURING,2.0 - 16V,Híbrido,CVT,S,E,G,17.0,103.0,0.0,A,,74.0,,,,18.3,15.9,,,1.21,,A,B,SIM,CVT,,Gasolina,17.22,,,51-100,False,True
+Grande,HONDA,ZR-V,TOURING,2.0 - 16V,Combustão,CVT,S,E,G,11.0,167.0,0.0,A,,122.0,,,,10.2,12.1,,,1.98,,C,C,NÃO,CVT,,Gasolina,11.06,,,101-150,False,False
+Grande,JEEP,COMPASS,S 4XE,1.3-16V T,Plug-in,A-6,S,E,G,30.0,172.0,0.0,A,,117.0,47.0,,,11.5,11.2,26.1,24.7,0.8,30.0,A,A,SIM,A,6.0,Gasolina,11.36,,25.47,101-150,False,True
+Grande,KIA,NIRO,HEV 1.6 EX,1.6 - 16V,Híbrido,DCT-6,S,E,G,11.0,91.0,1.0,A,,68.0,,,,19.8,17.7,,,1.1,,A,B,SIM,DCT,6.0,Gasolina,18.86,,,51-100,False,True
+Grande,KIA,NIRO,HEV 1.6 LX,1.6 - 16V,Híbrido,DCT-6,S,E,G,11.0,91.0,1.0,A,,68.0,,,,19.8,17.7,,,1.1,,A,B,SIM,DCT,6.0,Gasolina,18.86,,,51-100,False,True
+Grande,KIA,NIRO,HEV 1.6 SX,1.6 - 16V,Híbrido,DCT-6,S,E,G,11.0,91.0,1.0,A,,68.0,,,,19.8,17.7,,,1.1,,A,B,SIM,DCT,6.0,Gasolina,18.86,,,51-100,False,True
+Grande,LEXUS,UX250H,DYNAMIC,2.0 - 16V,Híbrido,CVT,S,E,G,12.0,73.0,1.0,A,,82.0,,,,16.6,14.7,,,1.33,,A,B,SIM,CVT,,Gasolina,15.74,,,51-100,False,True
+Grande,LEXUS,UX250H,LUXURY,2.0 - 16V,Híbrido,CVT,S,E,G,12.0,73.0,1.0,A,,82.0,,,,16.6,14.7,,,1.33,,A,B,SIM,CVT,,Gasolina,15.74,,,51-100,False,True
+Grande,MASERATI,GHIBLI,GT HYB,"2,0L-16V",Híbrido,A-8,S,E,G,27.0,170.0,3.0,A,,153.0,,,,8.0,10.4,,,2.47,,E,D,NÃO,A,8.0,Gasolina,9.08,,,151-200,False,True
+Grande,MINI,Countryman,SE EXCLUSIVE,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,35.0,31.8,0.61,320.0,A,A,NÃO,A,,Elétrico,,,33.56,0-50,True,True
+Grande,MINI,Countryman,SE TOP,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,0.0,,,,,35.0,31.8,0.61,320.0,A,A,NÃO,A,,Elétrico,,,33.56,0-50,True,True
+Grande,MINI,JCW,COUNTRYMAN,2.0 - 16V,Combustão,DCT-7,S,E,G,12.0,137.0,1.0,A,,129.0,,,,9.6,11.7,,,2.1,,D,D,NÃO,DCT,7.0,Gasolina,10.54,,,101-150,False,False
+Grande,Mercedes-Benz,AMG A35SD 4MATIC,,2.0-16V,Combustão,DCT-7,S,E,G,16.0,114.0,2.0,A,,136.0,,,,9.1,11.5,,,2.2,,E,D,NÃO,DCT,7.0,Gasolina,10.18,,,101-150,False,False
+Grande,Mercedes-Benz,AMG A45S 4MATIC,,2.0-16V,Combustão,DCT-8,S,E,G,24.0,105.0,7.0,B,,154.0,,,,7.9,10.5,,,2.49,,E,D,NÃO,DCT,8.0,Gasolina,9.07,,,151-200,False,False
+Grande,Mercedes-Benz,AMG GLA35 4M,,2.0-16V,Combustão,DCT-8,S,E,G,24.0,93.0,2.0,A,,145.0,,,,8.7,10.4,,,2.35,,E,D,NÃO,DCT,8.0,Gasolina,9.46,,,101-150,False,False
+Grande,Mercedes-Benz,AMG GLA35 4M,,2.0-16V,Híbrido,DCT-8,S,E,G,14.0,142.0,0.0,A,,155.0,,,,8.2,9.7,,,2.52,,E,D,NÃO,DCT,8.0,Gasolina,8.88,,,151-200,False,True
+Grande,Mercedes-Benz,GLA200,AMG LINE,1.3-16V,Híbrido,A-7,S,E,G,26.0,170.0,2.0,A,,113.0,,,,11.4,12.4,,,1.83,,C,C,NÃO,A,7.0,Gasolina,11.85,,,101-150,False,True
+Grande,Mercedes-Benz,GLA200,AMG LINE (L7),1.3-16V,Combustão,DCT-7,S,E,G,33.0,18.0,2.0,A,,110.0,,,,11.1,13.6,,,1.79,,B,C,NÃO,DCT,7.0,Gasolina,12.23,,,101-150,False,False
+Grande,Mercedes-Benz,GLA200,PROGRESSIVE,1.3-16V,Híbrido,A-7,S,E,G,26.0,170.0,2.0,A,,113.0,,,,11.4,12.4,,,1.83,,C,C,NÃO,A,7.0,Gasolina,11.85,,,101-150,False,True
+Grande,NETA,X,400 COMFORT,ELÉTRICO,Elétrico,A,S,E,E,,,,A,,,,,,,,40.3,35.5,0.53,258.0,A,A,NÃO,A,,Elétrico,,,38.14,,True,True
+Grande,NETA,X,500 COMFORT,ELÉTRICO,Elétrico,A,S,E,E,,,,A,,,,,,,,38.4,35.2,0.55,317.0,A,A,NÃO,A,,Elétrico,,,36.96,,True,True
+Grande,NETA,X,500 LUXURY,ELÉTRICO,Elétrico,A,S,E,E,,,,A,,,,,,,,38.4,35.2,0.55,317.0,A,A,NÃO,A,,Elétrico,,,36.96,,True,True
+Grande,Nissan,LEAF,TEKNA,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,,,,,,,38.7,31.9,0.58,192.0,A,A,NÃO,A,,Elétrico,,,35.64,,True,True
+Grande,Nissan,Sentra,ADVANCE,2.0-16V,Combustão,CVT,S,E,G,13.0,147.0,0.0,A,,110.0,,,,11.0,13.9,,,1.79,,B,C,NÃO,CVT,,Gasolina,12.3,,,101-150,False,False
+Grande,Nissan,Sentra,EXCLUSIVE,2.0-16V,Combustão,CVT,S,E,G,13.0,147.0,0.0,A,,110.0,,,,11.0,13.9,,,1.79,,B,C,NÃO,CVT,,Gasolina,12.3,,,101-150,False,False
+Grande,Nissan,Sentra,SENSE,2.0-16V,Combustão,CVT,S,E,G,13.0,147.0,0.0,A,,110.0,,,,11.0,13.9,,,1.79,,B,C,NÃO,CVT,,Gasolina,12.3,,,101-150,False,False
+Grande,TOYOTA,Corolla,ALTIS 20,2.0 - 16V,Combustão,CVT,S,E,F,22.0,169.0,2.0,A,0.0,100.0,,8.6,10.7,12.3,14.9,,,1.6,,B,C,NÃO,CVT,,Flex,13.47,9.54,,51-100,False,False
+Grande,TOYOTA,Corolla,ALTIS HV (MY 2024),1.8 - 16V,Híbrido,CVT,S,E,F,18.0,93.0,2.0,A,0.0,75.0,,12.8,11.1,18.5,15.7,,,1.21,,A,B,SIM,CVT,,Flex,17.24,12.04,,51-100,False,True
+Grande,TOYOTA,Corolla,APREMIUMH,1.8 - 16V,Híbrido,CVT,S,E,F,18.0,93.0,2.0,A,0.0,75.0,,12.8,11.1,18.5,15.7,,,1.21,,A,B,SIM,CVT,,Flex,17.24,12.04,,51-100,False,True
+Grande,TOYOTA,Corolla,GLI 20,2.0 - 16V,Combustão,CVT,S,E,F,22.0,169.0,2.0,A,0.0,100.0,,8.6,10.7,12.3,14.9,,,1.6,,B,C,NÃO,CVT,,Flex,13.47,9.54,,51-100,False,False
+Grande,TOYOTA,Corolla,GRS (MY 2024),2.0 - 16V,Combustão,CVT,S,E,F,22.0,169.0,2.0,A,0.0,100.0,,8.6,10.7,12.3,14.9,,,1.6,,B,C,NÃO,CVT,,Flex,13.47,9.54,,51-100,False,False
+Grande,TOYOTA,Corolla,XEI 20,2.0 - 16V,Combustão,CVT,S,E,F,22.0,169.0,2.0,A,0.0,100.0,,8.6,10.7,12.3,14.9,,,1.6,,B,C,NÃO,CVT,,Flex,13.47,9.54,,51-100,False,False
+Grande,TOYOTA,Corolla Cross,GRS,2.0 - 16V,Combustão,CVT,S,E,F,20.0,185.0,3.0,A,0.0,109.0,,8.2,9.0,11.7,13.0,,,1.76,,B,C,NÃO,CVT,,Flex,12.28,8.56,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,GRS,2.0 - 16V,Combustão,CVT,S,E,F,25.0,169.0,4.0,A,0.0,109.0,,8.2,9.3,11.6,13.3,,,1.74,,B,C,NÃO,CVT,,Flex,12.36,8.7,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,XR 20,2.0 - 16V,Combustão,CVT,S,E,F,20.0,185.0,3.0,A,0.0,109.0,,8.2,9.0,11.7,13.0,,,1.76,,B,C,NÃO,CVT,,Flex,12.28,8.56,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,XR 20,2.0 - 16V,Combustão,CVT,S,E,F,25.0,169.0,4.0,A,0.0,109.0,,8.2,9.3,11.6,13.3,,,1.74,,B,C,NÃO,CVT,,Flex,12.36,8.7,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,XRE 20,2.0 - 16V,Combustão,CVT,S,E,F,20.0,185.0,3.0,A,0.0,109.0,,8.2,9.0,11.7,13.0,,,1.76,,B,C,NÃO,CVT,,Flex,12.28,8.56,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,XRE 20,2.0 - 16V,Combustão,CVT,S,E,F,25.0,169.0,4.0,A,0.0,109.0,,8.2,9.3,11.6,13.3,,,1.74,,B,C,NÃO,CVT,,Flex,12.36,8.7,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,XRV HYBRID,1.8 - 16V,Híbrido,CVT,S,E,F,18.0,104.0,4.0,A,0.0,79.0,,11.8,9.7,17.8,14.7,,,1.31,,A,B,SIM,CVT,,Flex,16.4,10.86,,51-100,False,True
+Grande,TOYOTA,Corolla Cross,XRV HYBRID,1.8 - 16V,Híbrido,CVT,S,E,F,18.0,71.0,3.0,A,0.0,80.0,,12.5,10.1,17.7,14.6,,,1.29,,A,B,SIM,CVT,,Flex,16.3,11.42,,51-100,False,True
+Grande,TOYOTA,Corolla Cross,XRX 20,2.0 - 16V,Combustão,CVT,S,E,F,20.0,185.0,3.0,A,0.0,109.0,,8.2,9.0,11.7,13.0,,,1.76,,B,C,NÃO,CVT,,Flex,12.28,8.56,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,XRX 20,2.0 - 16V,Combustão,CVT,S,E,F,25.0,169.0,4.0,A,0.0,109.0,,8.2,9.3,11.6,13.3,,,1.74,,B,C,NÃO,CVT,,Flex,12.36,8.7,,101-150,False,False
+Grande,TOYOTA,Corolla Cross,XRX HYBRID,1.8 - 16V,Híbrido,CVT,S,E,F,18.0,104.0,4.0,A,0.0,79.0,,11.8,9.7,17.8,14.7,,,1.31,,A,B,SIM,CVT,,Flex,16.4,10.86,,51-100,False,True
+Grande,TOYOTA,Corolla Cross,XRX HYBRID,1.8 - 16V,Híbrido,CVT,S,E,F,18.0,71.0,3.0,A,0.0,80.0,,12.5,10.1,17.7,14.6,,,1.29,,A,B,SIM,CVT,,Flex,16.3,11.42,,51-100,False,True
+Grande,TOYOTA,Corolla HB,GR,1.6 - 12V,Combustão,M-6,S,E,G,20.0,255.0,1.0,A,,141.0,,,,8.7,11.1,,,2.29,,E,D,NÃO,M,6.0,Gasolina,9.78,,,101-150,False,False
+Grande,TOYOTA,Corolla HB,GR R,1.6 - 12V,Combustão,M-6,S,E,G,20.0,255.0,1.0,A,,141.0,,,,8.7,11.1,,,2.29,,E,D,NÃO,M,6.0,Gasolina,9.78,,,101-150,False,False
+Grande,VOLVO,C40,6 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,44.2,38.4,0.49,385.0,A,A,NÃO,A,,Elétrico,,,41.59,0-50,True,True
+Grande,VOLVO,C40,6 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,44.2,38.4,0.49,385.0,A,A,NÃO,A,,Elétrico,,,41.59,0-50,True,True
+Grande,VOLVO,C40,6 ULTIMATE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,44.2,38.4,0.49,385.0,A,A,NÃO,A,,Elétrico,,,41.59,0-50,True,True
+Grande,VOLVO,C40,8 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,35.8,32.0,0.6,353.0,A,A,NÃO,A,,Elétrico,,,34.09,0-50,True,True
+Grande,VOLVO,C40,8 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,35.8,32.0,0.6,353.0,A,A,NÃO,A,,Elétrico,,,34.09,0-50,True,True
+Grande,VOLVO,C40,P8 RECHARGE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,35.8,32.0,0.6,353.0,A,A,NÃO,A,,Elétrico,,,34.09,0-50,True,True
+Grande,VOLVO,EC40,6 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,41.7,37.2,0.51,385.0,A,A,NÃO,A,,Elétrico,,,39.68,0-50,True,True
+Grande,VOLVO,EC40,6 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,41.7,37.2,0.51,385.0,A,A,NÃO,A,,Elétrico,,,39.68,0-50,True,True
+Grande,VOLVO,EC40,6 ULTRA,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,41.7,37.2,0.51,385.0,A,A,NÃO,A,,Elétrico,,,39.68,0-50,True,True
+Grande,VOLVO,EC40,8 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,36.6,32.6,0.59,404.0,A,A,NÃO,A,,Elétrico,,,34.8,0-50,True,True
+Grande,VOLVO,EC40,8 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,36.6,32.6,0.59,404.0,A,A,NÃO,A,,Elétrico,,,34.8,0-50,True,True
+Grande,VOLVO,EC40,8 ULTRA,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,36.6,32.6,0.59,404.0,A,A,NÃO,A,,Elétrico,,,34.8,0-50,True,True
+Grande,VOLVO,EC40,PERF BLACK,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,36.6,32.6,0.59,404.0,A,A,NÃO,A,,Elétrico,,,34.8,0-50,True,True
+Grande,Volkswagen,ID.4,PRO PERFORMANCE,Elétrico,Elétrico,A,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,34.5,29.8,0.63,370.0,A,A,NÃO,A,,Elétrico,,,32.39,0-50,True,True
+Minivan,CHEVROLET,SPIN,1.8L AT ACT7,1.8L -8V,Combustão,A-6,S,E,F,33.0,351.0,2.0,B,0.0,125.0,,6.9,8.6,9.8,12.3,,,2.02,,C,C,NÃO,A,6.0,Flex,10.92,7.67,,101-150,False,False
+Minivan,CHEVROLET,SPIN,1.8L AT LT7,1.8L -8V,Combustão,A-6,S,E,F,33.0,351.0,2.0,B,0.0,125.0,,6.9,8.6,9.8,12.3,,,2.02,,C,C,NÃO,A,6.0,Flex,10.92,7.67,,101-150,False,False
+Minivan,CHEVROLET,SPIN,1.8L AT LTZ (MY25),1.8L-8V,Combustão,A-6,S,E,F,35.0,439.0,3.0,B,0.0,115.0,,7.4,9.3,10.5,13.4,,,1.87,,B,C,NÃO,A,6.0,Flex,11.8,8.26,,101-150,False,False
+Minivan,CHEVROLET,SPIN,1.8L AT PREMIER,1.8L -8V,Combustão,A-6,S,E,F,33.0,351.0,2.0,B,0.0,125.0,,6.9,8.6,9.8,12.3,,,2.02,,C,C,NÃO,A,6.0,Flex,10.92,7.67,,101-150,False,False
+Minivan,CHEVROLET,SPIN,1.8L AT PREMIER (MY25),1.8L-8V,Combustão,A-6,S,E,F,35.0,439.0,3.0,B,0.0,115.0,,7.4,9.3,10.5,13.4,,,1.87,,B,C,NÃO,A,6.0,Flex,11.8,8.26,,101-150,False,False
+Minivan,CHEVROLET,SPIN,18L MT PREMIER,1.8L-8V,Combustão,M-6,S,E,F,52.0,411.0,2.0,B,0.0,115.0,,7.5,8.9,10.8,12.8,,,1.87,,B,C,NÃO,M,6.0,Flex,11.7,8.13,,101-150,False,False
+Minivan,KIA,CARNIVAL,3.5 EX,3.5 - 24V,Combustão,A-8,S,E,G,30.0,500.0,2.0,B,,167.0,,,,7.3,9.9,,,2.71,,E,E,NÃO,A,8.0,Gasolina,8.47,,,151-200,False,False
+Minivan,KIA,CARNIVAL,3.5 LX,3.5 - 24V,Combustão,A-8,S,E,G,30.0,500.0,2.0,B,,167.0,,,,7.3,9.9,,,2.71,,E,E,NÃO,A,8.0,Gasolina,8.47,,,151-200,False,False
+Minivan,KIA,CARNIVAL,3.5 SX,3.5 - 24V,Combustão,A-8,S,E,G,30.0,500.0,2.0,B,,167.0,,,,7.3,9.9,,,2.71,,E,E,NÃO,A,8.0,Gasolina,8.47,,,151-200,False,False
+Médio,AUDI,A3 Sportback,Performance Black,2.0 - 16V,Híbrido,DCT-7,S,E,G,12.0,105.0,1.0,A,,118.0,,,,10.6,12.8,,,1.9,,D,C,NÃO,DCT,7.0,Gasolina,11.59,,,101-150,False,True
+Médio,AUDI,A3 Sportback,Performance Black (ed. 0),2.0 - 16V,Híbrido,DCT-7,S,E,G,11.0,107.0,1.0,A,,118.0,,,,10.5,12.5,,,1.92,,E,C,NÃO,DCT,7.0,Gasolina,11.4,,,101-150,False,True
+Médio,AUDI,A3 Sportback,S line,2.0 - 16V,Híbrido,DCT-7,S,E,G,12.0,105.0,1.0,A,,118.0,,,,10.6,12.8,,,1.9,,D,C,NÃO,DCT,7.0,Gasolina,11.59,,,101-150,False,True
+Médio,AUDI,A3 Sportback,S line (ed. 0),2.0 - 16V,Híbrido,DCT-7,S,E,G,11.0,107.0,1.0,A,,118.0,,,,10.5,12.5,,,1.92,,E,C,NÃO,DCT,7.0,Gasolina,11.4,,,101-150,False,True
+Médio,BMW,118i,,1.5 - 12V,Combustão,DCT-7,S,E,G,11.0,160.0,1.0,A,,110.0,,,,11.5,13.0,,,1.78,,C,C,NÃO,DCT,7.0,Gasolina,12.18,,,101-150,False,False
+Médio,BYD,DOLPHIN,GS 180EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,,,,,,,51.9,43.5,0.42,291.0,A,A,NÃO,,,Elétrico,,,48.12,,True,True
+Médio,BYD,DOLPHIN,PLUS 310EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,,,,,,,42.1,36.8,0.51,330.0,A,A,NÃO,,,Elétrico,,,39.72,,True,True
+Médio,BYD,YUAN PRO,GS 290EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,,,,,,,44.0,35.7,0.51,250.0,A,A,NÃO,,,Elétrico,,,40.26,,True,True
+Médio,CHEVROLET,ONIX,10MT HB,1.0 - 12 V,Combustão,M-6,S,E,F,43.0,338.0,4.0,B,0.0,90.0,,9.3,11.4,13.3,16.5,,,1.46,,A,B,SIM,M,6.0,Flex,14.74,10.24,,51-100,False,False
+Médio,CHEVROLET,ONIX,10MT HB (MY25.5),1.0 - 12 V,Combustão,M-6,S,E,F,34.0,137.0,3.0,B,0.0,87.0,,9.6,11.9,13.8,16.9,,,1.41,,A,B,SIM,M,6.0,Flex,15.2,10.64,,51-100,False,False
+Médio,CHEVROLET,ONIX,10MT LT1,1.0 - 12 V,Combustão,M-6,S,E,F,43.0,338.0,4.0,B,0.0,90.0,,9.3,11.4,13.3,16.5,,,1.46,,A,B,SIM,M,6.0,Flex,14.74,10.24,,51-100,False,False
+Médio,CHEVROLET,ONIX,10MT LT2,1.0 - 12 V,Combustão,M-6,S,E,F,43.0,338.0,4.0,B,0.0,90.0,,9.3,11.4,13.3,16.5,,,1.46,,A,B,SIM,M,6.0,Flex,14.74,10.24,,51-100,False,False
+Médio,CHEVROLET,ONIX,10MT LT2 (MY25.5),1.0 - 12 V,Combustão,M-6,S,E,F,34.0,137.0,3.0,B,0.0,87.0,,9.6,11.9,13.8,16.9,,,1.41,,A,B,SIM,M,6.0,Flex,15.2,10.64,,51-100,False,False
+Médio,CHEVROLET,ONIX,10TAT HB,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,464.0,4.0,C,0.0,103.0,,8.3,10.4,11.6,14.9,,,1.66,,B,C,NÃO,A,6.0,Flex,13.08,9.25,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT HB (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,38.0,154.0,4.0,B,0.0,101.0,,8.2,10.5,12.0,14.8,,,1.65,,B,C,NÃO,A,6.0,Flex,13.26,9.24,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT LT1,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,464.0,4.0,C,0.0,103.0,,8.3,10.4,11.6,14.9,,,1.66,,B,C,NÃO,A,6.0,Flex,13.08,9.25,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT LT1 (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,38.0,154.0,4.0,B,0.0,101.0,,8.2,10.5,12.0,14.8,,,1.65,,B,C,NÃO,A,6.0,Flex,13.26,9.24,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT LTZ,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,464.0,4.0,C,0.0,103.0,,8.3,10.4,11.6,14.9,,,1.66,,B,C,NÃO,A,6.0,Flex,13.08,9.25,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT LTZ (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,38.0,154.0,4.0,B,0.0,101.0,,8.2,10.5,12.0,14.8,,,1.65,,B,C,NÃO,A,6.0,Flex,13.26,9.24,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT PR2,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,464.0,4.0,C,0.0,103.0,,8.3,10.4,11.6,14.9,,,1.66,,B,C,NÃO,A,6.0,Flex,13.08,9.25,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT PR2 (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,38.0,154.0,4.0,B,0.0,101.0,,8.2,10.5,12.0,14.8,,,1.65,,B,C,NÃO,A,6.0,Flex,13.26,9.24,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT RS,1.0T - 12 V,Combustão,A-6,S,E,F,41.0,429.0,3.0,B,0.0,106.0,,8.2,9.9,11.7,13.7,,,1.71,,C,C,NÃO,A,6.0,Flex,12.6,8.96,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TAT RS (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,38.0,146.0,3.0,B,0.0,106.0,,8.2,9.8,11.8,13.5,,,1.71,,C,C,NÃO,A,6.0,Flex,12.57,8.92,,101-150,False,False
+Médio,CHEVROLET,ONIX,10TMT LT1,1.0T - 12 V,Combustão,M-6,S,E,F,52.0,311.0,3.0,B,0.0,92.0,,9.1,11.1,13.1,16.1,,,1.5,,A,B,SIM,M,6.0,Flex,14.45,10.0,,51-100,False,False
+Médio,CHEVROLET,ONIX,10TMT LT1 (MY25.5),1.0T - 12V,Combustão,M-6,S,E,F,32.0,179.0,3.0,B,0.0,89.0,,9.3,11.7,13.5,16.7,,,1.44,,A,B,SIM,M,6.0,Flex,14.94,10.38,,51-100,False,False
+Médio,CHEVROLET,ONIX,10TMT LTZ,1.0T - 12 V,Combustão,M-6,S,E,F,52.0,311.0,3.0,B,0.0,92.0,,9.1,11.1,13.1,16.1,,,1.5,,A,B,SIM,M,6.0,Flex,14.45,10.0,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10MT LT1,1.0 - 12 V,Combustão,M-6,S,E,F,35.0,378.0,3.0,B,0.0,88.0,,9.3,12.0,13.5,17.4,,,1.42,,A,B,SIM,M,6.0,Flex,15.26,10.52,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10MT LT2,1.0 - 12 V,Combustão,M-6,S,E,F,35.0,378.0,3.0,B,0.0,88.0,,9.3,12.0,13.5,17.4,,,1.42,,A,B,SIM,M,6.0,Flex,15.26,10.52,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10MT LT2 (MY25.5),1.0 - 12 V,Combustão,M-6,S,E,F,31.0,102.0,4.0,B,0.0,85.0,,9.7,12.2,13.9,17.4,,,1.39,,A,B,SIM,M,6.0,Flex,15.48,10.82,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT LT1,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,458.0,4.0,C,0.0,98.0,,8.6,11.1,12.1,15.8,,,1.58,,B,C,NÃO,A,6.0,Flex,13.76,9.73,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT LT1 (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,40.0,139.0,4.0,B,0.0,99.0,,8.5,11.0,12.0,15.6,,,1.59,,B,C,NÃO,A,6.0,Flex,13.62,9.62,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT LTZ,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,458.0,4.0,C,0.0,98.0,,8.6,11.1,12.1,15.8,,,1.58,,B,C,NÃO,A,6.0,Flex,13.76,9.73,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT LTZ (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,40.0,139.0,4.0,B,0.0,99.0,,8.5,11.0,12.0,15.6,,,1.59,,B,C,NÃO,A,6.0,Flex,13.62,9.62,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT NB,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,458.0,4.0,C,0.0,98.0,,8.6,11.1,12.1,15.8,,,1.58,,B,C,NÃO,A,6.0,Flex,13.76,9.73,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT NB (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,40.0,139.0,4.0,B,0.0,99.0,,8.5,11.0,12.0,15.6,,,1.59,,B,C,NÃO,A,6.0,Flex,13.62,9.62,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT PR2,1.0T - 12 V,Combustão,A-6,S,E,F,42.0,458.0,4.0,C,0.0,98.0,,8.6,11.1,12.1,15.8,,,1.58,,B,C,NÃO,A,6.0,Flex,13.76,9.73,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TAT PR2 (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,40.0,139.0,4.0,B,0.0,99.0,,8.5,11.0,12.0,15.6,,,1.59,,B,C,NÃO,A,6.0,Flex,13.62,9.62,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TMT LT1,1.0T - 12 V,Combustão,M-6,S,E,F,46.0,309.0,3.0,B,0.0,89.0,,9.3,11.8,13.4,16.9,,,1.44,,A,B,SIM,M,6.0,Flex,14.98,10.42,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TMT LT1 (MY25.5),1.0T - 12V,Combustão,M-6,S,E,F,38.0,212.0,3.0,B,0.0,87.0,,9.2,12.4,13.5,17.4,,,1.43,,A,B,SIM,M,6.0,Flex,15.26,10.64,,51-100,False,False
+Médio,CHEVROLET,ONIX PLUS,10TMT LTZ,1.0T - 12 V,Combustão,M-6,S,E,F,46.0,309.0,3.0,B,0.0,89.0,,9.3,11.8,13.4,16.9,,,1.44,,A,B,SIM,M,6.0,Flex,14.98,10.42,,51-100,False,False
+Médio,CHEVROLET,SPIN,1.8L AT,1.8L-8V,Combustão,A-6,S,E,F,35.0,439.0,3.0,B,0.0,115.0,,7.4,9.3,10.5,13.4,,,1.87,,D,C,NÃO,A,6.0,Flex,11.8,8.26,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L AT ACT,1.8L -8V,Combustão,A-6,S,E,F,33.0,351.0,2.0,B,0.0,125.0,,6.9,8.6,9.8,12.3,,,2.02,,E,C,NÃO,A,6.0,Flex,10.92,7.67,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L AT LS,1.8L -8V,Combustão,A-6,S,E,F,30.0,366.0,2.0,B,0.0,121.0,,7.2,8.8,10.2,12.6,,,1.94,,E,C,NÃO,A,6.0,Flex,11.28,7.92,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L AT LT,1.8L -8V,Combustão,A-6,S,E,F,30.0,366.0,2.0,B,0.0,121.0,,7.2,8.8,10.2,12.6,,,1.94,,E,C,NÃO,A,6.0,Flex,11.28,7.92,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L AT LT (MY25),1.8L-8V,Combustão,A-6,S,E,F,35.0,439.0,3.0,B,0.0,115.0,,7.4,9.3,10.5,13.4,,,1.87,,D,C,NÃO,A,6.0,Flex,11.8,8.26,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L AT LTZ5,1.8L -8V,Combustão,A-6,S,E,F,33.0,351.0,2.0,B,0.0,125.0,,6.9,8.6,9.8,12.3,,,2.02,,E,C,NÃO,A,6.0,Flex,10.92,7.67,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L MT LS E,1.8L-8V,Combustão,M-6,S,E,F,52.0,411.0,2.0,B,0.0,115.0,,7.5,8.9,10.8,12.8,,,1.87,,D,C,NÃO,M,6.0,Flex,11.7,8.13,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L MT LT,1.8L-8V,Combustão,M-6,S,E,F,52.0,411.0,2.0,B,0.0,115.0,,7.5,8.9,10.8,12.8,,,1.87,,D,C,NÃO,M,6.0,Flex,11.7,8.13,,101-150,False,False
+Médio,CHEVROLET,SPIN,1.8L MT LT (MY25),1.8L-8V,Combustão,M-6,S,E,F,39.0,396.0,3.0,B,0.0,115.0,,7.7,8.6,11.0,12.5,,,1.87,,D,C,NÃO,M,6.0,Flex,11.68,8.1,,101-150,False,False
+Médio,FIAT,CRONOS,1.0,1.0-6V,Combustão,M-5,S,E,F,39.0,377.0,3.0,B,0.0,92.0,,9.8,11.0,13.4,15.6,,,1.47,,A,B,SIM,M,5.0,Flex,14.39,10.34,,51-100,False,False
+Médio,FIAT,CRONOS,DRIVE 1.0,1.0-6V,Combustão,M-5,S,E,F,39.0,377.0,3.0,B,0.0,92.0,,9.8,11.0,13.4,15.6,,,1.47,,A,B,SIM,M,5.0,Flex,14.39,10.34,,51-100,False,False
+Médio,FIAT,CRONOS,DRIVE 1.0 / 1.0 (MY 25),1.0-6V,Combustão,M-5,S,E,F,34.0,362.0,2.0,B,0.0,89.0,,9.6,11.4,13.5,16.6,,,1.44,,A,B,SIM,M,5.0,Flex,14.9,10.41,,51-100,False,False
+Médio,FIAT,CRONOS,DRIVE 1.3,1.3-8V,Combustão,M-5,S,E,F,33.0,174.0,2.0,B,0.0,95.0,,9.0,10.9,12.8,15.5,,,1.53,,A,C,NÃO,M,5.0,Flex,14.02,9.86,,51-100,False,False
+Médio,FIAT,CRONOS,DRIVE1.3AT,1.3-8V,Combustão,CVT-7,S,E,F,26.0,156.0,2.0,B,0.0,94.0,,9.3,11.0,13.3,15.0,,,1.5,,A,B,SIM,CVT,7.0,Flex,14.07,10.07,,51-100,False,False
+Médio,FIAT,CRONOS,DRIVE1.3AT (MY 25),1.3-8V,Combustão,CVT-7,S,E,F,28.0,297.0,2.0,B,0.0,98.0,,8.8,11.0,12.5,14.8,,,1.57,,B,C,NÃO,CVT,7.0,Flex,13.54,9.79,,51-100,False,False
+Médio,FIAT,CRONOS,PREC 1.3AT,1.3-8V,Combustão,CVT-7,S,E,F,26.0,156.0,2.0,B,0.0,94.0,,9.3,11.0,13.3,15.0,,,1.5,,A,B,SIM,CVT,7.0,Flex,14.07,10.07,,51-100,False,False
+Médio,FIAT,CRONOS,PREC 1.3AT (MY 25),1.3-8V,Combustão,CVT-7,S,E,F,28.0,297.0,2.0,B,0.0,98.0,,8.8,11.0,12.5,14.8,,,1.57,,B,C,NÃO,CVT,7.0,Flex,13.54,9.79,,51-100,False,False
+Médio,GWM,ORA 03,GT BEV63,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,42.4,36.5,0.51,319.0,A,A,NÃO,A,1.0,Elétrico,,,39.75,,True,True
+Médio,GWM,ORA 03,GT BEV63 (MY 25),Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,41.1,33.7,0.54,295.0,A,A,NÃO,A,1.0,Elétrico,,,37.77,,True,True
+Médio,GWM,ORA 03,SKIN BEV48,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,41.7,35.7,0.52,232.0,A,A,NÃO,A,1.0,Elétrico,,,39.0,,True,True
+Médio,HONDA,CITY,EX,1.5-16V,Combustão,CVT,S,E,F,20.0,93.0,1.0,A,0.0,94.0,,9.2,10.5,13.1,15.2,,,1.53,,A,C,NÃO,CVT,,Flex,14.04,9.78,,51-100,False,False
+Médio,HONDA,CITY,EXL,1.5-16V,Combustão,CVT,S,E,F,20.0,93.0,1.0,A,0.0,94.0,,9.2,10.5,13.1,15.2,,,1.53,,A,C,NÃO,CVT,,Flex,14.04,9.78,,51-100,False,False
+Médio,HONDA,CITY,LX,1.5-16V,Combustão,CVT,S,E,F,20.0,93.0,1.0,A,0.0,94.0,,9.2,10.5,13.1,15.2,,,1.53,,A,C,NÃO,CVT,,Flex,14.04,9.78,,51-100,False,False
+Médio,HONDA,CITY,TOURING,1.5-16V,Combustão,CVT,S,E,F,20.0,93.0,1.0,A,0.0,94.0,,9.2,10.5,13.1,15.2,,,1.53,,A,C,NÃO,CVT,,Flex,14.04,9.78,,51-100,False,False
+Médio,HONDA,CITY HATCH,EX,1.5-16V,Combustão,CVT,S,E,F,23.0,84.0,2.0,A,0.0,95.0,,9.1,10.5,13.3,14.8,,,1.53,,A,C,NÃO,CVT,,Flex,13.98,9.73,,51-100,False,False
+Médio,HONDA,CITY HATCH,EXL,1.5-16V,Combustão,CVT,S,E,F,23.0,84.0,2.0,A,0.0,95.0,,9.1,10.5,13.3,14.8,,,1.53,,A,C,NÃO,CVT,,Flex,13.98,9.73,,51-100,False,False
+Médio,HONDA,CITY HATCH,LX,1.5-16V,Combustão,CVT,S,E,F,23.0,84.0,2.0,A,0.0,95.0,,9.1,10.5,13.3,14.8,,,1.53,,A,C,NÃO,CVT,,Flex,13.98,9.73,,51-100,False,False
+Médio,HONDA,CITY HATCH,TOURING,1.5-16V,Combustão,CVT,S,E,F,23.0,84.0,2.0,A,0.0,95.0,,9.1,10.5,13.3,14.8,,,1.53,,A,C,NÃO,CVT,,Flex,13.98,9.73,,51-100,False,False
+Médio,HONDA,HR-V,ADVANCE,1.5T-16V,Combustão,CVT,S,E,F,37.0,184.0,3.0,B,0.0,113.0,,7.9,8.8,11.3,12.6,,,1.83,,D,C,NÃO,CVT,,Flex,11.89,8.31,,101-150,False,False
+Médio,HONDA,HR-V,EX HONDA SENSING,1.5-16V,Combustão,CVT,S,E,F,31.0,109.0,3.0,A,0.0,100.0,,8.8,9.8,12.7,13.9,,,1.62,,B,C,NÃO,CVT,,Flex,13.24,9.25,,51-100,False,False
+Médio,HONDA,HR-V,EXL HONDA SENSING,1.5-16V,Combustão,CVT,S,E,F,31.0,109.0,3.0,A,0.0,100.0,,8.8,9.8,12.7,13.9,,,1.62,,B,C,NÃO,CVT,,Flex,13.24,9.25,,51-100,False,False
+Médio,HONDA,HR-V,TOURING,1.5T-16V,Combustão,CVT,S,E,F,37.0,184.0,3.0,B,0.0,113.0,,7.9,8.8,11.3,12.6,,,1.83,,D,C,NÃO,CVT,,Flex,11.89,8.31,,101-150,False,False
+Médio,HONDA,HR-V (mod.25),ADVANCE,1.5T-16V,Combustão,CVT,S,E,F,32.0,173.0,4.0,A,0.0,110.0,,8.0,9.2,11.4,13.1,,,1.78,,C,C,NÃO,CVT,,Flex,12.16,8.54,,101-150,False,False
+Médio,HONDA,HR-V (mod.25),TOURING,1.5T-16V,Combustão,CVT,S,E,F,32.0,173.0,4.0,A,0.0,110.0,,8.0,9.2,11.4,13.1,,,1.78,,C,C,NÃO,CVT,,Flex,12.16,8.54,,101-150,False,False
+Médio,HYUNDAI,IONIQ,HEV,1.6 -16V,Híbrido,A,S,E,G,20.0,95.0,1.0,A,,67.0,,,,18.9,18.8,,,1.09,,A,B,SIM,A,,Gasolina,18.86,,,51-100,False,True
+Médio,HYUNDAI,KONA EV,EV39,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,52.5,40.6,0.44,252.0,A,A,NÃO,A,,Elétrico,,,47.14,,True,True
+Médio,HYUNDAI,KONA HEV,HEV GLS,1.6 -16V,Híbrido,A,S,E,G,24.0,134.0,1.0,A,,69.0,,,,19.6,17.4,,,1.11,,A,B,SIM,A,,Gasolina,18.61,,,51-100,False,True
+Médio,HYUNDAI,KONA HEV,HEV LTD,1.6 -16V,Híbrido,A,S,E,G,24.0,134.0,1.0,A,,69.0,,,,19.6,17.4,,,1.11,,A,B,SIM,A,,Gasolina,18.61,,,51-100,False,True
+Médio,HYUNDAI,TUCSON TURBO,GLS,1.6T -16V,Combustão,DCT-7,S,E,G,19.0,247.0,2.0,C,,118.0,,,,10.6,12.2,,,1.93,,E,C,NÃO,DCT,7.0,Gasolina,11.32,,,101-150,False,False
+Médio,HYUNDAI,TUCSON TURBO,LTD,1.6T -16V,Combustão,DCT-7,S,E,G,19.0,247.0,2.0,C,,118.0,,,,10.6,12.2,,,1.93,,E,C,NÃO,DCT,7.0,Gasolina,11.32,,,101-150,False,False
+Médio,Hyundai,HB20S,Comfort,1.0-12V,Combustão,M-5,S,E,F,22.0,163.0,2.0,A,0.0,95.0,,9.4,10.4,13.2,15.0,,,1.52,,A,B,SIM,M,5.0,Flex,14.01,9.85,,51-100,False,False
+Médio,Hyundai,HB20S,Comfort,1.0-12V T,Combustão,M-6,S,E,F,22.0,110.0,2.0,A,0.0,96.0,,9.2,10.7,13.1,14.8,,,1.53,,A,C,NÃO,M,6.0,Flex,13.86,9.88,,51-100,False,False
+Médio,Hyundai,HB20S,Comfort,1.0-12V T,Combustão,A-6,S,E,F,31.0,141.0,4.0,A,0.0,106.0,,8.3,9.9,11.7,13.9,,,1.7,,C,C,NÃO,A,6.0,Flex,12.69,9.02,,101-150,False,False
+Médio,Hyundai,HB20S,Comfort (25MY),1.0-12V T,Combustão,A-6,S,E,F,21.0,69.0,3.0,A,0.0,101.0,,8.5,10.5,12.1,14.7,,,1.62,,B,C,NÃO,A,6.0,Flex,13.27,9.4,,101-150,False,False
+Médio,Hyundai,HB20S,Comfort (25MY),1.0-12V,Combustão,M-5,S,E,F,13.0,127.0,1.0,A,0.0,93.0,,9.6,10.8,13.4,15.3,,,1.49,,A,B,SIM,M,5.0,Flex,14.26,10.14,,51-100,False,False
+Médio,Hyundai,HB20S,Comfort (25MY),1.0-12V T,Combustão,A-6,S,E,F,31.0,129.0,3.0,A,0.0,93.0,,9.0,11.2,13.0,16.0,,,1.51,,A,B,SIM,A,6.0,Flex,14.35,9.99,,51-100,False,False
+Médio,Hyundai,HB20S,Limited,1.0-12V,Combustão,M-5,S,E,F,22.0,163.0,2.0,A,0.0,95.0,,9.4,10.4,13.2,15.0,,,1.52,,A,B,SIM,M,5.0,Flex,14.01,9.85,,51-100,False,False
+Médio,Hyundai,HB20S,Limited (25MY),1.0-12V,Combustão,M-5,S,E,F,13.0,127.0,1.0,A,0.0,93.0,,9.6,10.8,13.4,15.3,,,1.49,,A,B,SIM,M,5.0,Flex,14.26,10.14,,51-100,False,False
+Médio,Hyundai,HB20S,Platinum,1.0-12V,Combustão,M-5,S,E,F,22.0,163.0,2.0,A,0.0,95.0,,9.4,10.4,13.2,15.0,,,1.52,,A,B,SIM,M,5.0,Flex,14.01,9.85,,51-100,False,False
+Médio,Hyundai,HB20S,Platinum,1.0-12V T,Combustão,A-6,S,E,F,31.0,141.0,4.0,A,0.0,106.0,,8.3,9.9,11.7,13.9,,,1.7,,C,C,NÃO,A,6.0,Flex,12.69,9.02,,101-150,False,False
+Médio,Hyundai,HB20S,Platinum Plus,1.0-12V T,Combustão,A-6,S,E,F,29.0,109.0,3.0,A,0.0,100.0,,8.8,10.3,12.5,14.2,,,1.6,,B,C,NÃO,A,6.0,Flex,13.26,9.48,,51-100,False,False
+Médio,Hyundai,HB20S,Platinum Safety,1.0-12V T,Combustão,A-6,S,E,F,31.0,141.0,4.0,A,0.0,106.0,,8.3,9.9,11.7,13.9,,,1.7,,C,C,NÃO,A,6.0,Flex,12.69,9.02,,101-150,False,False
+Médio,Hyundai,HB20S,Platinum Safety,1.0-12V T,Combustão,A-6,S,E,F,29.0,109.0,3.0,A,0.0,100.0,,8.8,10.3,12.5,14.2,,,1.6,,B,C,NÃO,A,6.0,Flex,13.26,9.48,,51-100,False,False
+Médio,Hyundai,HB20S,Platinum Safety (25MY),1.0-12V T,Combustão,A-6,S,E,F,31.0,129.0,3.0,A,0.0,93.0,,9.0,11.2,13.0,16.0,,,1.51,,A,B,SIM,A,6.0,Flex,14.35,9.99,,51-100,False,False
+Médio,Hyundai,HB20S,Platinum Smart Sense,1.0-12V T,Combustão,A-6,S,E,F,31.0,141.0,4.0,A,0.0,106.0,,8.3,9.9,11.7,13.9,,,1.7,,C,C,NÃO,A,6.0,Flex,12.69,9.02,,101-150,False,False
+Médio,Hyundai,HB20S,Sense,1.0-12V T,Combustão,A-6,S,E,F,31.0,141.0,4.0,A,0.0,106.0,,8.3,9.9,11.7,13.9,,,1.7,,C,C,NÃO,A,6.0,Flex,12.69,9.02,,101-150,False,False
+Médio,JAC,e-JS4,e-JS4,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,47.5,39.1,0.47,307.0,A,A,NÃO,A,1.0,Elétrico,,,43.72,,True,True
+Médio,KIA,STONIC,MHEV EX,1.0 - 12V,Híbrido,DCT-7,S,E,G,39.0,145.0,0.0,A,,95.0,,,,13.7,13.8,,,1.55,,B,C,NÃO,DCT,7.0,Gasolina,13.74,,,51-100,False,True
+Médio,KIA,STONIC,MHEV GT,1.0 - 12V,Híbrido,DCT-7,S,E,G,39.0,145.0,0.0,A,,95.0,,,,13.7,13.8,,,1.55,,B,C,NÃO,DCT,7.0,Gasolina,13.74,,,51-100,False,True
+Médio,KIA,STONIC,MHEV LX,1.0 - 12V,Híbrido,DCT-7,S,E,G,39.0,145.0,0.0,A,,95.0,,,,13.7,13.8,,,1.55,,B,C,NÃO,DCT,7.0,Gasolina,13.74,,,51-100,False,True
+Médio,KIA,STONIC,MHEV SX,1.0 - 12V,Híbrido,DCT-7,S,E,G,39.0,145.0,0.0,A,,95.0,,,,13.7,13.8,,,1.55,,B,C,NÃO,DCT,7.0,Gasolina,13.74,,,51-100,False,True
+Médio,MINI,Cooper,S 5P EXCLUSIVE,2.0 - 16V,Combustão,DCT-7,S,E,G,8.0,69.0,0.0,A,,105.0,,,,11.5,14.5,,,1.71,,C,C,NÃO,DCT,7.0,Gasolina,12.85,,,101-150,False,False
+Médio,MINI,Cooper,S 5P TOP,2.0 - 16V,Combustão,DCT-7,S,E,G,8.0,69.0,0.0,A,,105.0,,,,11.5,14.5,,,1.71,,C,C,NÃO,DCT,7.0,Gasolina,12.85,,,101-150,False,False
+Médio,MINI,Countryman,JCW,2.0 - 16V,Combustão,A-8,S,E,G,25.0,58.0,1.0,A,,141.0,,,,8.8,10.8,,,2.29,,E,D,NÃO,A,8.0,Gasolina,9.7,,,101-150,False,False
+Médio,MINI,Countryman,PHEV,1.5 - 12V,Plug-in,A-6,S,E,G,10.0,128.0,1.0,A,,132.0,56.0,,,10.1,10.2,23.4,27.9,0.8,8.0,A,A,SIM,A,6.0,Gasolina,10.14,,25.42,101-150,False,True
+Médio,Mercedes-Benz,A200 AMG LINE,,1.3-16V,Híbrido,A-7,S,E,G,18.0,100.0,3.0,A,,100.0,,,,12.3,14.4,,,1.63,,B,C,NÃO,A,7.0,Gasolina,13.24,,,51-100,False,True
+Médio,Mercedes-Benz,A200 AMG LINE,,1.3-16V,Híbrido,A-7,S,E,G,27.0,135.0,1.0,A,,103.0,,,,12.1,14.3,,,1.66,,B,C,NÃO,A,7.0,Gasolina,13.09,,,101-150,False,True
+Médio,Mercedes-Benz,AMG A35 4MATIC,,2.0-16V,Combustão,DCT-7,S,E,G,35.0,81.0,2.0,A,,139.0,,,,8.7,11.7,,,2.25,,E,D,NÃO,DCT,7.0,Gasolina,10.05,,,101-150,False,False
+Médio,Nissan,Versa,ADVANCE,1.6-16V,Combustão,CVT,S,E,F,28.0,204.0,2.0,B,0.0,102.0,,8.1,10.5,11.8,15.0,,,1.66,,B,C,NÃO,CVT,,Flex,13.24,9.18,,101-150,False,False
+Médio,Nissan,Versa,EXCLUSIVE,1.6-16V,Combustão,CVT,S,E,F,28.0,204.0,2.0,B,0.0,102.0,,8.1,10.5,11.8,15.0,,,1.66,,B,C,NÃO,CVT,,Flex,13.24,9.18,,101-150,False,False
+Médio,Nissan,Versa,SENSE,1.6-16V,Combustão,CVT,S,E,F,28.0,204.0,2.0,B,0.0,102.0,,8.1,10.5,11.8,15.0,,,1.66,,B,C,NÃO,CVT,,Flex,13.24,9.18,,101-150,False,False
+Médio,PEUGEOT,E2008,GT,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,38.0,35.1,0.55,234.0,A,A,NÃO,A,1.0,Elétrico,,,36.7,,True,True
+Médio,Renault,Logan,LIFE,1.0-12V,Combustão,M-5,S,E-H,F,50.0,255.0,2.0,B,0.0,95.0,,9.6,9.8,13.6,14.4,,,1.53,,A,C,NÃO,M,5.0,Flex,13.96,9.69,,51-100,False,False
+Médio,Renault,Logan,ZEN,1.0-12V,Combustão,M-5,S,E-H,F,50.0,255.0,2.0,B,0.0,95.0,,9.6,9.8,13.6,14.4,,,1.53,,A,C,NÃO,M,5.0,Flex,13.96,9.69,,51-100,False,False
+Médio,Renault,Logan,ZEN16CVT,1.6 - 16V,Combustão,CVT,S,E-H,F,41.0,223.0,4.0,B,0.0,119.0,,7.4,8.5,10.7,12.2,,,1.92,,E,C,NÃO,CVT,,Flex,11.38,7.9,,101-150,False,False
+Médio,Renault,Mégane,E-Tech,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,41.4,38.8,0.51,337.0,A,A,NÃO,A,,Elétrico,,,40.23,,True,True
+Médio,Renault,Zoe,NEO INT,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,34.4,27.4,0.66,254.0,A,A,NÃO,A,,Elétrico,,,31.25,,True,True
+Médio,TOYOTA,YARIS HATCHBACK,XL,1.5 - 16V,Combustão,CVT,S,E,F,36.0,315.0,2.0,B,0.0,103.0,,8.9,10.0,12.2,13.8,,,1.63,,B,C,NÃO,CVT,,Flex,12.92,9.4,,101-150,False,False
+Médio,TOYOTA,YARIS HATCHBACK,XLS (MY 2024),1.5 - 16V,Combustão,CVT,S,E,F,36.0,315.0,2.0,B,0.0,103.0,,8.9,10.0,12.2,13.8,,,1.63,,B,C,NÃO,CVT,,Flex,12.92,9.4,,101-150,False,False
+Médio,TOYOTA,YARIS HATCHBACK,XS,1.5 - 16V,Combustão,CVT,S,E,F,36.0,315.0,2.0,B,0.0,103.0,,8.9,10.0,12.2,13.8,,,1.63,,B,C,NÃO,CVT,,Flex,12.92,9.4,,101-150,False,False
+Médio,TOYOTA,YARIS SEDÃ,XL,1.5 - 16V,Combustão,CVT,S,E,F,38.0,319.0,2.0,B,0.0,97.0,,9.2,10.6,12.7,14.9,,,1.55,,B,C,NÃO,CVT,,Flex,13.69,9.83,,51-100,False,False
+Médio,TOYOTA,YARIS SEDÃ,XLS (MY 2024),1.5 - 16V,Combustão,CVT,S,E,F,38.0,319.0,2.0,B,0.0,97.0,,9.2,10.6,12.7,14.9,,,1.55,,B,C,NÃO,CVT,,Flex,13.69,9.83,,51-100,False,False
+Médio,TOYOTA,YARIS SEDÃ,XS,1.5 - 16V,Combustão,CVT,S,E,F,38.0,319.0,2.0,B,0.0,97.0,,9.2,10.6,12.7,14.9,,,1.55,,B,C,NÃO,CVT,,Flex,13.69,9.83,,51-100,False,False
+Médio,VOLVO,EX30,E40 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,,,,,,,40.1,33.9,0.55,250.0,A,A,NÃO,A,,Elétrico,,,37.31,,True,True
+Médio,VOLVO,EX30,E60 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,,,,,,,43.2,35.3,0.52,338.0,A,A,NÃO,A,,Elétrico,,,39.65,,True,True
+Médio,VOLVO,EX30,E60 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,,,,,,,43.2,35.3,0.52,338.0,A,A,NÃO,A,,Elétrico,,,39.65,,True,True
+Médio,VOLVO,EX30,E60 ULTRA,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,,,,,,,43.2,35.3,0.52,338.0,A,A,NÃO,A,,Elétrico,,,39.65,,True,True
+Médio,Volkswagen,POLO,COMFORTLINE TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,52.0,127.0,5.0,B,0.0,98.0,,8.5,10.6,12.5,15.1,,,1.59,,B,C,NÃO,A,6.0,Flex,13.67,9.44,,51-100,False,False
+Médio,Volkswagen,POLO,GTS 250TSI AUTOMÁTICO,1.4-16V,Combustão,A - 6,S,E,F,39.0,161.0,3.0,B,0.0,106.0,,8.1,9.8,11.6,13.8,,,1.72,,C,C,NÃO,A,6.0,Flex,12.59,8.86,,101-150,False,False
+Médio,Volkswagen,POLO,HIGHLINE TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,49.0,157.0,4.0,B,0.0,100.0,,8.5,10.4,12.3,14.6,,,1.62,,B,C,NÃO,A,6.0,Flex,13.34,9.36,,51-100,False,False
+Médio,Volkswagen,POLO,MPI (MY23),1.0-12V,Combustão,M - 5,S,E,F,33.0,140.0,3.0,B,0.0,94.0,,9.2,10.7,13.4,15.1,,,1.51,,A,B,SIM,M,5.0,Flex,14.16,9.88,,51-100,False,False
+Médio,Volkswagen,POLO,MPI (MY24),1.0-12V,Combustão,M - 5,S,E,F,38.0,150.0,3.0,B,0.0,91.0,,9.4,10.8,13.7,15.2,,,1.48,,A,B,SIM,M,5.0,Flex,14.38,10.03,,51-100,False,False
+Médio,Volkswagen,POLO,SENSE TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,52.0,127.0,5.0,B,0.0,98.0,,8.5,10.6,12.5,15.1,,,1.59,,B,C,NÃO,A,6.0,Flex,13.67,9.44,,51-100,False,False
+Médio,Volkswagen,POLO,TRACK MPI (MY23),1.0-12V,Combustão,M - 5,S,E,F,47.0,227.0,4.0,B,0.0,93.0,,9.3,10.5,13.5,15.0,,,1.51,,A,B,SIM,M,5.0,Flex,14.18,9.84,,51-100,False,False
+Médio,Volkswagen,POLO,TRACK MPI (MY24),1.0-12V,Combustão,M - 5,S,E,F,38.0,150.0,3.0,B,0.0,91.0,,9.4,10.8,13.7,15.2,,,1.48,,A,B,SIM,M,5.0,Flex,14.38,10.03,,51-100,False,False
+Médio,Volkswagen,POLO,TRACK ROBUST 1.0 MPI,1.0-12V,Combustão,M - 5,S,E,F,38.0,150.0,3.0,B,0.0,91.0,,9.4,10.8,13.7,15.2,,,1.48,,A,B,SIM,M,5.0,Flex,14.38,10.03,,51-100,False,False
+Médio,Volkswagen,POLO,TRACK ROCK IN RIO 1.0 MPI,1.0-12V,Combustão,M - 5,S,E,F,38.0,150.0,3.0,B,0.0,91.0,,9.4,10.8,13.7,15.2,,,1.48,,A,B,SIM,M,5.0,Flex,14.38,10.03,,51-100,False,False
+Médio,Volkswagen,POLO,TSI MANUAL,1.0-12V,Combustão,M - 5,S,E,F,44.0,310.0,3.0,B,0.0,89.0,,9.5,11.3,13.7,16.1,,,1.45,,A,B,SIM,M,5.0,Flex,14.78,10.31,,51-100,False,False
+Médio,Volkswagen,VIRTUS,COMFORTLINE 200TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,48.0,152.0,4.0,B,0.0,102.0,,8.3,10.2,12.1,14.4,,,1.66,,B,C,NÃO,A,6.0,Flex,13.14,9.16,,101-150,False,False
+Médio,Volkswagen,VIRTUS,EXCLUSIVE 250TSI AUTOMÁTICO,1.4-16V,Combustão,A - 6,S,E,F,40.0,161.0,4.0,B,0.0,105.0,,8.1,9.9,11.7,14.0,,,1.71,,C,C,NÃO,A,6.0,Flex,12.74,8.91,,101-150,False,False
+Médio,Volkswagen,VIRTUS,HIGHLINE 200TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,48.0,152.0,4.0,B,0.0,102.0,,8.3,10.2,12.1,14.4,,,1.66,,B,C,NÃO,A,6.0,Flex,13.14,9.16,,101-150,False,False
+Médio,Volkswagen,VIRTUS,TSI AUTOMÁTICO (MY24),1.0-12V,Combustão,A - 6,S,E,F,49.0,162.0,4.0,B,0.0,100.0,,8.4,10.5,12.1,14.8,,,1.63,,B,C,NÃO,A,6.0,Flex,13.32,9.35,,51-100,False,False
+Médio,Volkswagen,VIRTUS,TSI MANUAL (MY24),1.0-12V,Combustão,M - 5,S,E,F,42.0,351.0,4.0,B,0.0,97.0,,8.9,10.8,12.5,15.4,,,1.56,,B,C,NÃO,M,5.0,Flex,13.81,9.76,,51-100,False,False
+Picape,BYD,SHARK,GL DM / GS DM,1.5-16V,Plug-in,A-1,S,E,E,3.0,20.0,1.0,A,,22.0,0.0,,,9.5,7.7,24.6,19.9,0.91,57.0,A,A,SIM,A,1.0,Elétrico,8.69,,22.48,0-50,False,True
+Picape,CHEVROLET,S10,HC DD4A,2.8 - 16V,Combustão,A-6,S,E,D,297.0,27.0,0.0,B,,219.0,,,,8.4,10.4,,,2.96,,D,E,NÃO,A,6.0,Diesel,9.3,,,201-250,False,False
+Picape,CHEVROLET,S10,HC DD4A (MY25),2.8 - 16V,Combustão,A-8,S,E,D,212.0,27.0,,B,,193.0,,,,9.5,11.4,,,2.62,,B,D,NÃO,A,8.0,Diesel,10.36,,,151-200,False,False
+Picape,CHEVROLET,S10,HC DD4A (MY25.5),2.8 - 16V,Combustão,A-8,S,E,D,36.0,29.0,,A,,200.0,,,,8.9,12.0,,,2.7,,C,E,NÃO,A,8.0,Diesel,10.3,,,151-200,False,False
+Picape,CHEVROLET,S10,LS DD4,2.8 - 16V,Combustão,M-6,S,E,D,284.0,71.0,0.0,B,,202.0,,,,9.3,10.8,,,2.73,,C,E,NÃO,M,6.0,Diesel,9.98,,,201-250,False,False
+Picape,CHEVROLET,S10,LS DS4,2.8 - 16V,Combustão,M-6,S,E,D,261.0,59.0,0.0,B,,202.0,,,,9.4,10.6,,,2.73,,C,E,NÃO,M,6.0,Diesel,9.94,,,201-250,False,False
+Picape,CHEVROLET,S10,LS DS4C,2.8 - 16V,Combustão,M-6,S,E,D,261.0,59.0,0.0,B,,202.0,,,,9.4,10.6,,,2.73,,C,E,NÃO,M,6.0,Diesel,9.94,,,201-250,False,False
+Picape,CHEVROLET,S10,LT DD4,2.8 - 16V,Combustão,M-6,S,E,D,284.0,71.0,0.0,B,,202.0,,,,9.3,10.8,,,2.73,,C,E,NÃO,M,6.0,Diesel,9.98,,,201-250,False,False
+Picape,CHEVROLET,S10,LT DD4A,2.8 - 16V,Combustão,A-6,S,E,D,275.0,27.0,0.0,B,,211.0,,,,8.6,10.9,,,2.86,,C,E,NÃO,A,6.0,Diesel,9.64,,,201-250,False,False
+Picape,CHEVROLET,S10,LTZ DD4A,2.8 - 16V,Combustão,A-6,S,E,D,275.0,27.0,0.0,B,,211.0,,,,8.6,10.9,,,2.86,,C,E,NÃO,A,6.0,Diesel,9.64,,,201-250,False,False
+Picape,CHEVROLET,S10,LTZ DD4A (MY25),2.8 - 16V,Combustão,A-8,S,E,D,212.0,27.0,,B,,193.0,,,,9.5,11.4,,,2.62,,B,D,NÃO,A,8.0,Diesel,10.36,,,151-200,False,False
+Picape,CHEVROLET,S10,LTZ DD4A (MY25.5),2.8 - 16V,Combustão,A-8,S,E,D,36.0,29.0,,A,,200.0,,,,8.9,12.0,,,2.7,,C,E,NÃO,A,8.0,Diesel,10.3,,,151-200,False,False
+Picape,CHEVROLET,S10,MID DD4A,2.8 - 16V,Combustão,A-6,S,E,D,275.0,27.0,0.0,B,,211.0,,,,8.6,10.9,,,2.86,,C,E,NÃO,A,6.0,Diesel,9.64,,,201-250,False,False
+Picape,CHEVROLET,S10,WT DD4 (MY25),2.8 - 16V,Combustão,M-6,S,E,D,215.0,67.0,,B,,186.0,,,,10.3,11.1,,,2.52,,B,D,NÃO,M,6.0,Diesel,10.66,,,151-200,False,False
+Picape,CHEVROLET,S10,WT DD4 (MY25.5),2.8 - 16V,Combustão,M-6,S,E,D,226.0,83.0,,B,,186.0,,,,10.2,11.4,,,2.52,,B,D,NÃO,M,6.0,Diesel,10.74,,,151-200,False,False
+Picape,CHEVROLET,S10,WT DD4A (MY25),2.8 - 16V,Combustão,A-8,S,E,D,212.0,27.0,,B,,193.0,,,,9.5,11.4,,,2.62,,B,D,NÃO,A,8.0,Diesel,10.36,,,151-200,False,False
+Picape,CHEVROLET,S10,WT DD4A (MY25.5),2.8 - 16V,Combustão,A-8,S,E,D,36.0,29.0,,A,,200.0,,,,8.9,12.0,,,2.7,,C,E,NÃO,A,8.0,Diesel,10.3,,,151-200,False,False
+Picape,CHEVROLET,S10,WT DS4 (MY25),2.8 - 16V,Combustão,M-6,S,E,D,215.0,67.0,,B,,186.0,,,,10.3,11.1,,,2.52,,B,D,NÃO,M,6.0,Diesel,10.66,,,151-200,False,False
+Picape,CHEVROLET,S10,WT DS4 (MY25.5),2.8 - 16V,Combustão,M-6,S,E,D,307.0,63.0,,B,,185.0,,,,10.3,11.3,,,2.51,,B,D,NÃO,M,6.0,Diesel,10.75,,,151-200,False,False
+Picape,CHEVROLET,S10,WT DS4C (MY25),2.8 - 16V,Combustão,M-6,S,E,D,215.0,67.0,,B,,186.0,,,,10.3,11.1,,,2.52,,B,D,NÃO,M,6.0,Diesel,10.66,,,151-200,False,False
+Picape,CHEVROLET,S10,WT DS4C (MY25.5),2.8 - 16V,Combustão,M-6,S,E,D,307.0,63.0,,B,,185.0,,,,10.3,11.3,,,2.51,,B,D,NÃO,M,6.0,Diesel,10.75,,,151-200,False,False
+Picape,CHEVROLET,S10,Z71,2.8 - 16V,Combustão,A-6,S,E,D,283.0,28.0,0.0,B,,224.0,,,,8.3,10.0,,,3.01,,D,E,NÃO,A,6.0,Diesel,9.07,,,201-250,False,False
+Picape,CHEVROLET,S10,Z71 (MY25),2.8 - 16V,Combustão,A-8,S,E,D,213.0,28.0,,B,,206.0,,,,9.1,10.6,,,2.78,,C,E,NÃO,A,8.0,Diesel,9.77,,,201-250,False,False
+Picape,CHEVROLET,S10,Z71 (MY25.5),2.8 - 16V,Combustão,A-8,S,E,D,34.0,28.0,,A,,212.0,,,,8.4,11.1,,,2.87,,C,E,NÃO,A,8.0,Diesel,9.62,,,201-250,False,False
+Picape,CHEVROLET,SILVERADO,HC,5.3 V8,Combustão,A-10,S,E,G,17.0,375.0,1.0,A,,214.0,,,,6.0,7.2,,,3.48,,E,E,NÃO,A,10.0,Gasolina,6.54,,,201-250,False,False
+Picape,FIAT,TITANO,ENDURANCE,2.2 T,Combustão,M-6,S,H,D,49.0,54.0,,A,,207.0,,,,9.6,9.6,,,2.8,,C,E,NÃO,M,6.0,Diesel,9.6,,,201-250,False,False
+Picape,FIAT,TITANO,RANCH,2.2 T,Combustão,A-6,S,H,D,44.0,23.0,,A,,229.0,,,,8.5,9.2,,,3.09,,D,E,NÃO,A,6.0,Diesel,8.82,,,201-250,False,False
+Picape,FIAT,TITANO,VOLCANO,2.2 T,Combustão,A-6,S,H,D,63.0,19.0,,A,,225.0,,,,8.6,9.3,,,3.04,,D,E,NÃO,A,6.0,Diesel,8.92,,,201-250,False,False
+Picape,FIAT,TORO,ENDUR T270 AT6,1.3-16V T,Combustão,A-6,S,E,F,39.0,353.0,5.0,B,0.0,130.0,,6.8,8.2,9.6,11.6,,,2.09,,A,D,NÃO,A,6.0,Flex,10.5,7.43,,101-150,False,False
+Picape,FIAT,TORO,FREED T270 AT6,1.3-16V T,Combustão,A-6,S,E,F,49.0,368.0,5.0,B,0.0,136.0,,6.6,7.9,9.2,11.0,,,2.17,,A,D,NÃO,A,6.0,Flex,10.01,7.18,,101-150,False,False
+Picape,FIAT,TORO,FREEDOM AT9 4X4,2.0 T,Combustão,A-9,S,E,D,79.0,18.0,,A,,181.0,,,,10.1,12.4,,,2.44,,B,D,NÃO,A,9.0,Diesel,11.14,,,151-200,False,False
+Picape,FIAT,TORO,RANCH AT9 4X4,2.0 T,Combustão,A-9,S,E,D,84.0,11.0,,A,,173.0,,,,10.5,13.0,,,2.33,,A,D,NÃO,A,9.0,Diesel,11.62,,,151-200,False,False
+Picape,FIAT,TORO,ULTRA AT9 4X4,2.0 T,Combustão,A-9,S,E,D,79.0,18.0,,A,,181.0,,,,10.1,12.4,,,2.44,,B,D,NÃO,A,9.0,Diesel,11.14,,,151-200,False,False
+Picape,FIAT,TORO,VOLC T270 AT6,1.3-16V T,Combustão,A-6,S,E,F,49.0,368.0,5.0,B,0.0,136.0,,6.6,7.9,9.2,11.0,,,2.17,,A,D,NÃO,A,6.0,Flex,10.01,7.18,,101-150,False,False
+Picape,FIAT,TORO,VOLCANO AT9 4X4,2.0 T,Combustão,A-9,S,E,D,84.0,11.0,,A,,173.0,,,,10.5,13.0,,,2.33,,A,D,NÃO,A,9.0,Diesel,11.62,,,151-200,False,False
+Picape,FORD,F150,Lariat,5.0 - 32V,Combustão,A-10,S,E,G,40.0,484.0,1.0,B,,193.0,,,,6.3,8.6,,,3.13,,E,E,NÃO,A,10.0,Gasolina,7.34,,,151-200,False,False
+Picape,FORD,F150,Platinum,5.0 - 32V,Combustão,A-10,S,E,G,40.0,484.0,1.0,B,,193.0,,,,6.3,8.6,,,3.13,,E,E,NÃO,A,10.0,Gasolina,7.34,,,151-200,False,False
+Picape,FORD,Maverick,Hibrido Lariat,2.5 FHEV,Híbrido,eCVT,S,E,G,16.0,193.0,0.0,A,,89.0,,,,15.7,13.6,,,1.44,,A,B,SIM,eCVT,,Gasolina,14.76,,,51-100,False,True
+Picape,FORD,Maverick,Lariat FX4,2.0 GTDi,Combustão,A-8,S,E,G,26.0,367.0,1.0,B,,139.0,,,,8.8,11.1,,,2.26,,A,D,NÃO,A,8.0,Gasolina,9.84,,,101-150,False,False
+Picape,FORD,Maverick,XLT,2.0 GTDi,Combustão,A-8,S,E,G,26.0,367.0,1.0,B,,139.0,,,,8.8,11.1,,,2.26,,A,D,NÃO,A,8.0,Gasolina,9.84,,,101-150,False,False
+Picape,FORD,Nova F150,Lariat Black,5.0 - 32V,Combustão,A-10,S,E,G,25.0,224.0,0.0,A,,190.0,,,,6.5,8.5,,,3.08,,D,E,NÃO,A,10.0,Gasolina,7.4,,,151-200,False,False
+Picape,FORD,Nova F150,Lariat Chrome,5.0 - 32V,Combustão,A-10,S,E,G,25.0,224.0,0.0,A,,190.0,,,,6.5,8.5,,,3.08,,D,E,NÃO,A,10.0,Gasolina,7.4,,,151-200,False,False
+Picape,FORD,Nova Ranger 4x2,Black,2.0 - 16V,Combustão,A-6,S,E,D,89.0,31.0,,A,,180.0,,,,10.1,12.4,,,2.43,,B,D,NÃO,A,6.0,Diesel,11.14,,,151-200,False,False
+Picape,FORD,Nova Ranger 4x2,XLS,2.0 - 16V,Combustão,A-6,S,E,D,89.0,31.0,,A,,180.0,,,,10.1,12.4,,,2.43,,B,D,NÃO,A,6.0,Diesel,11.14,,,151-200,False,False
+Picape,FORD,Nova Ranger 4x4,LTD,3.0 V6 - 24V,Combustão,A-10,S,E,D,77.0,69.0,,A,,213.0,,,,8.9,10.2,,,2.88,,D,E,NÃO,A,10.0,Diesel,9.48,,,201-250,False,False
+Picape,FORD,Nova Ranger 4x4,LTD+,3.0 V6 - 24V,Combustão,A-10,S,E,D,77.0,69.0,,A,,213.0,,,,8.9,10.2,,,2.88,,D,E,NÃO,A,10.0,Diesel,9.48,,,201-250,False,False
+Picape,FORD,Nova Ranger 4x4,XL,2.0 - 16V,Combustão,M-6,S,E,D,229.0,42.0,,B,,188.0,,,,10.2,11.0,,,2.53,,B,D,NÃO,M,6.0,Diesel,10.56,,,151-200,False,False
+Picape,FORD,Nova Ranger 4x4,XLS,2.0 - 16V,Combustão,M-6,S,E,D,229.0,42.0,,B,,188.0,,,,10.2,11.0,,,2.53,,B,D,NÃO,M,6.0,Diesel,10.56,,,151-200,False,False
+Picape,FORD,Nova Ranger 4x4,XLS,2.0 - 16V,Combustão,A-6,S,E,D,164.0,38.0,,B,,187.0,,,,10.0,11.5,,,2.53,,B,D,NÃO,A,6.0,Diesel,10.68,,,151-200,False,False
+Picape,FORD,Nova Ranger 4x4,XLS,3.0 V6 - 24V,Combustão,A-10,S,E,D,77.0,69.0,,A,,213.0,,,,8.9,10.2,,,2.88,,D,E,NÃO,A,10.0,Diesel,9.48,,,201-250,False,False
+Picape,FORD,Nova Ranger 4x4,XLT,3.0 V6 - 24V,Combustão,A-10,S,E,D,77.0,69.0,,A,,213.0,,,,8.9,10.2,,,2.88,,D,E,NÃO,A,10.0,Diesel,9.48,,,201-250,False,False
+Picape,FORD,Ranger Raptor,Raptor,3.0 V6 - 24V,Combustão,A-10,S,E,G,23.0,249.0,0.0,A,,197.0,,,,6.7,7.4,,,3.2,,E,E,NÃO,A,10.0,Gasolina,7.02,,,151-200,False,False
+Picape,JAC,HUNTER,HUNTER AT,2.0-16V,Combustão,A-8,S,E-H,D,41.0,0.0,,A,,223.0,,,,9.0,10.2,,,2.84,,C,E,NÃO,A,8.0,Diesel,9.54,,,201-250,False,False
+Picape,JAC,HUNTER,HUNTER HD 4X4 AT,2.0-16V,Combustão,A-8,S,E-H,D,41.0,0.0,,A,,223.0,,,,9.0,10.2,,,2.84,,C,E,NÃO,A,8.0,Diesel,9.54,,,201-250,False,False
+Picape,JAC,HUNTER,HUNTER HD AT,2.0-16V,Combustão,A-8,S,E-H,D,41.0,0.0,,A,,223.0,,,,9.0,10.2,,,2.84,,C,E,NÃO,A,8.0,Diesel,9.54,,,201-250,False,False
+Picape,JAC,HUNTER,HUNTER HW AT,2.0-16V,Combustão,A-8,S,E-H,D,41.0,0.0,,A,,223.0,,,,9.0,10.2,,,2.84,,C,E,NÃO,A,8.0,Diesel,9.54,,,201-250,False,False
+Picape,JAC,IEV330P,IEV330,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,29.2,25.1,0.75,226.0,A,A,NÃO,A,1.0,Elétrico,,,27.36,,True,True
+Picape,JEEP,GLADIATOR,RUBICON,3.6-24V,Combustão,A-8,S,E-H,G,23.0,198.0,1.0,A,,200.0,,,,6.5,7.4,,,3.24,,E,E,NÃO,A,8.0,Gasolina,6.9,,,151-200,False,False
+Picape,JEEP,GLADIATOR,RUBICON (MY25 PL8),3.6-24V,Combustão,A-8,S,E-H,G,36.0,309.0,1.0,A,,209.0,,,,6.3,7.1,,,3.38,,E,E,NÃO,A,8.0,Gasolina,6.66,,,201-250,False,False
+Picape,Mitsubishi,L200 Triton,GL,2.4-16V,Combustão,M-6,S,H,D,267.0,25.0,,B,,177.0,,,,10.5,12.5,,,2.36,,A,D,NÃO,M,6.0,Diesel,11.4,,,151-200,False,False
+Picape,Mitsubishi,L200 Triton,GLS,2.4-16V,Combustão,A-5,S,H,D,237.0,15.0,,B,,195.0,,,,9.8,11.1,,,2.61,,B,D,NÃO,A,5.0,Diesel,10.39,,,151-200,False,False
+Picape,Mitsubishi,L200 Triton,Outdoor GLS,2.4-16V,Combustão,A-5,S,H,D,237.0,15.0,,B,,195.0,,,,9.8,11.1,,,2.61,,B,D,NÃO,A,5.0,Diesel,10.39,,,151-200,False,False
+Picape,Mitsubishi,L200 Triton,Outdoor GLX,2.4-16V,Combustão,M-6,S,H,D,267.0,25.0,,B,,177.0,,,,10.5,12.5,,,2.36,,A,D,NÃO,M,6.0,Diesel,11.4,,,151-200,False,False
+Picape,Mitsubishi,L200 Triton Sport,GL,2.4-16V,Combustão,M-6,S,H,D,269.0,22.0,,B,,188.0,,,,10.3,11.1,,,2.52,,B,D,NÃO,M,6.0,Diesel,10.66,,,151-200,False,False
+Picape,Mitsubishi,L200 Triton Sport,GLS,2.4-16V,Combustão,M-6,S,H,D,269.0,22.0,,B,,188.0,,,,10.3,11.1,,,2.52,,B,D,NÃO,M,6.0,Diesel,10.66,,,151-200,False,False
+Picape,Mitsubishi,L200 Triton Sport,GLS,2.4-16V,Combustão,A-6,S,H,D,196.0,25.0,,B,,206.0,,,,9.3,10.3,,,2.78,,C,E,NÃO,A,6.0,Diesel,9.75,,,201-250,False,False
+Picape,Mitsubishi,L200 Triton Sport,GLX,2.4-16V,Combustão,M-6,S,H,D,269.0,22.0,,B,,188.0,,,,10.3,11.1,,,2.52,,B,D,NÃO,M,6.0,Diesel,10.66,,,151-200,False,False
+Picape,Mitsubishi,L200 Triton Sport,HPE,2.4-16V,Combustão,A-6,S,H,D,196.0,25.0,,B,,206.0,,,,9.3,10.3,,,2.78,,C,E,NÃO,A,6.0,Diesel,9.75,,,201-250,False,False
+Picape,Mitsubishi,L200 Triton Sport,HPE-S,2.4-16V,Combustão,A-6,S,H,D,196.0,25.0,,B,,206.0,,,,9.3,10.3,,,2.78,,C,E,NÃO,A,6.0,Diesel,9.75,,,201-250,False,False
+Picape,Mitsubishi,L200 Triton Sport,OUTDOOR GLS,2.4-16V,Combustão,A-6,S,H,D,196.0,25.0,,B,,206.0,,,,9.3,10.3,,,2.78,,C,E,NÃO,A,6.0,Diesel,9.75,,,201-250,False,False
+Picape,Mitsubishi,L200 Triton Sport,SAVANA,2.4-16V,Combustão,A-6,S,H,D,196.0,25.0,,B,,206.0,,,,9.3,10.3,,,2.78,,C,E,NÃO,A,6.0,Diesel,9.75,,,201-250,False,False
+Picape,Nissan,Frontier,ATK,2.3-16V,Combustão,A-7,S,H,D,126.0,34.0,,A,,202.0,,,,9.1,11.0,,,2.73,,C,E,NÃO,A,7.0,Diesel,9.96,,,201-250,False,False
+Picape,Nissan,Frontier,PLT,2.3-16V,Combustão,A-7,S,H,D,129.0,32.0,,A,,201.0,,,,9.3,10.9,,,2.72,,C,E,NÃO,A,7.0,Diesel,10.02,,,201-250,False,False
+Picape,Nissan,Frontier,PRO4X,2.3-16V,Combustão,A-7,S,H,D,126.0,34.0,,A,,202.0,,,,9.1,11.0,,,2.73,,C,E,NÃO,A,7.0,Diesel,9.96,,,201-250,False,False
+Picape,Nissan,Frontier,S,2.3-16V,Combustão,M-6,S,H,D,103.0,44.0,,A,,194.0,,,,10.0,10.9,,,2.6,,B,D,NÃO,M,6.0,Diesel,10.4,,,151-200,False,False
+Picape,Nissan,Frontier,SE,2.3-16V,Combustão,A-7,S,H,D,126.0,34.0,,A,,202.0,,,,9.1,11.0,,,2.73,,C,E,NÃO,A,7.0,Diesel,9.96,,,201-250,False,False
+Picape,Nissan,Frontier,XE,2.3-16V,Combustão,A-7,S,H,D,129.0,32.0,,A,,201.0,,,,9.3,10.9,,,2.72,,C,E,NÃO,A,7.0,Diesel,10.02,,,201-250,False,False
+Picape,RAM,1500,LIMITED HEMI,5.7-16V,Combustão,A-8,S,E-H,G,26.0,420.0,2.0,B,,225.0,,,,5.5,7.2,,,3.65,,E,E,NÃO,A,8.0,Gasolina,6.26,,,201-250,False,False
+Picape,RAM,1500,LIMITED NIGHT EDITION,5.7-16V,Combustão,A-8,S,E-H,G,26.0,420.0,2.0,B,,225.0,,,,5.5,7.2,,,3.65,,E,E,NÃO,A,8.0,Gasolina,6.26,,,201-250,False,False
+Picape,RAM,1500,REBEL HEMI CC,5.7-16V,Combustão,A-8,S,E-H,G,25.0,327.0,1.0,B,,235.0,,,,5.4,6.8,,,3.81,,E,E,NÃO,A,8.0,Gasolina,6.03,,,201-250,False,False
+Picape,RAM,CLASSIC,LARAMIE,5.7-16V,Combustão,A-8,S,E,G,55.0,435.0,3.0,C,,244.0,,,,5.2,6.4,,,3.96,,E,E,NÃO,A,8.0,Gasolina,5.74,,,201-250,False,False
+Picape,RAM,CLASSIC,LARAMIE NIGHT EDITION,5.7-16V,Combustão,A-8,S,E,G,55.0,435.0,3.0,C,,244.0,,,,5.2,6.4,,,3.96,,E,E,NÃO,A,8.0,Gasolina,5.74,,,201-250,False,False
+Picape,RAM,CLASSIC,RT,5.7-16V,Combustão,A-8,S,E,G,55.0,435.0,3.0,C,,244.0,,,,5.2,6.4,,,3.96,,E,E,NÃO,A,8.0,Gasolina,5.74,,,201-250,False,False
+Picape,RAM,RAMPAGE,LARAMIE DS,2.0-16V T,Combustão,A-9,S,E,D,26.0,14.0,,A,,183.0,,,,9.9,12.4,,,2.47,,B,D,NÃO,A,9.0,Diesel,11.02,,,151-200,False,False
+Picape,RAM,RAMPAGE,LARAMIE GAS,2.0-16V T,Combustão,A-9,S,E,G,25.0,164.0,1.0,A,,160.0,,,,7.8,9.7,,,2.6,,B,D,NÃO,A,9.0,Gasolina,8.66,,,151-200,False,False
+Picape,RAM,RAMPAGE,REBEL AT GAS,2.0-16V T,Combustão,A-9,S,E,G,28.0,160.0,1.0,A,,159.0,,,,7.9,9.7,,,2.58,,B,D,NÃO,A,9.0,Gasolina,8.71,,,151-200,False,False
+Picape,RAM,RAMPAGE,REBEL DS,2.0-16V T,Combustão,A-9,S,E,D,43.0,18.0,,A,,184.0,,,,9.8,12.4,,,2.49,,B,D,NÃO,A,9.0,Diesel,10.97,,,151-200,False,False
+Picape,RAM,RAMPAGE,REBEL DS,2.0-16V T,Combustão,A-9,S,E,D,107.0,27.0,,B,,191.0,,,,9.5,11.8,,,2.58,,B,D,NÃO,A,9.0,Diesel,10.54,,,151-200,False,False
+Picape,RAM,RAMPAGE,RT GAS,2.0-16V T,Combustão,A-9,S,E,G,17.0,120.0,0.0,A,,156.0,,,,8.0,10.0,,,2.53,,B,D,NÃO,A,9.0,Gasolina,8.9,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,CC,2.8-16V,Combustão,M-6,S,H,D,240.0,40.0,,B,,182.0,,,,10.4,11.6,,,2.46,,B,D,NÃO,M,6.0,Diesel,10.94,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,GRS (wide tread),2.8-16V,Combustão,A-6,S,H,D,167.0,21.0,,A,,198.0,,,,9.5,10.7,,,2.69,,C,E,NÃO,A,6.0,Diesel,10.04,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,POWER PACK,2.8-16V,Combustão,M-6,S,H,D,240.0,32.0,,B,,181.0,,,,10.3,11.8,,,2.46,,B,D,NÃO,M,6.0,Diesel,10.98,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,SC,2.8-16V,Combustão,M-6,S,H,D,240.0,40.0,,B,,182.0,,,,10.4,11.6,,,2.46,,B,D,NÃO,M,6.0,Diesel,10.94,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,SR,2.8-16V,Combustão,A-6,S,H,D,181.0,18.0,,A,,187.0,,,,10.1,11.3,,,2.54,,B,D,NÃO,A,6.0,Diesel,10.64,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,SRV,2.8-16V,Combustão,A-6,S,H,D,181.0,18.0,,A,,187.0,,,,10.1,11.3,,,2.54,,B,D,NÃO,A,6.0,Diesel,10.64,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,SRX,2.8-16V,Combustão,A-6,S,H,D,181.0,18.0,,A,,187.0,,,,10.1,11.3,,,2.54,,B,D,NÃO,A,6.0,Diesel,10.64,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4,SRX Plus,2.8-16V,Combustão,A-6,S,H,D,186.0,19.0,,A,,199.0,,,,9.7,10.6,,,2.68,,C,E,NÃO,A,6.0,Diesel,10.1,,,151-200,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 AT,CABINE SIMPLES AT,2.8-16V,Combustão,A-6,S,H,D,71.0,18.0,,A,,210.0,,,,9.3,10.0,,,2.82,,C,E,NÃO,A,6.0,Diesel,9.62,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 AT,CHASSI AT,2.8-16V,Combustão,A-6,S,H,D,71.0,18.0,,A,,210.0,,,,9.3,10.0,,,2.82,,C,E,NÃO,A,6.0,Diesel,9.62,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 AT,POWER PACK AT,2.8-16V,Combustão,A-6,S,H,D,71.0,18.0,,A,,210.0,,,,9.3,10.0,,,2.82,,C,E,NÃO,A,6.0,Diesel,9.62,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 AT,SR AT,2.8-16V,Combustão,A-6,S,H,D,71.0,18.0,,A,,210.0,,,,9.3,10.0,,,2.82,,C,E,NÃO,A,6.0,Diesel,9.62,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 AT,SRV AT,2.8-16V,Combustão,A-6,S,H,D,71.0,18.0,,A,,210.0,,,,9.3,10.0,,,2.82,,C,E,NÃO,A,6.0,Diesel,9.62,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 AT,SRX AT,2.8-16V,Combustão,A-6,S,H,D,71.0,18.0,,A,,210.0,,,,9.3,10.0,,,2.82,,C,E,NÃO,A,6.0,Diesel,9.62,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 AT,SRX PLUS AT,2.8-16V,Combustão,A-6,S,H,D,71.0,18.0,,A,,210.0,,,,9.3,10.0,,,2.82,,C,E,NÃO,A,6.0,Diesel,9.62,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 MT,CABINE SIMPLES MT,2.8-16V,Combustão,M-6,S,H,D,73.0,57.0,,A,,204.0,,,,9.3,10.6,,,2.74,,C,E,NÃO,M,6.0,Diesel,9.89,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 MT,CHASSI MT,2.8-16V,Combustão,M-6,S,H,D,73.0,57.0,,A,,204.0,,,,9.3,10.6,,,2.74,,C,E,NÃO,M,6.0,Diesel,9.89,,,201-250,False,False
+Picape,TOYOTA,HILUX DIESEL 4X4 MT,POWER PACK MT,2.8-16V,Combustão,M-6,S,H,D,73.0,49.0,,A,,195.0,,,,9.7,11.2,,,2.62,,B,D,NÃO,M,6.0,Diesel,10.38,,,151-200,False,False
+Picape,VW,AMAROK,V6 COMFORT,3.0-24V,Combustão,A - 8,S,H,D,266.0,44.0,,B,,216.0,,,,9.0,9.7,,,2.92,,D,E,NÃO,A,8.0,Diesel,9.32,,,201-250,False,False
+Picape,VW,AMAROK,V6 COMFORT(MY25),3.0 - 24V,Combustão,A - 8,S,H,D,254.0,41.0,,B,,231.0,,,,8.5,9.0,,,3.11,,E,E,NÃO,A,8.0,Diesel,8.73,,,201-250,False,False
+Picape,VW,AMAROK,V6 EXTREME,3.0-24V,Combustão,A - 8,S,H,D,266.0,44.0,,B,,216.0,,,,9.0,9.7,,,2.92,,D,E,NÃO,A,8.0,Diesel,9.32,,,201-250,False,False
+Picape,VW,AMAROK,V6 EXTREME(MY25),3.0 - 24V,Combustão,A - 8,S,H,D,248.0,50.0,,B,,225.0,,,,8.7,9.3,,,3.03,,D,E,NÃO,A,8.0,Diesel,8.97,,,201-250,False,False
+Picape,VW,AMAROK,V6 HIGH,3.0-24V,Combustão,A - 8,S,H,D,266.0,44.0,,B,,216.0,,,,9.0,9.7,,,2.92,,D,E,NÃO,A,8.0,Diesel,9.32,,,201-250,False,False
+Picape,VW,AMAROK,V6 HIGH (MY25),3.0 - 24V,Combustão,A - 8,S,H,D,248.0,50.0,,B,,225.0,,,,8.7,9.3,,,3.03,,D,E,NÃO,A,8.0,Diesel,8.97,,,201-250,False,False
+Picape Compacta,CHEVROLET,MONTANA,T,1.2T - 12 V,Combustão,M-6,S,E,F,43.0,352.0,4.0,B,0.0,105.0,,8.3,9.6,12.0,13.6,,,1.7,,A,C,NÃO,M,6.0,Flex,12.72,8.89,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T (MY25.5),1.2T - 12V,Combustão,M-6,S,E,F,16.0,129.0,2.0,A,0.0,102.0,,8.4,9.7,12.3,13.7,,,1.66,,A,C,NÃO,M,6.0,Flex,12.93,8.99,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T AT LTZ,1.2T - 12 V,Combustão,A-6,S,E,F,44.0,324.0,4.0,B,0.0,111.0,,7.7,9.3,11.1,13.3,,,1.81,,B,C,NÃO,A,6.0,Flex,12.09,8.42,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T AT LTZ (MY25.5),1.2T - 12V,Combustão,A-6,S,E,F,16.0,101.0,2.0,A,0.0,111.0,,7.5,9.7,11.0,13.5,,,1.8,,B,C,NÃO,A,6.0,Flex,12.12,8.49,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T AT PR,1.2T - 12 V,Combustão,A-6,S,E,F,44.0,324.0,4.0,B,0.0,111.0,,7.7,9.3,11.1,13.3,,,1.81,,B,C,NÃO,A,6.0,Flex,12.09,8.42,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T AT PR (MY25.5),1.2T - 12V,Combustão,A-6,S,E,F,16.0,101.0,2.0,A,0.0,111.0,,7.5,9.7,11.0,13.5,,,1.8,,B,C,NÃO,A,6.0,Flex,12.12,8.49,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T AT RS,1.2T - 12 V,Combustão,A-6,S,E,F,44.0,324.0,4.0,B,0.0,111.0,,7.7,9.3,11.1,13.3,,,1.81,,B,C,NÃO,A,6.0,Flex,12.09,8.42,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T AT RS (MY25.5),1.2T - 12V,Combustão,A-6,S,E,F,16.0,101.0,2.0,A,0.0,111.0,,7.5,9.7,11.0,13.5,,,1.8,,B,C,NÃO,A,6.0,Flex,12.12,8.49,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T LT,1.2T - 12 V,Combustão,M-6,S,E,F,43.0,352.0,4.0,B,0.0,105.0,,8.3,9.6,12.0,13.6,,,1.7,,A,C,NÃO,M,6.0,Flex,12.72,8.89,,101-150,False,False
+Picape Compacta,CHEVROLET,MONTANA,T LT (MY25.5),1.2T - 12V,Combustão,M-6,S,E,F,16.0,129.0,2.0,A,0.0,102.0,,8.4,9.7,12.3,13.7,,,1.66,,A,C,NÃO,M,6.0,Flex,12.93,8.99,,101-150,False,False
+Picape Compacta,FIAT,STRADA,ENDURAN CS13,1.3-8V,Combustão,M-5,S,E,F,25.0,215.0,3.0,B,0.0,96.0,,9.1,10.2,13.1,14.6,,,1.56,,A,C,NÃO,M,5.0,Flex,13.78,9.59,,51-100,False,False
+Picape Compacta,FIAT,STRADA,FREEDOM CD13,1.3-8V,Combustão,M-5,S,E,F,36.0,165.0,3.0,B,0.0,100.0,,9.0,9.8,12.7,13.9,,,1.61,,A,C,NÃO,M,5.0,Flex,13.24,9.36,,51-100,False,False
+Picape Compacta,FIAT,STRADA,FREEDOM CS13,1.3-8V,Combustão,M-5,S,E,F,25.0,215.0,3.0,B,0.0,96.0,,9.1,10.2,13.1,14.6,,,1.56,,A,C,NÃO,M,5.0,Flex,13.78,9.59,,51-100,False,False
+Picape Compacta,FIAT,STRADA,RANCH T200AT,1.0-12V T,Combustão,CVT-7,S,E,F,52.0,393.0,4.0,B,0.0,106.0,,8.3,9.4,12.1,13.2,,,1.71,,A,C,NÃO,CVT,7.0,Flex,12.6,8.8,,101-150,False,False
+Picape Compacta,FIAT,STRADA,ULTRA T200AT,1.0-12V T,Combustão,CVT-7,S,E,F,52.0,393.0,4.0,B,0.0,106.0,,8.3,9.4,12.1,13.2,,,1.71,,A,C,NÃO,CVT,7.0,Flex,12.6,8.8,,101-150,False,False
+Picape Compacta,FIAT,STRADA,VOLCANO 13AT,1.3-8V,Combustão,CVT-7,S,E,F,34.0,281.0,2.0,B,0.0,102.0,,8.7,10.5,12.4,13.8,,,1.62,,A,C,NÃO,CVT,7.0,Flex,13.03,9.51,,101-150,False,False
+Picape Compacta,FIAT,STRADA,VOLCANO CD13,1.3-8V,Combustão,M-5,S,E,F,36.0,165.0,3.0,B,0.0,100.0,,9.0,9.8,12.7,13.9,,,1.61,,A,C,NÃO,M,5.0,Flex,13.24,9.36,,51-100,False,False
+Picape Compacta,Renault,Oroch,ICONICMN,1.6 - 16V,Combustão,M-6,S,E-H,F,55.0,387.0,4.0,C,0.0,118.0,,7.4,8.0,11.3,11.6,,,1.93,,D,C,NÃO,M,6.0,Flex,11.44,7.67,,101-150,False,False
+Picape Compacta,Renault,Oroch,Iconic,1.3 - 16V,Combustão,CVT,S,E -H,F,34.0,106.0,3.0,B,0.0,125.0,,7.4,7.8,10.5,11.0,,,2.01,,E,C,NÃO,CVT,,Flex,10.73,7.58,,101-150,False,False
+Picape Compacta,Renault,Oroch,Intense,1.3 - 16V,Combustão,CVT,S,E -H,F,34.0,106.0,3.0,B,0.0,125.0,,7.4,7.8,10.5,11.0,,,2.01,,E,C,NÃO,CVT,,Flex,10.73,7.58,,101-150,False,False
+Picape Compacta,Renault,Oroch,Intense16M,1.6 - 16V,Combustão,M-6,S,E-H,F,55.0,387.0,4.0,C,0.0,118.0,,7.4,8.0,11.3,11.6,,,1.93,,D,C,NÃO,M,6.0,Flex,11.44,7.67,,101-150,False,False
+Picape Compacta,Renault,Oroch,Outsider,1.3 - 16V,Combustão,CVT,S,E -H,F,34.0,106.0,3.0,B,0.0,125.0,,7.4,7.8,10.5,11.0,,,2.01,,E,C,NÃO,CVT,,Flex,10.73,7.58,,101-150,False,False
+Picape Compacta,Renault,Oroch,PRO16,1.6 - 16V,Combustão,M-6,S,E-H,F,55.0,387.0,4.0,C,0.0,118.0,,7.4,8.0,11.3,11.6,,,1.93,,D,C,NÃO,M,6.0,Flex,11.44,7.67,,101-150,False,False
+Picape Compacta,VW,SAVEIRO,CD EXTREME MF,1.6-16V,Combustão,M - 5,S,H,F,27.0,146.0,2.0,A,0.0,112.0,,7.8,8.9,11.3,12.6,,,1.82,,B,C,NÃO,M,5.0,Flex,11.89,8.3,,101-150,False,False
+Picape Compacta,VW,SAVEIRO,CD ROBUST MF,1.6-16V,Combustão,M - 5,S,H,F,27.0,146.0,2.0,A,0.0,112.0,,7.8,8.9,11.3,12.6,,,1.82,,B,C,NÃO,M,5.0,Flex,11.89,8.3,,101-150,False,False
+Picape Compacta,VW,SAVEIRO,CS ROBUST MF,1.6-16V,Combustão,M - 5,S,H,F,30.0,160.0,2.0,B,0.0,110.0,,7.9,9.1,11.5,12.9,,,1.79,,B,C,NÃO,M,5.0,Flex,12.13,8.44,,101-150,False,False
+Picape Compacta,VW,SAVEIRO,CS TRENDLINE MF,1.6-16V,Combustão,M - 5,S,H,F,30.0,160.0,2.0,B,0.0,110.0,,7.9,9.1,11.5,12.9,,,1.79,,B,C,NÃO,M,5.0,Flex,12.13,8.44,,101-150,False,False
+Sub Compacto,BYD,DOLPHIN MINI,GS EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,58.6,41.9,0.41,280.0,A,A,NÃO,,,Elétrico,,,51.09,0-50,True,True
+Sub Compacto,CAOA CHERY,ICAR EQ1,TEC,Elétrico,Elétrico,A-,S,E,E,,,,A,,,,,,,,50.8,38.6,0.46,198.0,A,A,NÃO,A,,Elétrico,,,45.31,,True,True
+Sub Compacto,FIAT,500E,ICON,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,47.3,40.4,0.46,227.0,A,A,NÃO,A,1.0,Elétrico,,,44.2,,True,True
+Sub Compacto,FIAT,MOBI,LIKE,1.0-8V,Combustão,M-5,S,H,F,46.0,225.0,4.0,B,0.0,93.0,,9.6,10.4,13.5,15.0,,,1.5,,E,B,NÃO,M,5.0,Flex,14.18,9.96,,51-100,False,False
+Sub Compacto,FIAT,MOBI,TREKKING 1.0MT,1.0-8V,Combustão,M-5,S,H,F,46.0,225.0,4.0,B,0.0,93.0,,9.6,10.4,13.5,15.0,,,1.5,,E,B,NÃO,M,5.0,Flex,14.18,9.96,,51-100,False,False
+Sub Compacto,JAC,e-JS1,e-JS1,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,46.6,35.0,0.5,181.0,B,A,NÃO,A,1.0,Elétrico,,,41.38,,True,True
+Sub Compacto,JAC,e-JS1,e-JS1 EXT,Elétrico,Elétrico,A-1,S,E,E,,,,A,,,,,,,,46.6,35.0,0.5,181.0,B,A,NÃO,A,1.0,Elétrico,,,41.38,,True,True
+Sub Compacto,Renault,E-KWID,INTENS,Elétrico,Elétrico,A,S,E,E,,,,A,,0.0,,,,,,52.7,39.6,0.44,185.0,A,A,NÃO,A,,Elétrico,,,46.81,0-50,True,True
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,H,1.5T -16V,Híbrido,CVT,S,E,F,54.0,461.0,1.0,B,0.0,121.0,,8.1,8.3,11.1,10.9,,,1.9,,C,C,NÃO,CVT,,Flex,11.01,8.19,,101-150,False,True
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,H,1.5T -16V,Híbrido,CVT,S,E,F,60.0,164.0,1.0,B,0.0,111.0,,8.7,8.8,11.8,12.3,,,1.76,,B,C,NÃO,CVT,,Flex,12.03,8.75,,101-150,False,True
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,PLS 15T,1.5T -16V,Combustão,CVT,S,E,F,62.0,236.0,2.0,B,0.0,127.0,,6.9,8.1,9.9,11.5,,,2.06,,D,C,NÃO,CVT,,Flex,10.62,7.44,,101-150,False,False
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,PLUS,1.5T -16V,Combustão,CVT,S,E,F,62.0,236.0,2.0,B,0.0,127.0,,6.9,8.1,9.9,11.5,,,2.06,,D,C,NÃO,CVT,,Flex,10.62,7.44,,101-150,False,False
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,PRO 15T,1.5T -16V,Combustão,CVT,S,E,F,62.0,236.0,2.0,B,0.0,127.0,,6.9,8.1,9.9,11.5,,,2.06,,D,C,NÃO,CVT,,Flex,10.62,7.44,,101-150,False,False
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,PRO H,1.5T -16V,Híbrido,CVT,S,E,F,54.0,461.0,1.0,B,0.0,121.0,,8.1,8.3,11.1,10.9,,,1.9,,C,C,NÃO,CVT,,Flex,11.01,8.19,,101-150,False,True
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,PRO H,1.5T -16V,Híbrido,CVT,S,E,F,60.0,164.0,1.0,B,0.0,111.0,,8.7,8.8,11.8,12.3,,,1.76,,B,C,NÃO,CVT,,Flex,12.03,8.75,,101-150,False,True
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,PRO HA,1.5T -16V,Híbrido,CVT,S,E,F,54.0,461.0,1.0,B,0.0,121.0,,8.1,8.3,11.1,10.9,,,1.9,,C,C,NÃO,CVT,,Flex,11.01,8.19,,101-150,False,True
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,PRO HA,1.5T -16V,Híbrido,CVT,S,E,F,60.0,164.0,1.0,B,0.0,111.0,,8.7,8.8,11.8,12.3,,,1.76,,B,C,NÃO,CVT,,Flex,12.03,8.75,,101-150,False,True
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,SPORT,1.5T -16V,Combustão,CVT,S,E,F,62.0,236.0,2.0,B,0.0,127.0,,6.9,8.1,9.9,11.5,,,2.06,,D,C,NÃO,CVT,,Flex,10.62,7.44,,101-150,False,False
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,T,1.5T -16V,Combustão,CVT,S,E,F,62.0,236.0,2.0,B,0.0,127.0,,6.9,8.1,9.9,11.5,,,2.06,,D,C,NÃO,CVT,,Flex,10.62,7.44,,101-150,False,False
+Utilitário Esportivo Compacto,CAOA CHERY,TIGGO 5X,TXS,1.5T -16V,Combustão,CVT,S,E,F,62.0,236.0,2.0,B,0.0,127.0,,6.9,8.1,9.9,11.5,,,2.06,,D,C,NÃO,CVT,,Flex,10.62,7.44,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,12T A PR,1.2T - 12 V,Combustão,A-6,S,E,F,43.0,431.0,4.0,C,0.0,117.0,,7.2,9.2,10.4,13.2,,,1.89,,C,C,NÃO,A,6.0,Flex,11.66,8.1,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,12T A PR (MY25.5),1.2T - 12V,Combustão,A-6,S,E,F,20.0,104.0,2.0,A,0.0,108.0,,7.7,10.0,11.2,14.1,,,1.76,,B,C,NÃO,A,6.0,Flex,12.5,8.74,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,12T A RS,1.2T - 12 V,Combustão,A-6,S,E,F,43.0,431.0,4.0,C,0.0,117.0,,7.2,9.2,10.4,13.2,,,1.89,,C,C,NÃO,A,6.0,Flex,11.66,8.1,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,12T A RS (MY25.5),1.2T - 12V,Combustão,A-6,S,E,F,20.0,104.0,2.0,A,0.0,108.0,,7.7,10.0,11.2,14.1,,,1.76,,B,C,NÃO,A,6.0,Flex,12.5,8.74,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A,1.0T - 12 V,Combustão,A-6,S,E,F,38.0,488.0,3.0,B,0.0,110.0,,7.8,9.6,11.2,13.6,,,1.78,,C,C,NÃO,A,6.0,Flex,12.28,8.61,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,17.0,136.0,2.0,A,0.0,107.0,,8.0,9.8,11.6,13.7,,,1.73,,B,C,NÃO,A,6.0,Flex,12.54,8.81,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A LT,1.0T - 12 V,Combustão,A-6,S,E,F,38.0,488.0,3.0,B,0.0,110.0,,7.8,9.6,11.2,13.6,,,1.78,,C,C,NÃO,A,6.0,Flex,12.28,8.61,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A LT (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,17.0,136.0,2.0,A,0.0,107.0,,8.0,9.8,11.6,13.7,,,1.73,,B,C,NÃO,A,6.0,Flex,12.54,8.81,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A LTZ,1.0T - 12 V,Combustão,A-6,S,E,F,38.0,488.0,3.0,B,0.0,110.0,,7.8,9.6,11.2,13.6,,,1.78,,C,C,NÃO,A,6.0,Flex,12.28,8.61,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A LTZ (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,17.0,136.0,2.0,A,0.0,107.0,,8.0,9.8,11.6,13.7,,,1.73,,B,C,NÃO,A,6.0,Flex,12.54,8.81,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A MID,1.0T - 12 V,Combustão,A-6,S,E,F,38.0,488.0,3.0,B,0.0,110.0,,7.8,9.6,11.2,13.6,,,1.78,,C,C,NÃO,A,6.0,Flex,12.28,8.61,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A MID (MY25.5),1.0T - 12V,Combustão,A-6,S,E,F,17.0,136.0,2.0,A,0.0,107.0,,8.0,9.8,11.6,13.7,,,1.73,,B,C,NÃO,A,6.0,Flex,12.54,8.81,,101-150,False,False
+Utilitário Esportivo Compacto,CHEVROLET,TRACKER,T A PR,1.0T - 12 V,Combustão,A-6,S,E,F,38.0,488.0,3.0,B,0.0,110.0,,7.8,9.6,11.2,13.6,,,1.78,,C,C,NÃO,A,6.0,Flex,12.28,8.61,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,BASALT,FEEL 1.0,1.0-6V,Combustão,M-5,S,E,F,34.0,417.0,3.0,B,0.0,97.0,,9.3,10.2,13.0,14.6,,,1.55,,A,C,NÃO,M,5.0,Flex,13.72,9.71,,51-100,False,False
+Utilitário Esportivo Compacto,CITROEN,BASALT,FEEL T200,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,287.0,6.0,B,0.0,105.0,,8.3,9.6,11.9,13.7,,,1.7,,B,C,NÃO,CVT,7.0,Flex,12.71,8.89,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,BASALT,LIVE 1.0,1.0-6V,Combustão,M-5,S,E,F,34.0,417.0,3.0,B,0.0,97.0,,9.3,10.2,13.0,14.6,,,1.55,,A,C,NÃO,M,5.0,Flex,13.72,9.71,,51-100,False,False
+Utilitário Esportivo Compacto,CITROEN,BASALT,SHINET200,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,287.0,6.0,B,0.0,105.0,,8.3,9.6,11.9,13.7,,,1.7,,B,C,NÃO,CVT,7.0,Flex,12.71,8.89,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3,FEEL 1.0,1.0-6V,Combustão,M-5,S,E,F,41.0,381.0,2.0,B,0.0,96.0,,9.3,10.5,13.0,14.6,,,1.54,,A,C,NÃO,M,5.0,Flex,13.72,9.84,,51-100,False,False
+Utilitário Esportivo Compacto,CITROEN,C3,FEEL PK AT,1.6-16V,Combustão,A-6,S,E,F,50.0,551.0,2.0,C,0.0,121.0,,7.2,8.5,10.3,12.4,,,1.96,,C,C,NÃO,A,6.0,Flex,11.24,7.78,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3,LIVE 1.0,1.0-6V,Combustão,M-5,S,E,F,41.0,381.0,2.0,B,0.0,96.0,,9.3,10.5,13.0,14.6,,,1.54,,A,C,NÃO,M,5.0,Flex,13.72,9.84,,51-100,False,False
+Utilitário Esportivo Compacto,CITROEN,C3,LIVE PACK AT,1.6-16V,Combustão,A-6,S,E,F,50.0,551.0,2.0,C,0.0,121.0,,7.2,8.5,10.3,12.4,,,1.96,,C,C,NÃO,A,6.0,Flex,11.24,7.78,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3,LIVE PK 1.0,1.0-6V,Combustão,M-5,S,E,F,41.0,381.0,2.0,B,0.0,96.0,,9.3,10.5,13.0,14.6,,,1.54,,A,C,NÃO,M,5.0,Flex,13.72,9.84,,51-100,False,False
+Utilitário Esportivo Compacto,CITROEN,C3,YOU 1.0T CVT,1.0-12V T,Combustão,CVT-7,S,E,F,49.0,227.0,3.0,B,0.0,114.0,,7.8,8.8,11.0,12.8,,,1.84,,C,C,NÃO,CVT,7.0,Flex,11.81,8.25,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3 AIRCROSS,FL,1.0-12V T,Combustão,CVT-7,S,E,F,58.0,414.0,4.0,C,0.0,119.0,,7.4,8.6,10.6,12.0,,,1.93,,C,C,NÃO,CVT,7.0,Flex,11.23,7.94,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3 AIRCROSS,FL PK,1.0-12V T,Combustão,CVT-7,S,E,F,58.0,414.0,4.0,C,0.0,119.0,,7.4,8.6,10.6,12.0,,,1.93,,C,C,NÃO,CVT,7.0,Flex,11.23,7.94,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3 AIRCROSS,SH,1.0-12V T,Combustão,CVT-7,S,E,F,58.0,414.0,4.0,C,0.0,119.0,,7.4,8.6,10.6,12.0,,,1.93,,C,C,NÃO,CVT,7.0,Flex,11.23,7.94,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3AIRCROSS,FL 7,1.0-12V T,Combustão,CVT-7,S,E,F,58.0,414.0,4.0,C,0.0,119.0,,7.4,8.6,10.6,12.0,,,1.93,,C,C,NÃO,CVT,7.0,Flex,11.23,7.94,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3AIRCROSS,FLPK7,1.0-12V T,Combustão,CVT-7,S,E,F,58.0,414.0,4.0,C,0.0,119.0,,7.4,8.6,10.6,12.0,,,1.93,,C,C,NÃO,CVT,7.0,Flex,11.23,7.94,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C3AIRCROSS,SH 7,1.0-12V T,Combustão,CVT-7,S,E,F,58.0,414.0,4.0,C,0.0,119.0,,7.4,8.6,10.6,12.0,,,1.93,,C,C,NÃO,CVT,7.0,Flex,11.23,7.94,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C4 CACTUS,FEEL P,1.6-16V,Combustão,A-6,S,E,F,41.0,480.0,1.0,B,0.0,113.0,,7.7,8.9,11.2,12.7,,,1.84,,C,C,NÃO,A,6.0,Flex,11.88,8.24,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C4 CACTUS,LIVE A,1.6-16V,Combustão,A-6,S,E,F,41.0,480.0,1.0,B,0.0,113.0,,7.7,8.9,11.2,12.7,,,1.84,,C,C,NÃO,A,6.0,Flex,11.88,8.24,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C4 CACTUS,NOIR,1.6-16V T,Combustão,A-6,S,E,F,44.0,197.0,5.0,B,0.0,107.0,,8.2,9.5,11.7,13.4,,,1.73,,B,C,NÃO,A,6.0,Flex,12.46,8.78,,101-150,False,False
+Utilitário Esportivo Compacto,CITROEN,C4 CACTUS,SHINE T,1.6-16V T,Combustão,A-6,S,E,F,44.0,197.0,5.0,B,0.0,107.0,,8.2,9.5,11.7,13.4,,,1.73,,B,C,NÃO,A,6.0,Flex,12.46,8.78,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,ARGO,ENDUR 1.3 MT,1.3-8V,Combustão,M-5,S,E,F,22.0,151.0,2.0,A,0.0,100.0,,9.1,10.0,12.6,14.1,,,1.6,,B,C,NÃO,M,5.0,Flex,13.28,9.5,,51-100,False,False
+Utilitário Esportivo Compacto,FIAT,ARGO,TREKKING 1.3,1.3-8V,Combustão,M-5,S,E,F,22.0,151.0,2.0,A,0.0,100.0,,9.1,10.0,12.6,14.1,,,1.6,,B,C,NÃO,M,5.0,Flex,13.28,9.5,,51-100,False,False
+Utilitário Esportivo Compacto,FIAT,ARGO,TREKKING 1.3 AT,1.3-8V,Combustão,CVT-7,S,E,F,37.0,145.0,2.0,B,0.0,100.0,,8.9,10.1,12.7,13.9,,,1.6,,B,C,NÃO,CVT,7.0,Flex,13.24,9.44,,51-100,False,False
+Utilitário Esportivo Compacto,FIAT,ARGO,TREKKING 1.3AT (MY25),1.3-8V,Combustão,CVT-7,S,E,F,32.0,287.0,2.0,B,0.0,99.0,,8.8,10.4,12.6,14.4,,,1.59,,B,C,NÃO,CVT,7.0,Flex,13.41,9.52,,51-100,False,False
+Utilitário Esportivo Compacto,FIAT,FASTBACK,ABARTH 270,1.3-16V T,Combustão,A-6,S,E,F,42.0,288.0,4.0,B,0.0,118.0,,7.2,9.3,10.3,13.1,,,1.9,,C,C,NÃO,A,6.0,Flex,11.56,8.15,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,FASTBACK,AUDACE,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,206.0,6.0,B,0.0,102.0,,8.4,10.2,11.9,14.6,,,1.65,,B,C,NÃO,CVT,7.0,Flex,13.12,9.21,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,FASTBACK,AUDACE HYB,1.0-12V T,Híbrido,CVT-7,S,E,F,38.0,186.0,4.0,B,0.0,100.0,,8.9,9.8,12.6,13.9,,,1.62,,B,C,NÃO,CVT,7.0,Flex,13.18,9.3,,51-100,False,True
+Utilitário Esportivo Compacto,FIAT,FASTBACK,DRIVE,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,206.0,6.0,B,0.0,102.0,,8.4,10.2,11.9,14.6,,,1.65,,B,C,NÃO,CVT,7.0,Flex,13.12,9.21,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,FASTBACK,IMPETUS,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,183.0,5.0,B,0.0,108.0,,8.1,9.7,11.3,13.9,,,1.74,,B,C,NÃO,CVT,7.0,Flex,12.47,8.82,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,FASTBACK,IMPETUS HY,1.0-12V T,Híbrido,CVT-7,S,E,F,38.0,186.0,4.0,B,0.0,100.0,,8.9,9.8,12.6,13.9,,,1.62,,B,C,NÃO,CVT,7.0,Flex,13.18,9.3,,51-100,False,True
+Utilitário Esportivo Compacto,FIAT,FASTBACK,LIMITED ED,1.3-16V T,Combustão,A-6,S,E,F,41.0,301.0,6.0,B,0.0,108.0,,7.8,9.7,11.4,13.7,,,1.76,,B,C,NÃO,A,6.0,Flex,12.44,8.66,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,FASTBACK,TURBO 200,1.0-12V T,Combustão,CVT-7,S,E,F,50.0,206.0,6.0,B,0.0,102.0,,8.4,10.2,11.9,14.6,,,1.65,,B,C,NÃO,CVT,7.0,Flex,13.12,9.21,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,FASTBACK,TURBO 270,1.3-16V T,Combustão,A-6,S,E,F,38.0,211.0,3.0,B,0.0,109.0,,7.9,9.7,11.3,13.6,,,1.76,,B,C,NÃO,A,6.0,Flex,12.34,8.71,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,PULSE,ABARTH 270,1.3-16V T,Combustão,A-6,S,E,F,48.0,255.0,7.0,B,0.0,122.0,,7.1,8.9,10.2,12.3,,,1.96,,C,C,NÃO,A,6.0,Flex,11.14,7.91,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,PULSE,AUDACE HYB,1.0-12V T,Híbrido,CVT-7,S,E,F,42.0,239.0,3.0,B,0.0,95.0,,9.3,10.2,13.4,14.4,,,1.54,,A,C,NÃO,CVT,7.0,Flex,13.85,9.71,,51-100,False,True
+Utilitário Esportivo Compacto,FIAT,PULSE,AUDACE TF200,1.0-12V T,Combustão,CVT-7,S,E,F,44.0,144.0,5.0,B,0.0,102.0,,8.4,10.2,12.1,14.4,,,1.64,,B,C,NÃO,CVT,7.0,Flex,13.14,9.21,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,PULSE,DRIVE AT,1.3-8V,Combustão,CVT-7,S,E,F,39.0,333.0,2.0,B,0.0,99.0,,8.8,10.6,12.5,14.5,,,1.58,,A,C,NÃO,CVT,7.0,Flex,13.4,9.61,,51-100,False,False
+Utilitário Esportivo Compacto,FIAT,PULSE,DRIVE MT,1.3-8V,Combustão,M-5,S,E,F,46.0,142.0,4.0,B,0.0,99.0,,9.0,10.4,12.5,14.7,,,1.58,,A,C,NÃO,M,5.0,Flex,13.49,9.63,,51-100,False,False
+Utilitário Esportivo Compacto,FIAT,PULSE,DRIVE TF200,1.0-12V T,Combustão,CVT-7,S,E,F,44.0,144.0,5.0,B,0.0,102.0,,8.4,10.2,12.1,14.4,,,1.64,,B,C,NÃO,CVT,7.0,Flex,13.14,9.21,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,PULSE,IMPETUS HYB,1.0-12V T,Híbrido,CVT-7,S,E,F,42.0,239.0,3.0,B,0.0,95.0,,9.3,10.2,13.4,14.4,,,1.54,,A,C,NÃO,CVT,7.0,Flex,13.85,9.71,,51-100,False,True
+Utilitário Esportivo Compacto,FIAT,PULSE,IMPETUS TF200,1.0-12V T,Combustão,CVT-7,S,E,F,44.0,144.0,5.0,B,0.0,102.0,,8.4,10.2,12.1,14.4,,,1.64,,B,C,NÃO,CVT,7.0,Flex,13.14,9.21,,101-150,False,False
+Utilitário Esportivo Compacto,FIAT,PULSE,MT,1.3-8V,Combustão,M-5,S,E,F,46.0,142.0,4.0,B,0.0,99.0,,9.0,10.4,12.5,14.7,,,1.58,,A,C,NÃO,M,5.0,Flex,13.49,9.63,,51-100,False,False
+Utilitário Esportivo Compacto,Hyundai,CRETA,Action,1.6-16V,Combustão,A-6,S,E,F,57.0,577.0,2.0,B,0.0,127.0,,7.1,8.1,9.7,12.1,,,2.04,,D,C,NÃO,A,6.0,Flex,10.78,7.55,,101-150,False,False
+Utilitário Esportivo Compacto,Hyundai,CRETA,Comfort,1.0-12V T,Combustão,A-6,S,E,F,31.0,113.0,3.0,A,0.0,109.0,,8.3,9.1,11.9,12.6,,,1.75,,B,C,NÃO,A,6.0,Flex,12.22,8.66,,101-150,False,False
+Utilitário Esportivo Compacto,Hyundai,CRETA,Limited,1.0-12V T,Combustão,A-6,S,E,F,31.0,113.0,3.0,A,0.0,109.0,,8.3,9.1,11.9,12.6,,,1.75,,B,C,NÃO,A,6.0,Flex,12.22,8.66,,101-150,False,False
+Utilitário Esportivo Compacto,Hyundai,CRETA,N Line,1.0-12V T,Combustão,A-6,S,E,F,31.0,113.0,3.0,A,0.0,109.0,,8.3,9.1,11.9,12.6,,,1.75,,B,C,NÃO,A,6.0,Flex,12.22,8.66,,101-150,False,False
+Utilitário Esportivo Compacto,Hyundai,CRETA,Platinum,1.0-12V T,Combustão,A-6,S,E,F,31.0,113.0,3.0,A,0.0,109.0,,8.3,9.1,11.9,12.6,,,1.75,,B,C,NÃO,A,6.0,Flex,12.22,8.66,,101-150,False,False
+Utilitário Esportivo Compacto,Hyundai,CRETA,Ultimate,2.0-16V,Combustão,A-6,S,E,F,23.0,466.0,3.0,B,0.0,115.0,,7.7,8.8,11.1,12.4,,,1.85,,C,C,NÃO,A,6.0,Flex,11.68,8.2,,101-150,False,False
+Utilitário Esportivo Compacto,JEEP,RENEGADE,1.3 T FLEX,1.3-16V T,Combustão,A-6,S,E,F,56.0,379.0,5.0,B,0.0,115.0,,7.7,9.0,10.9,12.7,,,1.84,,C,C,NÃO,A,6.0,Flex,11.71,8.28,,101-150,False,False
+Utilitário Esportivo Compacto,JEEP,RENEGADE,1.3 TURBO,1.3-16V T,Combustão,A-6,S,E,F,56.0,379.0,5.0,B,0.0,115.0,,7.7,9.0,10.9,12.7,,,1.84,,C,C,NÃO,A,6.0,Flex,11.71,8.28,,101-150,False,False
+Utilitário Esportivo Compacto,JEEP,RENEGADE,LGTD T270,1.3-16V T,Combustão,A-6,S,E,F,56.0,379.0,5.0,B,0.0,115.0,,7.7,9.0,10.9,12.7,,,1.84,,C,C,NÃO,A,6.0,Flex,11.71,8.28,,101-150,False,False
+Utilitário Esportivo Compacto,JEEP,RENEGADE,SAHARA,1.3-16V T,Combustão,A-6,S,E,F,56.0,379.0,5.0,B,0.0,115.0,,7.7,9.0,10.9,12.7,,,1.84,,C,C,NÃO,A,6.0,Flex,11.71,8.28,,101-150,False,False
+Utilitário Esportivo Compacto,JEEP,RENEGADE,SPT T270,1.3-16V T,Combustão,A-6,S,E,F,56.0,379.0,5.0,B,0.0,115.0,,7.7,9.0,10.9,12.7,,,1.84,,C,C,NÃO,A,6.0,Flex,11.71,8.28,,101-150,False,False
+Utilitário Esportivo Compacto,Nissan,Kicks,ACTIVE,1.6-16V,Combustão,CVT,S,E,F,30.0,159.0,2.0,B,0.0,109.0,,7.8,9.5,11.4,13.8,,,1.76,,B,C,NÃO,CVT,,Flex,12.48,8.57,,101-150,False,False
+Utilitário Esportivo Compacto,Nissan,Kicks,ADVANCE,1.6-16V,Combustão,CVT,S,E,F,30.0,159.0,2.0,B,0.0,109.0,,7.8,9.5,11.4,13.8,,,1.76,,B,C,NÃO,CVT,,Flex,12.48,8.57,,101-150,False,False
+Utilitário Esportivo Compacto,Nissan,Kicks,EXCLUSI,1.6-16V,Combustão,CVT,S,E,F,30.0,159.0,2.0,B,0.0,109.0,,7.8,9.5,11.4,13.8,,,1.76,,B,C,NÃO,CVT,,Flex,12.48,8.57,,101-150,False,False
+Utilitário Esportivo Compacto,Nissan,Kicks,SENSE,1.6-16V,Combustão,CVT,S,E,F,30.0,159.0,2.0,B,0.0,109.0,,7.8,9.5,11.4,13.8,,,1.76,,B,C,NÃO,CVT,,Flex,12.48,8.57,,101-150,False,False
+Utilitário Esportivo Compacto,Nissan,Kicks,XPLAY,1.6-16V,Combustão,CVT,S,E,F,30.0,159.0,2.0,B,0.0,109.0,,7.8,9.5,11.4,13.8,,,1.76,,B,C,NÃO,CVT,,Flex,12.48,8.57,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,ACT T200,1.0-12V T,Combustão,CVT-7,S,E,F,41.0,293.0,3.0,B,0.0,103.0,,8.6,9.8,12.3,13.7,,,1.66,,B,C,NÃO,CVT,7.0,Flex,12.93,9.14,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,ALLU T200,1.0-12V T,Combustão,CVT-7,S,E,F,41.0,293.0,3.0,B,0.0,103.0,,8.6,9.8,12.3,13.7,,,1.66,,B,C,NÃO,CVT,7.0,Flex,12.93,9.14,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,ALLURE EAT6,1.6-16V,Combustão,A-6,S,E,F,33.0,544.0,3.0,B,0.0,115.0,,7.6,8.6,11.0,12.4,,,1.87,,C,C,NÃO,A,6.0,Flex,11.63,8.05,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,ALLURE PK,1.6-16V,Combustão,A-6,S,E,F,33.0,544.0,3.0,B,0.0,115.0,,7.6,8.6,11.0,12.4,,,1.87,,C,C,NÃO,A,6.0,Flex,11.63,8.05,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,GRF THP AT,1.6-16V T,Combustão,A-6,S,E,F,49.0,172.0,6.0,B,0.0,112.0,,7.8,9.1,11.2,12.9,,,1.81,,C,C,NÃO,A,6.0,Flex,11.96,8.38,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,GRIFFE EAT6,1.6-16V,Combustão,A-6,S,E,F,33.0,544.0,3.0,B,0.0,115.0,,7.6,8.6,11.0,12.4,,,1.87,,C,C,NÃO,A,6.0,Flex,11.63,8.05,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,GT T200,1.0-12V T,Combustão,CVT-7,S,E,F,41.0,293.0,3.0,B,0.0,103.0,,8.6,9.8,12.3,13.7,,,1.66,,B,C,NÃO,CVT,7.0,Flex,12.93,9.14,,101-150,False,False
+Utilitário Esportivo Compacto,PEUGEOT,2008,ROADTRIP AT,1.6-16V,Combustão,A-6,S,E,F,33.0,544.0,3.0,B,0.0,115.0,,7.6,8.6,11.0,12.4,,,1.87,,C,C,NÃO,A,6.0,Flex,11.63,8.05,,101-150,False,False
+Utilitário Esportivo Compacto,Renault,Kardian,EVO AT,1.0 12V,Combustão,DCT,S,E,F,34.0,398.0,2.0,B,0.0,98.0,,9.0,9.7,13.1,13.9,,,1.59,,B,C,NÃO,DCT,,Flex,13.46,9.32,,51-100,False,False
+Utilitário Esportivo Compacto,Renault,Kardian,PREM AT,1.0 12V,Combustão,DCT,S,E,F,34.0,398.0,2.0,B,0.0,98.0,,9.0,9.7,13.1,13.9,,,1.59,,B,C,NÃO,DCT,,Flex,13.46,9.32,,51-100,False,False
+Utilitário Esportivo Compacto,Renault,Kardian,TECH AT,1.0 12V,Combustão,DCT,S,E,F,34.0,398.0,2.0,B,0.0,98.0,,9.0,9.7,13.1,13.9,,,1.59,,B,C,NÃO,DCT,,Flex,13.46,9.32,,51-100,False,False
+Utilitário Esportivo Compacto,Renault,Kwid,Intense,1.0-12V,Combustão,M-5,S,E-H,F,65.0,403.0,5.0,C,0.0,84.0,,10.8,11.0,15.3,15.7,,,1.36,,A,B,SIM,M,5.0,Flex,15.48,10.89,,51-100,False,False
+Utilitário Esportivo Compacto,Renault,Kwid,Intense Biton,1.0-12V,Combustão,M-5,S,E-H,F,65.0,403.0,5.0,C,0.0,84.0,,10.8,11.0,15.3,15.7,,,1.36,,A,B,SIM,M,5.0,Flex,15.48,10.89,,51-100,False,False
+Utilitário Esportivo Compacto,Renault,Kwid,Outsider,1.0-12V,Combustão,M-5,S,E-H,F,65.0,403.0,5.0,C,0.0,84.0,,10.8,11.0,15.3,15.7,,,1.36,,A,B,SIM,M,5.0,Flex,15.48,10.89,,51-100,False,False
+Utilitário Esportivo Compacto,Renault,Kwid,Zen,1.0-12V,Combustão,M-5,S,E-H,F,65.0,403.0,5.0,C,0.0,84.0,,10.8,11.0,15.3,15.7,,,1.36,,A,B,SIM,M,5.0,Flex,15.48,10.89,,51-100,False,False
+Utilitário Esportivo Compacto,Renault,Sandero,SIC16CVT,1.6 - 16V,Combustão,CVT,S,E-H,F,49.0,421.0,5.0,C,0.0,121.0,,7.4,8.3,10.7,11.6,,,1.95,,C,C,NÃO,CVT,,Flex,11.1,7.81,,101-150,False,False
+Utilitário Esportivo Compacto,Renault,Sandero,SZE16MT,1.6 - 16V,Combustão,M-5,S,E-H,F,45.0,362.0,2.0,B,0.0,111.0,,8.3,8.5,11.8,12.1,,,1.8,,C,C,NÃO,M,5.0,Flex,11.94,8.39,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,NIVUS,COMFORTLINE 200TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,48.0,207.0,6.0,B,0.0,103.0,,8.3,9.9,11.9,14.1,,,1.68,,B,C,NÃO,A,6.0,Flex,12.89,9.02,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,NIVUS,HIGHLINE 200TSI AUTOMÁTICO,1.0-12V,Combustão,A - 6,S,E,F,48.0,207.0,6.0,B,0.0,103.0,,8.3,9.9,11.9,14.1,,,1.68,,B,C,NÃO,A,6.0,Flex,12.89,9.02,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,NIVUS,SENSE TSI,1.0-12V,Combustão,A - 6,S,E,F,48.0,207.0,6.0,B,0.0,103.0,,8.3,9.9,11.9,14.1,,,1.68,,B,C,NÃO,A,6.0,Flex,12.89,9.02,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,T CROSS,200TSI AUTOMATICO,1.0-12V,Combustão,A - 6,S,E,F,38.0,134.0,4.0,B,0.0,103.0,,8.2,10.1,11.9,14.3,,,1.67,,B,C,NÃO,A,6.0,Flex,12.98,9.06,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,T CROSS,COMFORTLINE 200TSI AUTOMATICO,1.0-12V,Combustão,A - 6,S,E,F,51.0,195.0,3.0,B,0.0,104.0,,8.1,9.8,11.9,14.1,,,1.69,,B,C,NÃO,A,6.0,Flex,12.89,8.86,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,T CROSS,COMFORTLINE 200TSI AUTOMATICO,1.0-12V,Combustão,A - 6,S,E,F,38.0,134.0,4.0,,0.0,103.0,,8.2,10.1,11.9,14.3,,,1.67,,,,NÃO,A,6.0,Flex,12.98,9.06,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,T CROSS,HIGHLINE 250TSI AUTOMÁTICO,1.4-16V,Combustão,A - 6,S,E,F,33.0,110.0,3.0,B,0.0,106.0,,8.1,10.1,11.6,14.3,,,1.7,,B,C,NÃO,A,6.0,Flex,12.82,9.0,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,T CROSS,HIGHLINE 250TSI AUTOMÁTICO,1.4 - 16V,Combustão,A - 6,S,E,F,41.0,190.0,3.0,B,0.0,105.0,,8.1,9.8,11.7,14.0,,,1.71,,B,C,NÃO,A,6.0,Flex,12.74,8.86,,101-150,False,False
+Utilitário Esportivo Compacto,Volkswagen,T CROSS,SENSE 200TSI AUTOMATICO,1.0-12V,Combustão,A - 6,S,E,F,38.0,134.0,4.0,B,0.0,103.0,,8.2,10.1,11.9,14.3,,,1.67,,B,C,NÃO,A,6.0,Flex,12.98,9.06,,101-150,False,False
+Utilitário Esportivo Grande,AUDI,Q3,Anniversary Edition,2.0 - 16V,Combustão,A-8,S,E,G,10.0,96.0,0.0,A,,154.0,,,,8.0,10.3,,,2.5,,E,D,NÃO,A,8.0,Gasolina,9.04,,,151-200,False,False
+Utilitário Esportivo Grande,AUDI,Q3,Performance,2.0 - 16V,Combustão,A-8,S,E,G,10.0,96.0,0.0,A,,154.0,,,,8.0,10.3,,,2.5,,E,D,NÃO,A,8.0,Gasolina,9.04,,,151-200,False,False
+Utilitário Esportivo Grande,AUDI,Q3,Performance Black,2.0 - 16V,Combustão,A-8,S,E,G,10.0,96.0,0.0,A,,154.0,,,,8.0,10.3,,,2.5,,E,D,NÃO,A,8.0,Gasolina,9.04,,,151-200,False,False
+Utilitário Esportivo Grande,AUDI,Q3,Prestige,2.0 - 16V,Combustão,A-8,S,E,G,10.0,96.0,0.0,A,,154.0,,,,8.0,10.3,,,2.5,,E,D,NÃO,A,8.0,Gasolina,9.04,,,151-200,False,False
+Utilitário Esportivo Grande,AUDI,Q3 Sportback,Anniversary Edition,2.0 - 16V,Combustão,A-8,S,E,G,9.0,125.0,0.0,A,,155.0,,,,8.0,10.1,,,2.52,,E,D,NÃO,A,8.0,Gasolina,8.94,,,151-200,False,False
+Utilitário Esportivo Grande,AUDI,Q3 Sportback,Performance,2.0 - 16V,Combustão,A-8,S,E,G,9.0,125.0,0.0,A,,155.0,,,,8.0,10.1,,,2.52,,E,D,NÃO,A,8.0,Gasolina,8.94,,,151-200,False,False
+Utilitário Esportivo Grande,AUDI,Q3 Sportback,Performance Black,2.0 - 16V,Combustão,A-8,S,E,G,9.0,125.0,0.0,A,,155.0,,,,8.0,10.1,,,2.52,,E,D,NÃO,A,8.0,Gasolina,8.94,,,151-200,False,False
+Utilitário Esportivo Grande,BMW,X1,sDrive 18i GP,1.5 - 12V,Combustão,A-7,S,E,G,16.0,293.0,1.0,A,,109.0,,,,11.4,13.5,,,1.77,,A,C,NÃO,A,7.0,Gasolina,12.34,,,101-150,False,False
+Utilitário Esportivo Grande,BMW,X1,sDrive 20i GP,2.0 - 16V,Combustão,A-7,S,E,G,12.0,188.0,0.0,A,,115.0,,,,10.8,13.0,,,1.86,,A,C,NÃO,A,7.0,Gasolina,11.79,,,101-150,False,False
+Utilitário Esportivo Grande,BMW,X1,sDrive 20i M Sport,2.0 - 16V,Combustão,A-7,S,E,G,10.0,146.0,1.0,A,,113.0,,,,10.9,13.3,,,1.83,,A,C,NÃO,A,7.0,Gasolina,11.98,,,101-150,False,False
+Utilitário Esportivo Grande,BMW,X1,sDrive 20i X Line,2.0 - 16V,Combustão,A-7,S,E,G,12.0,188.0,0.0,A,,115.0,,,,10.8,13.0,,,1.86,,A,C,NÃO,A,7.0,Gasolina,11.79,,,101-150,False,False
+Utilitário Esportivo Grande,BMW,X2,xDrive20i,2.0 - 16V,Combustão,A-7,S,E,G,22.0,333.0,1.0,A,,123.0,,,,9.9,12.6,,,1.99,,B,C,NÃO,A,7.0,Gasolina,11.12,,,101-150,False,False
+Utilitário Esportivo Grande,BMW,X2,xDrive20i (MY25),2.0 - 16V,Combustão,A-7,S,E,G,10.0,200.0,1.0,A,,122.0,,,,10.0,12.7,,,1.98,,B,C,NÃO,A,7.0,Gasolina,11.22,,,101-150,False,False
+Utilitário Esportivo Grande,BYD,SONG PLUS,GS DM,1.5-16V,Plug-in,CVT,S,E,G,22.0,165.0,0.0,A,,40.0,0.0,,,15.1,13.2,35.6,27.2,0.65,28.0,A,A,SIM,CVT,,Gasolina,14.24,,31.82,0-50,False,True
+Utilitário Esportivo Grande,BYD,SONG PLUS (MY25),GS DM,1.5-16V,Plug-in,CVT,S,E,G,15.0,65.0,1.0,A,,14.0,0.0,,,14.9,12.1,39.1,30.8,0.58,68.0,A,A,SIM,CVT,,Gasolina,13.64,,35.36,0-50,False,True
+Utilitário Esportivo Grande,BYD,TAN,AWD GS 680EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,27.7,23.3,0.79,309.0,A,A,NÃO,,,Elétrico,,,25.72,0-50,True,True
+Utilitário Esportivo Grande,BYD,YUAN PLUS,GL310 EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,39.8,33.1,0.56,294.0,A,A,NÃO,,,Elétrico,,,36.79,0-50,True,True
+Utilitário Esportivo Grande,BYD,YUAN PLUS,GS310 EV,Elétrico,Elétrico,,S,E,E,0.0,0.0,0.0,A,,0.0,,,,,,39.8,33.1,0.56,294.0,A,A,NÃO,,,Elétrico,,,36.79,0-50,True,True
+Utilitário Esportivo Grande,CAOA CHERY,TIGGO 7,HA,1.5T -16V,Híbrido,CVT,S,E,F,47.0,287.0,1.0,B,0.0,116.0,,8.5,8.6,11.6,11.4,,,1.82,,A,C,NÃO,CVT,,Flex,11.51,8.55,,101-150,False,True
+Utilitário Esportivo Grande,CAOA CHERY,TIGGO 7,PRO,1.6T-16V,Combustão,DCT-7,S,E,G,22.0,318.0,3.0,B,,126.0,,,,9.9,11.7,,,2.05,,B,C,NÃO,DCT,7.0,Gasolina,10.71,,,101-150,False,False
+Utilitário Esportivo Grande,CAOA CHERY,TIGGO 7,PRO H,1.5T -16V,Híbrido,CVT,S,E,F,63.0,349.0,2.0,C,0.0,120.0,,8.1,8.5,11.1,11.2,,,1.89,,A,C,NÃO,CVT,,Flex,11.14,8.28,,101-150,False,True
+Utilitário Esportivo Grande,CAOA CHERY,TIGGO 7,PRO H,1.5T -16V,Híbrido,CVT,S,E,F,47.0,287.0,1.0,B,0.0,116.0,,8.5,8.6,11.6,11.4,,,1.82,,A,C,NÃO,CVT,,Flex,11.51,8.55,,101-150,False,True
+Utilitário Esportivo Grande,CAOA CHERY,TIGGO 7,SPORT,1.5T -16V,Combustão,CVT,S,E,F,63.0,349.0,2.0,C,0.0,120.0,,8.1,8.5,11.1,11.2,,,1.89,,A,C,NÃO,CVT,,Flex,11.14,8.28,,101-150,False,False
+Utilitário Esportivo Grande,CAOA CHERY,TIGGO 8,PHEV,1.5T -16V,Plug-in,DHT,S,E,G,36.0,0.0,0.0,A,,22.0,23.0,,,11.0,10.9,32.7,27.8,0.67,54.0,A,A,SIM,DHT,,Gasolina,10.96,,30.5,0-50,False,True
+Utilitário Esportivo Grande,CAOA CHERY,TIGGO 8,TGDI,1.6T - 16V,Combustão,DCT-7,S,E,G,32.0,524.0,4.0,B,,123.0,,,,10.1,12.0,,,2.01,,B,C,NÃO,DCT,7.0,Gasolina,10.96,,,101-150,False,False
+Utilitário Esportivo Grande,DONFENG,SERES 3,ELEG,Elétrico,Elétrico,A-1,S,E,E,,,,A,,0.0,,,,,,37.0,34.7,0.57,206.0,A,A,NÃO,A,1.0,Elétrico,,,35.97,0-50,True,True
+Utilitário Esportivo Grande,GWM,HAVAL H6,HAVAL H6 PHEV 19,1.5-16V,Plug-in,DHT - 2,S,E,G,37.0,40.0,1.0,A,,81.0,13.0,,,13.6,12.3,36.2,31.1,0.6,74.0,A,A,SIM,DHT,2.0,Gasolina,13.02,,33.9,51-100,False,True
+Utilitário Esportivo Grande,GWM,HAVAL H6,HEV,1.5-16V,Híbrido,DHT - 2,S,E,G,21.0,290.0,1.0,A,,102.0,,,,13.8,12.0,,,1.65,,A,C,NÃO,DHT,2.0,Gasolina,12.99,,,101-150,False,True
+Utilitário Esportivo Grande,GWM,HAVAL H6,HEV (L8),1.5-16V,Híbrido,DHT - 2,S,E,G,35.0,462.0,1.0,B,,100.0,,,,14.4,11.8,,,1.62,,A,C,NÃO,DHT,2.0,Gasolina,13.23,,,51-100,False,True
+Utilitário Esportivo Grande,GWM,HAVAL H6,PHEV,1.5-16V,Plug-in,DHT - 2,S,E,G,21.0,16.0,1.0,A,,120.0,9.0,,,11.7,10.4,28.7,25.3,0.75,113.0,A,A,SIM,DHT,2.0,Gasolina,11.12,,27.17,101-150,False,True
+Utilitário Esportivo Grande,GWM,HAVAL H6,PHEV (L8),1.5-16V,Plug-in,DHT - 2,S,E,G,20.0,10.0,1.0,A,,114.0,6.0,,,12.7,10.5,31.5,25.1,0.72,123.0,A,A,SIM,DHT,2.0,Gasolina,11.71,,28.62,101-150,False,True
+Utilitário Esportivo Grande,GWM,HAVAL H6,PREM HEV,1.5-16V,Híbrido,DHT - 2,S,E,G,21.0,290.0,1.0,A,,102.0,,,,13.8,12.0,,,1.65,,A,C,NÃO,DHT,2.0,Gasolina,12.99,,,101-150,False,True
+Utilitário Esportivo Grande,GWM,HAVAL H6,PREM PHEV,1.5-16V,Plug-in,DHT - 2,S,E,G,21.0,16.0,1.0,A,,120.0,9.0,,,11.7,10.4,28.7,25.3,0.75,113.0,A,A,SIM,DHT,2.0,Gasolina,11.12,,27.17,101-150,False,True
+Utilitário Esportivo Grande,HONDA,CR-V HYBRID,TOURING,2.0 - 16V,Híbrido,CVT,S,E,G,15.0,76.0,0.0,A,,102.0,,,,14.2,11.6,,,1.66,,A,C,NÃO,CVT,,Gasolina,13.03,,,101-150,False,True
+Utilitário Esportivo Grande,JEEP,COMMANDER,LIM T270,1.3-16V T,Combustão,A-6,S,E,F,35.0,285.0,4.0,B,0.0,128.0,,7.0,8.2,10.0,11.4,,,2.05,,C,C,NÃO,A,6.0,Flex,10.63,7.54,,101-150,False,False
+Utilitário Esportivo Grande,JEEP,COMMANDER,LONGITUDE,1.3-16V T,Combustão,A-6,S,E,F,35.0,285.0,4.0,B,0.0,128.0,,7.0,8.2,10.0,11.4,,,2.05,,C,C,NÃO,A,6.0,Flex,10.63,7.54,,101-150,False,False
+Utilitário Esportivo Grande,JEEP,COMMANDER,OVR T270,1.3-16V T,Combustão,A-6,S,E,F,35.0,285.0,4.0,B,0.0,128.0,,7.0,8.2,10.0,11.4,,,2.05,,C,C,NÃO,A,6.0,Flex,10.63,7.54,,101-150,False,False
+Utilitário Esportivo Grande,JEEP,COMMANDER,T270,1.3-16V T,Combustão,A-6,S,E,F,35.0,285.0,4.0,B,0.0,128.0,,7.0,8.2,10.0,11.4,,,2.05,,C,C,NÃO,A,6.0,Flex,10.63,7.54,,101-150,False,False
+Utilitário Esportivo Grande,JEEP,COMPASS,LIMITED TF,1.3-16V T,Combustão,A-6,S,E,F,36.0,411.0,3.0,B,0.0,123.0,,7.2,8.7,10.1,12.0,,,1.97,,B,C,NÃO,A,6.0,Flex,10.96,7.88,,101-150,False,False
+Utilitário Esportivo Grande,JEEP,COMPASS,LONG TF,1.3-16V T,Combustão,A-6,S,E,F,36.0,411.0,3.0,B,0.0,123.0,,7.2,8.7,10.1,12.0,,,1.97,,B,C,NÃO,A,6.0,Flex,10.96,7.88,,101-150,False,False
+Utilitário Esportivo Grande,JEEP,COMPASS,SERIE S TF,1.3-16V T,Combustão,A-6,S,E,F,36.0,411.0,3.0,B,0.0,123.0,,7.2,8.7,10.1,12.0,,,1.97,,B,C,NÃO,A,6.0,Flex,10.96,7.88,,101-150,False,False
+Utilitário Esportivo Grande,JEEP,COMPASS,SPORT TF,1.3-16V T,Combustão,A-6,S,E,F,36.0,411.0,3.0,B,0.0,123.0,,7.2,8.7,10.1,12.0,,,1.97,,B,C,NÃO,A,6.0,Flex,10.96,7.88,,101-150,False,False
+Utilitário Esportivo Grande,KIA,EV9 GTL,EV9 GTL 4WD,ELÉTRICO,Elétrico,A-1,S,E,E,,,,A,,,,,,,,35.2,27.2,0.65,434.0,A,A,NÃO,A,1.0,Elétrico,,,31.6,,True,True
+Utilitário Esportivo Grande,KIA,SPORTAGE,TMHEV EX,1.6 - 16V,Híbrido,DCT-7,S,E,G,21.0,158.0,1.0,A,,114.0,,,,11.5,12.1,,,1.84,,A,C,NÃO,DCT,7.0,Gasolina,11.77,,,101-150,False,True
+Utilitário Esportivo Grande,KIA,SPORTAGE,TMHEV EXP,1.6 - 16V,Híbrido,DCT-7,S,E,G,21.0,158.0,1.0,A,,114.0,,,,11.5,12.1,,,1.84,,A,C,NÃO,DCT,7.0,Gasolina,11.77,,,101-150,False,True
+Utilitário Esportivo Grande,KIA,SPORTAGE,TMHEV GT,1.6 - 16V,Híbrido,DCT-7,S,E,G,21.0,158.0,1.0,A,,114.0,,,,11.5,12.1,,,1.84,,A,C,NÃO,DCT,7.0,Gasolina,11.77,,,101-150,False,True
+Utilitário Esportivo Grande,KIA,SPORTAGE,TMHEV LX,1.6 - 16V,Híbrido,DCT-7,S,E,G,21.0,158.0,1.0,A,,114.0,,,,11.5,12.1,,,1.84,,A,C,NÃO,DCT,7.0,Gasolina,11.77,,,101-150,False,True
+Utilitário Esportivo Grande,KIA,SPORTAGE,TMHEV SX,1.6 - 16V,Híbrido,DCT-7,S,E,G,21.0,158.0,1.0,A,,114.0,,,,11.5,12.1,,,1.84,,A,C,NÃO,DCT,7.0,Gasolina,11.77,,,101-150,False,True
+Utilitário Esportivo Grande,LEXUS,NX350H,DYNAMIC,2.5 - 16V,Híbrido,CVT,S,E,G,13.0,59.0,1.0,A,,92.0,,,,15.3,12.9,,,1.5,,A,B,SIM,CVT,,Gasolina,14.22,,,51-100,False,True
+Utilitário Esportivo Grande,LEXUS,NX350H,F-SPORT,2.5 - 16V,Híbrido,CVT,S,E,G,13.0,59.0,1.0,A,,92.0,,,,15.3,12.9,,,1.5,,A,B,SIM,CVT,,Gasolina,14.22,,,51-100,False,True
+Utilitário Esportivo Grande,LEXUS,NX350H,LUXURY,2.5 - 16V,Híbrido,CVT,S,E,G,13.0,59.0,1.0,A,,92.0,,,,15.3,12.9,,,1.5,,A,B,SIM,CVT,,Gasolina,14.22,,,51-100,False,True
+Utilitário Esportivo Grande,MASERATI,LEVANTE,MHEV,"2,0L-16V",Híbrido,A-8,S,E,G,24.0,292.0,1.0,A,,171.0,,,,7.2,9.4,,,2.77,,E,E,NÃO,A,8.0,Gasolina,8.19,,,151-200,False,True
+Utilitário Esportivo Grande,Mitsubishi,Eclipse Cross,GLS,1.5T-16V,Combustão,CVT,S,E,G,27.0,175.0,0.0,A,,118.0,,,,10.9,11.9,,,1.92,,A,C,NÃO,CVT,,Gasolina,11.35,,,101-150,False,False
+Utilitário Esportivo Grande,Mitsubishi,Eclipse Cross,HPE,1.5T-16V,Combustão,CVT,S,E,G,27.0,175.0,0.0,A,,118.0,,,,10.9,11.9,,,1.92,,A,C,NÃO,CVT,,Gasolina,11.35,,,101-150,False,False
+Utilitário Esportivo Grande,Mitsubishi,Eclipse Cross,HPE-S,1.5T-16V,Combustão,CVT,S,E,G,27.0,175.0,0.0,A,,118.0,,,,10.9,11.9,,,1.92,,A,C,NÃO,CVT,,Gasolina,11.35,,,101-150,False,False
+Utilitário Esportivo Grande,Mitsubishi,Eclipse Cross,RUSH,1.5T-16V,Combustão,CVT,S,E,G,27.0,175.0,0.0,A,,118.0,,,,10.9,11.9,,,1.92,,A,C,NÃO,CVT,,Gasolina,11.35,,,101-150,False,False
+Utilitário Esportivo Grande,PEUGEOT,3008,GRIFFE AT,1.6-16V T,Combustão,A-6,S,E,G,37.0,152.0,1.0,A,,126.0,,,,9.9,11.9,,,2.04,,C,C,NÃO,A,6.0,Gasolina,10.8,,,101-150,False,False
+Utilitário Esportivo Grande,PEUGEOT,3008,GT LINE,1.6-16V T,Combustão,A-6,S,E,G,37.0,152.0,1.0,A,,126.0,,,,9.9,11.9,,,2.04,,C,C,NÃO,A,6.0,Gasolina,10.8,,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Captur,Iconic,1.3 - 16V,Combustão,CVT,S,E-H,F,33.0,63.0,4.0,B,0.0,120.0,,7.7,8.2,10.9,11.6,,,1.92,,A,C,NÃO,CVT,,Flex,11.22,7.93,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Captur,Intense,1.3 - 16V,Combustão,CVT,S,E-H,F,33.0,63.0,4.0,B,0.0,120.0,,7.7,8.2,10.9,11.6,,,1.92,,A,C,NÃO,CVT,,Flex,11.22,7.93,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Captur,Zen,1.3 - 16V,Combustão,CVT,S,E-H,F,33.0,63.0,4.0,B,0.0,120.0,,7.7,8.2,10.9,11.6,,,1.92,,A,C,NÃO,CVT,,Flex,11.22,7.93,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Duster,Iconic,1.6 - 16V,Combustão,CVT,S,E-H,F,51.0,317.0,1.0,B,0.0,123.0,,7.2,8.1,10.5,11.5,,,1.99,,B,C,NÃO,CVT,,Flex,10.95,7.6,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Duster,Iconic,1.3 - 16V,Combustão,CVT,S,E-H,F,32.0,142.0,2.0,B,0.0,121.0,,7.7,8.4,10.8,11.5,,,1.93,,A,C,NÃO,CVT,,Flex,11.12,8.02,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Duster,Intense,1.6 - 16V,Combustão,CVT,S,E-H,F,51.0,317.0,1.0,B,0.0,123.0,,7.2,8.1,10.5,11.5,,,1.99,,B,C,NÃO,CVT,,Flex,10.95,7.6,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Duster,Intense16,1.6 - 16V,Combustão,M-5,S,E,F,49.0,299.0,5.0,B,0.0,112.0,,8.1,8.5,11.6,12.3,,,1.81,,A,C,NÃO,M,5.0,Flex,11.92,8.28,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Duster,Life,1.6 - 16V,Combustão,CVT,S,E-H,F,51.0,317.0,1.0,B,0.0,123.0,,7.2,8.1,10.5,11.5,,,1.99,,B,C,NÃO,CVT,,Flex,10.95,7.6,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Duster,Zen,1.6 - 16V,Combustão,CVT,S,E-H,F,51.0,317.0,1.0,B,0.0,123.0,,7.2,8.1,10.5,11.5,,,1.99,,B,C,NÃO,CVT,,Flex,10.95,7.6,,101-150,False,False
+Utilitário Esportivo Grande,Renault,Duster,Zen16,1.6 - 16V,Combustão,M-5,S,E,F,49.0,299.0,5.0,B,0.0,112.0,,8.1,8.5,11.6,12.3,,,1.81,,A,C,NÃO,M,5.0,Flex,11.92,8.28,,101-150,False,False
+Utilitário Esportivo Grande,VOLVO,EX40,6 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,39.4,34.3,0.55,364.0,A,A,NÃO,A,,Elétrico,,,37.11,0-50,True,True
+Utilitário Esportivo Grande,VOLVO,EX40,6 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,39.4,34.3,0.55,364.0,A,A,NÃO,A,,Elétrico,,,37.11,0-50,True,True
+Utilitário Esportivo Grande,VOLVO,EX40,6 ULTRA,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,39.4,34.3,0.55,364.0,A,A,NÃO,A,,Elétrico,,,37.11,0-50,True,True
+Utilitário Esportivo Grande,VOLVO,XC40,6 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,42.8,36.0,0.51,367.0,A,A,NÃO,A,,Elétrico,,,39.74,0-50,True,True
+Utilitário Esportivo Grande,VOLVO,XC40,6 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,42.8,36.0,0.51,367.0,A,A,NÃO,A,,Elétrico,,,39.74,0-50,True,True
+Utilitário Esportivo Grande,VOLVO,XC40,6 ULTIMATE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,42.8,36.0,0.51,367.0,A,A,NÃO,A,,Elétrico,,,39.74,0-50,True,True
+Utilitário Esportivo Grande,VOLVO,XC40,P6 RECHARGE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,42.8,36.0,0.51,367.0,A,A,NÃO,A,,Elétrico,,,39.74,0-50,True,True
+Utilitário Esportivo Grande,VW,TAOS,COMFORTLINE 250TSI AUTOMÁTICO,1.4-16V,Combustão,A - 6,S,E,F,34.0,110.0,3.0,A,0.0,113.0,,7.6,9.1,11.1,13.1,,,1.83,,A,C,NÃO,A,6.0,Flex,12.0,8.27,,101-150,False,False
+Utilitário Esportivo Grande,VW,TAOS,HIGHLINE 250TSI AUTOMÁTICO,1.4-16V,Combustão,A - 6,S,E,F,34.0,110.0,3.0,A,0.0,113.0,,7.6,9.1,11.1,13.1,,,1.83,,A,C,NÃO,A,6.0,Flex,12.0,8.27,,101-150,False,False
+Utilitário Esportivo Grande,ZEEKR,X,Premium,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,39.5,34.7,0.55,332.0,A,A,NÃO,A,,Elétrico,,,37.34,,True,True
+Utilitário Esportivo Grande 4x4,BMW,X3,M40i,3.0 - 24V,Combustão,A-8,S,E,G,20.0,90.0,1.0,A,,162.0,,,,7.8,9.5,,,2.62,,C,D,NÃO,A,8.0,Gasolina,8.57,,,151-200,False,False
+Utilitário Esportivo Grande 4x4,BMW,X3,M50i,3.0 - 24V,Híbrido,A-8,S,E,G,8.0,146.0,1.0,A,,133.0,0.0,,,9.6,10.9,,,2.16,,A,D,NÃO,A,8.0,Gasolina,10.18,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,BMW,X3,xDrive 30e,2.0 - 16V,Plug-in,A-8,S,E,G,4.0,103.0,0.0,A,,157.0,61.0,,,8.1,9.6,18.8,21.3,1.02,31.0,A,B,SIM,A,8.0,Gasolina,8.78,,19.93,151-200,False,True
+Utilitário Esportivo Grande 4x4,BMW,X4,M40i,3.0 - 24V,Combustão,A-8,S,E,G,20.0,87.0,1.0,A,,161.0,,,,7.8,9.6,,,2.61,,C,D,NÃO,A,8.0,Gasolina,8.61,,,151-200,False,False
+Utilitário Esportivo Grande 4x4,BMW,X4,xDrive 30i,2.0 - 16V,Combustão,A-8,S,E,G,9.0,49.0,2.0,A,,138.0,,,,9.0,11.0,,,2.24,,B,D,NÃO,A,8.0,Gasolina,9.9,,,101-150,False,False
+Utilitário Esportivo Grande 4x4,BMW,X5,xDrive45e,3.0 - 24V,Plug-in,A-8,S,E,G,4.0,19.0,1.0,A,,170.0,31.0,,,7.6,8.7,18.8,21.0,1.03,54.0,A,B,SIM,A,8.0,Gasolina,8.09,,19.79,151-200,False,True
+Utilitário Esportivo Grande 4x4,BMW,X5,xDrive50e MSP,3.0 - 24V,Plug-in,A-8,S,E,G,9.0,8.0,0.0,A,,148.0,16.0,,,9.1,9.3,21.9,22.6,0.91,78.0,A,A,SIM,A,8.0,Gasolina,9.19,,22.22,101-150,False,True
+Utilitário Esportivo Grande 4x4,BMW,X5,xDrive50e MSP (MY25),3.0 - 24V,Plug-in,A-8,S,E,G,8.0,21.0,0.0,A,,143.0,16.0,,,9.2,9.9,22.8,23.4,0.88,76.0,A,A,SIM,A,8.0,Gasolina,9.52,,23.07,101-150,False,True
+Utilitário Esportivo Grande 4x4,BMW,X5,xDrive50e XLINE,3.0 - 24V,Plug-in,A-8,S,E,G,9.0,8.0,0.0,A,,148.0,16.0,,,9.1,9.3,21.9,22.6,0.91,78.0,A,A,SIM,A,8.0,Gasolina,9.19,,22.22,101-150,False,True
+Utilitário Esportivo Grande 4x4,BMW,X5,xDrive50e XLINE (MY25),3.0 - 24V,Plug-in,A-8,S,E,G,8.0,21.0,0.0,A,,143.0,16.0,,,9.2,9.9,22.8,23.4,0.88,76.0,A,A,SIM,A,8.0,Gasolina,9.52,,23.07,101-150,False,True
+Utilitário Esportivo Grande 4x4,BMW,X6,M COMPETITION,4.4 - 32V,Combustão,A-8,S,E,G,18.0,80.0,1.0,A,,215.0,,,,5.9,7.3,,,3.49,,E,E,NÃO,A,8.0,Gasolina,6.53,,,201-250,False,False
+Utilitário Esportivo Grande 4x4,BMW,X6,M COMPETITION,4.4 - 32V,Híbrido,A-8,S,E,G,20.0,144.0,1.0,A,,218.0,,,,5.7,7.4,,,3.53,,E,E,NÃO,A,8.0,Gasolina,6.46,,,201-250,False,True
+Utilitário Esportivo Grande 4x4,BMW,X6,xDrive 40i,3.0 - 24V,Combustão,A-8,S,E,G,23.0,83.0,2.0,A,,163.0,,,,7.8,9.2,,,2.64,,C,E,NÃO,A,8.0,Gasolina,8.43,,,151-200,False,False
+Utilitário Esportivo Grande 4x4,BMW,X6,xDrive40i,3.0 - 24V,Híbrido,A-8,S,E,G,10.0,40.0,1.0,A,,146.0,,,,9.0,9.7,,,2.36,,B,D,NÃO,A,8.0,Gasolina,9.32,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,BMW,X6,xDrive40i MSP (MY25),3.0 - 24V,Híbrido,A-8,S,E,G,7.0,99.0,1.0,A,,144.0,0.0,,,9.0,10.1,,,2.33,,B,D,NÃO,A,8.0,Gasolina,9.5,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,BMW,X7,M60i xDrive,4.4 - 32V,Híbrido,A-8,S,E,G,17.0,112.0,1.0,A,,200.0,,,,6.3,7.7,,,3.24,,E,E,NÃO,A,8.0,Gasolina,6.93,,,151-200,False,True
+Utilitário Esportivo Grande 4x4,Hyundai,PALISADE,Signature,3.8-24V,Combustão,A-8,S,E,G,11.0,24.0,0.0,A,,166.0,,,,7.3,9.9,,,2.69,,C,E,NÃO,A,8.0,Gasolina,8.47,,,151-200,False,False
+Utilitário Esportivo Grande 4x4,JAGUAR,E-PACE,P250F RD HSE,2.0-16V,Combustão,A-9,S,E,F,15.0,412.0,2.0,A,0.0,163.0,,5.4,7.0,7.5,10.0,,,2.61,,C,D,NÃO,A,9.0,Flex,8.62,6.12,,151-200,False,False
+Utilitário Esportivo Grande 4x4,JAGUAR,E-PACE,P250F RDYNSE,2.0-16V,Combustão,A-9,S,E,F,15.0,412.0,2.0,A,0.0,163.0,,5.4,7.0,7.5,10.0,,,2.61,,C,D,NÃO,A,9.0,Flex,8.62,6.12,,151-200,False,False
+Utilitário Esportivo Grande 4x4,JAGUAR,F-PACE,P550 SVR,5.0-32V,Combustão,A-8,S,E,G,17.0,203.0,2.0,A,,214.0,,,,5.6,8.4,,,3.42,,E,E,NÃO,A,8.0,Gasolina,6.86,,,201-250,False,False
+Utilitário Esportivo Grande 4x4,JAGUAR,F-PACE,PHEV RD SE,2.0-16V,Plug-in,A-8,S,E,G,13.0,66.0,0.0,A,,164.0,51.0,,,7.9,9.0,19.7,21.2,1.0,38.0,A,B,SIM,A,8.0,Gasolina,8.4,,20.38,151-200,False,True
+Utilitário Esportivo Grande 4x4,JAGUAR,F-PACE,PHEV RD SE (LC4133),2.0-16V,Plug-in,A-8,S,E,G,10.0,69.0,1.0,A,,164.0,47.0,,,7.8,9.0,20.3,23.3,0.94,39.0,A,A,SIM,A,8.0,Gasolina,8.34,,21.65,151-200,False,True
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLC300 4M,(L8),2.0-16V,Híbrido,A-9,S,E,G,33.0,146.0,1.0,A,,128.0,,,,9.5,11.6,,,2.13,,A,D,NÃO,A,9.0,Gasolina,10.44,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLC300 4M,Coupé,2.0-16V,Combustão,A-9,S,E,G,9.0,396.0,0.0,A,,158.0,,,,7.9,9.8,,,2.57,,C,D,NÃO,A,9.0,Gasolina,8.76,,,151-200,False,False
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLC300 4M,Coupé,2.0-16V,Híbrido,A-9,S,E,G,30.0,146.0,1.0,A,,128.0,,,,9.6,11.9,,,2.08,,A,D,NÃO,A,9.0,Gasolina,10.64,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLC300 4M,,2.0-16V,Híbrido,A-9,S,E,G,30.0,146.0,1.0,A,,128.0,,,,9.6,11.9,,,2.08,,A,D,NÃO,A,9.0,Gasolina,10.64,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLE400D 4M,Coupé,3.0-24V,Combustão,A-9,S,E,D,25.0,53.0,0.0,A,,182.0,,,,10.0,12.8,,,2.43,,B,D,NÃO,A,9.0,Diesel,11.26,,,151-200,False,False
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLE400D 4M,,3.0-24V,Combustão,A-9,S,E,D,18.0,0.0,0.0,A,,204.0,,,,9.0,11.5,,,2.72,,C,E,NÃO,A,9.0,Diesel,10.12,,,201-250,False,False
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLE450D 4M,Coupé,3.0-24V,Híbrido,A-9,S,E,D,9.0,57.0,0.0,A,,165.0,,,,11.0,13.6,,,2.22,,A,D,NÃO,A,9.0,Diesel,12.17,,,151-200,False,True
+Utilitário Esportivo Grande 4x4,Mercedes-Benz,GLE450D 4M,,3.0-24V,Híbrido,A-9,S,E,D,9.0,57.0,0.0,A,,165.0,,,,11.0,13.6,,,2.22,,A,D,NÃO,A,9.0,Diesel,12.17,,,151-200,False,True
+Utilitário Esportivo Grande 4x4,Mitsubishi,Eclipse Cross,HPE-S S-AWC,1.5T-16V,Combustão,CVT,S,E,G,27.0,192.0,0.0,A,,119.0,,,,10.7,12.0,,,1.94,,A,C,NÃO,CVT,,Gasolina,11.28,,,101-150,False,False
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE,GT COUPE,4.0-32V,Combustão,A-8,S,E,G,31.0,98.0,3.0,A,,211.0,,,,5.8,7.9,,,3.44,,E,E,NÃO,A,8.0,Gasolina,6.74,,,201-250,False,False
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE,S,4.0-32V,Combustão,A-8,S,E,G,24.0,87.0,2.0,A,,204.0,,,,6.1,7.9,,,3.32,,E,E,NÃO,A,8.0,Gasolina,6.91,,,201-250,False,False
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE,S CP,4.0-32V,Combustão,A-8,S,E,G,24.0,87.0,2.0,A,,204.0,,,,6.1,7.9,,,3.32,,E,E,NÃO,A,8.0,Gasolina,6.91,,,201-250,False,False
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE,S PHEV,3.0-24V,Plug-in,A-8,S,E,G,5.0,49.0,1.0,A,,30.0,2.0,,,7.8,8.4,20.6,20.4,0.99,56.0,A,B,SIM,A,8.0,Gasolina,8.07,,20.51,0-50,False,True
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE,SCPHEV,3.0-24V,Plug-in,A-8,S,E,G,5.0,49.0,1.0,A,,30.0,2.0,,,7.8,8.4,20.6,20.4,0.99,56.0,A,B,SIM,A,8.0,Gasolina,8.07,,20.51,0-50,False,True
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE,T PHEV,4.0-32V,Plug-in,A-8,S,E,G,3.0,69.0,0.0,A,,34.0,0.0,,,7.1,7.9,19.7,19.4,1.04,55.0,A,B,SIM,A,8.0,Gasolina,7.46,,19.57,0-50,False,True
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE,TCPHEV,4.0-32V,Plug-in,A-8,S,E,G,3.0,69.0,0.0,A,,34.0,0.0,,,7.1,7.9,19.7,19.4,1.04,55.0,A,B,SIM,A,8.0,Gasolina,7.46,,19.57,0-50,False,True
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE ( Produção Semana 18+/24 ),CP PHE,3.0-24V,Plug-in,A-8,S,E,G,9.0,86.0,1.0,A,,35.0,0.0,,,7.7,8.1,20.2,18.7,1.04,52.0,A,B,SIM,A,8.0,Gasolina,7.88,,19.52,0-50,False,True
+Utilitário Esportivo Grande 4x4,PORSCHE,CAYENNE ( Produção Semana 18+/24 ),PHEV,3.0-24V,Plug-in,A-8,S,E,G,9.0,86.0,1.0,A,,35.0,0.0,,,7.7,8.1,20.2,18.7,1.04,52.0,A,B,SIM,A,8.0,Gasolina,7.88,,19.52,0-50,False,True
+Utilitário Esportivo Grande 4x4,SUBARU,FORESTER,S MHEV,"2,0T - 16V",Híbrido,A,S,E,G,27.0,61.0,1.0,A,,111.0,,,,12.0,12.2,,,1.79,,A,C,NÃO,A,,Gasolina,12.09,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,SUBARU,XV,S MHEV,"2,0T - 16V",Híbrido,A,S,E,G,14.0,59.0,0.0,A,,109.0,,,,12.1,12.3,,,1.77,,A,C,NÃO,A,,Gasolina,12.19,,,101-150,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,EX40,8 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,35.7,33.0,0.59,393.0,A,A,NÃO,A,,Elétrico,,,34.48,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,EX40,8 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,35.7,33.0,0.59,393.0,A,A,NÃO,A,,Elétrico,,,34.48,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,EX40,8 ULTRA,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,35.7,33.0,0.59,393.0,A,A,NÃO,A,,Elétrico,,,34.48,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,EX40,PERF BLACK,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,35.7,33.0,0.59,393.0,A,A,NÃO,A,,Elétrico,,,34.48,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC40,8 CORE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,33.8,31.0,0.62,348.0,A,A,NÃO,A,,Elétrico,,,32.54,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC40,8 PLUS,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,33.8,31.0,0.62,348.0,A,A,NÃO,A,,Elétrico,,,32.54,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC40,8 ULTIMATE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,33.8,31.0,0.62,348.0,A,A,NÃO,A,,Elétrico,,,32.54,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC40,P8 RECHARGE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,33.8,31.0,0.62,348.0,A,A,NÃO,A,,Elétrico,,,32.54,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC40,RECHARGE PE,Elétrico,Elétrico,A,S,E,E,,0.0,0.0,A,,0.0,,,,,,33.8,31.0,0.62,348.0,A,A,NÃO,A,,Elétrico,,,32.54,0-50,True,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,INSC EXPRES,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 CORE,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 INSCRIPT,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 MOMENTUM,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 PLUS,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 POLESTAR,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 R-DESIGN,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 ULT DARK,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60,T8 ULTIMATE,2.0-16V,Plug-in,A-8,S,E,G,3.0,19.0,0.0,A,,23.0,0.0,,,11.1,11.2,28.9,25.9,0.74,55.0,A,A,SIM,A,8.0,Gasolina,11.14,,27.55,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),INSC EXPRESS,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 CORE,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 INSCRIPT,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 MOMENTUM,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 PLUS,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 POLESTAR,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 R-DESIGN,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 ULT DARK,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 ULTIMATE,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC60 (MY25),T8 ULTRA,2.0-16V,Plug-in,A,S,E,G,0.0,57.0,1.0,A,,32.0,0.0,,,9.5,9.4,24.4,22.5,0.86,48.0,A,A,SIM,A,,Gasolina,9.46,,23.54,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,INSC EXPRES,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,IT8 INSCRIPT,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 CORE,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 EXCELLEN,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 MOMENTUM,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 PLUS,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 POLESTAR,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 R-DESIGN,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 ULT DARK,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90,T8 ULTIMATE,2.0-16V,Plug-in,A-8,S,E,G,3.0,31.0,0.0,A,,28.0,0.0,,,10.3,10.3,24.2,23.3,0.85,50.0,A,A,SIM,A,8.0,Gasolina,10.3,,23.8,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),INSC EXPRESS,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 CORE,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 EXCELLEN,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 INSCRIPT,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 MOMENTUM,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 PLUS,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 POLESTAR,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 R-DESIGN,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 ULT DARK,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 ULTIMATE,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,VOLVO,XC90 (MY25),T8 ULTRA,2.0-16V,Plug-in,A,S,E,G,2.0,58.0,1.0,A,,34.0,2.0,,,9.4,9.3,24.1,21.9,0.88,47.0,A,A,SIM,A,,Gasolina,9.36,,23.11,0-50,False,True
+Utilitário Esportivo Grande 4x4,ZEEKR,X,Flagship,Elétrico,Elétrico,A,S,E,E,,,,A,,,,,,,,36.6,32.2,0.59,304.0,A,A,NÃO,A,,Elétrico,,,34.62,,True,True
